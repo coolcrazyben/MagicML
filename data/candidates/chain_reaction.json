@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Jeska's Will",
+    "type_line": "Sorcery",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Mana Geyser",
+    "type_line": "Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Chandra's Ignition",
+    "type_line": "Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Wheel of Fortune",
+    "type_line": "Sorcery",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Sundering Eruption // Volcanic Fissure",
+    "type_line": "Sorcery // Land",
+    "mana_value": 3.0,
+    "mana_cost": "",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Mizzix's Mastery",
+    "type_line": "Sorcery",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Disrupt Decorum",
+    "type_line": "Sorcery",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Seize the Spoils",
+    "type_line": "Sorcery",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Wheel of Misfortune",
+    "type_line": "Sorcery",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Light Up the Stage",
+    "type_line": "Sorcery",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{R}",
+    "color_identity": [
+      "R"
+    ]
+  }
+]

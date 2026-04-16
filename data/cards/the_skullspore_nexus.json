@@ -1,0 +1,145 @@
+{
+  "object": "card",
+  "id": "b56a7631-5f94-468d-aab7-7e9e129c5f49",
+  "oracle_id": "ba26ff0a-e714-44f2-95cf-1a5a6088edf9",
+  "multiverse_ids": [
+    636931
+  ],
+  "mtgo_id": 118258,
+  "arena_id": 87371,
+  "tcgplayer_id": 517519,
+  "cardmarket_id": 734663,
+  "name": "The Skullspore Nexus",
+  "lang": "en",
+  "released_at": "2023-11-17",
+  "uri": "https://api.scryfall.com/cards/b56a7631-5f94-468d-aab7-7e9e129c5f49",
+  "scryfall_uri": "https://scryfall.com/card/lci/212/the-skullspore-nexus?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/5/b56a7631-5f94-468d-aab7-7e9e129c5f49.jpg?1699044489",
+    "normal": "https://cards.scryfall.io/normal/front/b/5/b56a7631-5f94-468d-aab7-7e9e129c5f49.jpg?1699044489",
+    "large": "https://cards.scryfall.io/large/front/b/5/b56a7631-5f94-468d-aab7-7e9e129c5f49.jpg?1699044489",
+    "png": "https://cards.scryfall.io/png/front/b/5/b56a7631-5f94-468d-aab7-7e9e129c5f49.png?1699044489",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/5/b56a7631-5f94-468d-aab7-7e9e129c5f49.jpg?1699044489",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/5/b56a7631-5f94-468d-aab7-7e9e129c5f49.jpg?1699044489"
+  },
+  "mana_cost": "{6}{G}{G}",
+  "cmc": 8.0,
+  "type_line": "Legendary Artifact",
+  "oracle_text": "This spell costs {X} less to cast, where X is the greatest power among creatures you control.\nWhenever one or more nontoken creatures you control die, create a green Fungus Dinosaur creature token with base power and toughness each equal to the total power of those creatures.\n{2}, {T}: Double target creature's power until end of turn.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "f92f2858-e524-4d23-b947-d4dff20e7f59",
+      "component": "token",
+      "name": "Fungus Dinosaur",
+      "type_line": "Token Creature \u2014 Fungus Dinosaur",
+      "uri": "https://api.scryfall.com/cards/f92f2858-e524-4d23-b947-d4dff20e7f59"
+    },
+    {
+      "object": "related_card",
+      "id": "85c4b837-1557-4dda-a324-9646ce702dfd",
+      "component": "combo_piece",
+      "name": "The Skullspore Nexus",
+      "type_line": "Legendary Artifact",
+      "uri": "https://api.scryfall.com/cards/85c4b837-1557-4dda-a324-9646ce702dfd"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "70169a6e-89d1-4a3a-aef7-3152958d55ac",
+  "set": "lci",
+  "set_name": "The Lost Caverns of Ixalan",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/70169a6e-89d1-4a3a-aef7-3152958d55ac",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Alci&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/lci?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b56a7631-5f94-468d-aab7-7e9e129c5f49/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aba26ff0a-e714-44f2-95cf-1a5a6088edf9&unique=prints",
+  "collector_number": "212",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Daarken",
+  "artist_ids": [
+    "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+  ],
+  "illustration_id": "42ca7650-810c-427c-87b6-780f3169faff",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1475,
+  "prices": {
+    "usd": "9.18",
+    "usd_foil": "10.78",
+    "usd_etched": null,
+    "eur": "6.20",
+    "eur_foil": "6.97",
+    "tix": "0.21"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=636931&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThe%2BSkullspore%2BNexus",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThe%2BSkullspore%2BNexus",
+    "edhrec": "https://edhrec.com/route/?cc=The+Skullspore+Nexus"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F517519%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=734663&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/118258?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

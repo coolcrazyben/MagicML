@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Ornithopter of Paradise",
+    "type_line": "Artifact Creature \u2014 Thopter",
+    "mana_value": 2.0,
+    "mana_cost": "{2}",
+    "color_identity": []
+  },
+  {
+    "name": "Foundry Inspector",
+    "type_line": "Artifact Creature \u2014 Construct",
+    "mana_value": 3.0,
+    "mana_cost": "{3}",
+    "color_identity": []
+  },
+  {
+    "name": "Academy Manufactor",
+    "type_line": "Artifact Creature \u2014 Assembly-Worker",
+    "mana_value": 3.0,
+    "mana_cost": "{3}",
+    "color_identity": []
+  },
+  {
+    "name": "Faerie Mastermind",
+    "type_line": "Creature \u2014 Faerie Rogue",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Thassa's Oracle",
+    "type_line": "Creature \u2014 Merfolk Wizard",
+    "mana_value": 2.0,
+    "mana_cost": "{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Burnished Hart",
+    "type_line": "Artifact Creature \u2014 Elk",
+    "mana_value": 3.0,
+    "mana_cost": "{3}",
+    "color_identity": []
+  },
+  {
+    "name": "Etherium Sculptor",
+    "type_line": "Artifact Creature \u2014 Vedalken Artificer",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Laboratory Maniac",
+    "type_line": "Creature \u2014 Human Wizard",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Emry, Lurker of the Loch",
+    "type_line": "Legendary Creature \u2014 Merfolk Wizard",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Hydroelectric Specimen // Hydroelectric Laboratory",
+    "type_line": "Creature \u2014 Weird // Land",
+    "mana_value": 3.0,
+    "mana_cost": "",
+    "color_identity": [
+      "U"
+    ]
+  }
+]

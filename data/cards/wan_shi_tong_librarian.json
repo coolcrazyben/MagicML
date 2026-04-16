@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "e20da6b5-1057-4a28-9e85-07de714e262f",
+  "oracle_id": "2bace3ea-7d28-4a1c-857a-d3c3a1c11b59",
+  "multiverse_ids": [],
+  "resource_id": "EBE9A26B67EF9127C23454957F7557787E38EB8205E0D24E52BC58A8CA0D4325",
+  "mtgo_id": 144636,
+  "tcgplayer_id": 660516,
+  "cardmarket_id": 855706,
+  "name": "Wan Shi Tong, Librarian",
+  "lang": "en",
+  "released_at": "2025-11-21",
+  "uri": "https://api.scryfall.com/cards/e20da6b5-1057-4a28-9e85-07de714e262f",
+  "scryfall_uri": "https://scryfall.com/card/tla/78/wan-shi-tong-librarian?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/2/e20da6b5-1057-4a28-9e85-07de714e262f.jpg?1764120524",
+    "normal": "https://cards.scryfall.io/normal/front/e/2/e20da6b5-1057-4a28-9e85-07de714e262f.jpg?1764120524",
+    "large": "https://cards.scryfall.io/large/front/e/2/e20da6b5-1057-4a28-9e85-07de714e262f.jpg?1764120524",
+    "png": "https://cards.scryfall.io/png/front/e/2/e20da6b5-1057-4a28-9e85-07de714e262f.png?1764120524",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/2/e20da6b5-1057-4a28-9e85-07de714e262f.jpg?1764120524",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/2/e20da6b5-1057-4a28-9e85-07de714e262f.jpg?1764120524"
+  },
+  "mana_cost": "{X}{U}{U}",
+  "cmc": 2.0,
+  "type_line": "Legendary Creature \u2014 Bird Spirit",
+  "oracle_text": "Flash\nFlying, vigilance\nWhen Wan Shi Tong enters, put X +1/+1 counters on him. Then draw half X cards, rounded down.\nWhenever an opponent searches their library, put a +1/+1 counter on Wan Shi Tong and draw a card.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flying",
+    "Vigilance",
+    "Flash"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "118f7e64-5caa-4cb7-99a8-184f4d3a7422",
+  "set": "tla",
+  "set_name": "Avatar: The Last Airbender",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/118f7e64-5caa-4cb7-99a8-184f4d3a7422",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atla&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tla?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e20da6b5-1057-4a28-9e85-07de714e262f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2bace3ea-7d28-4a1c-857a-d3c3a1c11b59&unique=prints",
+  "collector_number": "78",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ryota Murayama",
+  "artist_ids": [
+    "c949b98f-30c7-4c10-9a58-98f1bf50bd09"
+  ],
+  "illustration_id": "4607dca0-451c-4cfc-bdf0-b02e93e7aaa8",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "promo_types": [
+    "universesbeyond"
+  ],
+  "edhrec_rank": 1872,
+  "prices": {
+    "usd": "43.55",
+    "usd_foil": "45.15",
+    "usd_etched": null,
+    "eur": "44.93",
+    "eur_foil": "53.51",
+    "tix": "9.80"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWan%2BShi%2BTong%252C%2BLibrarian",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWan%2BShi%2BTong%252C%2BLibrarian",
+    "edhrec": "https://edhrec.com/route/?cc=Wan+Shi+Tong%2C+Librarian"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F660516%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=855706&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/144636?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

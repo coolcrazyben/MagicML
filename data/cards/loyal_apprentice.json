@@ -1,0 +1,144 @@
+{
+  "object": "card",
+  "id": "d4d469ea-824b-4eff-82e8-2a0b9b4c0e2d",
+  "oracle_id": "7f268b15-ac92-4e98-821b-78d15d9285d9",
+  "multiverse_ids": [
+    696378
+  ],
+  "mtgo_id": 138381,
+  "tcgplayer_id": 624332,
+  "cardmarket_id": 818821,
+  "name": "Loyal Apprentice",
+  "lang": "en",
+  "released_at": "2025-04-11",
+  "uri": "https://api.scryfall.com/cards/d4d469ea-824b-4eff-82e8-2a0b9b4c0e2d",
+  "scryfall_uri": "https://scryfall.com/card/tdc/222/loyal-apprentice?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/4/d4d469ea-824b-4eff-82e8-2a0b9b4c0e2d.jpg?1743206722",
+    "normal": "https://cards.scryfall.io/normal/front/d/4/d4d469ea-824b-4eff-82e8-2a0b9b4c0e2d.jpg?1743206722",
+    "large": "https://cards.scryfall.io/large/front/d/4/d4d469ea-824b-4eff-82e8-2a0b9b4c0e2d.jpg?1743206722",
+    "png": "https://cards.scryfall.io/png/front/d/4/d4d469ea-824b-4eff-82e8-2a0b9b4c0e2d.png?1743206722",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/4/d4d469ea-824b-4eff-82e8-2a0b9b4c0e2d.jpg?1743206722",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/4/d4d469ea-824b-4eff-82e8-2a0b9b4c0e2d.jpg?1743206722"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2.0,
+  "type_line": "Creature \u2014 Human Artificer",
+  "oracle_text": "Haste\nLieutenant \u2014 At the beginning of combat on your turn, if you control your commander, create a 1/1 colorless Thopter artifact creature token with flying. That token gains haste until end of turn.",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Haste",
+    "Lieutenant"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "8cf7fb45-2454-4d3e-a79f-05a3eb8f4da1",
+      "component": "token",
+      "name": "Thopter",
+      "type_line": "Token Artifact Creature \u2014 Thopter",
+      "uri": "https://api.scryfall.com/cards/8cf7fb45-2454-4d3e-a79f-05a3eb8f4da1"
+    },
+    {
+      "object": "related_card",
+      "id": "d4d469ea-824b-4eff-82e8-2a0b9b4c0e2d",
+      "component": "combo_piece",
+      "name": "Loyal Apprentice",
+      "type_line": "Creature \u2014 Human Artificer",
+      "uri": "https://api.scryfall.com/cards/d4d469ea-824b-4eff-82e8-2a0b9b4c0e2d"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "bca9779c-0a0b-4ac1-8794-f3fc25549cf4",
+  "set": "tdc",
+  "set_name": "Tarkir: Dragonstorm Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/bca9779c-0a0b-4ac1-8794-f3fc25549cf4",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atdc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tdc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d4d469ea-824b-4eff-82e8-2a0b9b4c0e2d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7f268b15-ac92-4e98-821b-78d15d9285d9&unique=prints",
+  "collector_number": "222",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Those with knowledge are wise to listen to those with imagination.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Joe Slucher",
+  "artist_ids": [
+    "13b6c9ee-f7a8-46a4-934f-ea6b4a1b14b2"
+  ],
+  "illustration_id": "f8e2ed85-87f5-49dd-a5f0-e28d1da3aa82",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 710,
+  "prices": {
+    "usd": "0.23",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.26",
+    "eur_foil": null,
+    "tix": "0.52"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=696378&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLoyal%2BApprentice",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLoyal%2BApprentice",
+    "edhrec": "https://edhrec.com/route/?cc=Loyal+Apprentice"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F624332%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=818821&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/138381?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

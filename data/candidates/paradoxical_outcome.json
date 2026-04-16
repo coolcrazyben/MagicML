@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Beast Within",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Chaos Warp",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Fierce Guardianship",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Deflecting Swat",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Frantic Search",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Big Score",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Return of the Wildspeaker",
+    "type_line": "Instant",
+    "mana_value": 5.0,
+    "mana_cost": "{4}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Sink into Stupor // Soporific Springs",
+    "type_line": "Instant // Land",
+    "mana_value": 3.0,
+    "mana_cost": "",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Force of Will",
+    "type_line": "Instant",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Harrow",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{G}",
+    "color_identity": [
+      "G"
+    ]
+  }
+]

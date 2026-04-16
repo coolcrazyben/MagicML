@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Aang's Journey",
+    "type_line": "Sorcery \u2014 Lesson",
+    "mana_value": 2.0,
+    "mana_cost": "{2}",
+    "color_identity": []
+  },
+  {
+    "name": "Introduction to Prophecy",
+    "type_line": "Sorcery \u2014 Lesson",
+    "mana_value": 3.0,
+    "mana_cost": "{3}",
+    "color_identity": []
+  },
+  {
+    "name": "Expanded Anatomy",
+    "type_line": "Sorcery \u2014 Lesson",
+    "mana_value": 3.0,
+    "mana_cost": "{3}",
+    "color_identity": []
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Toxic Deluge",
+    "type_line": "Sorcery",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Jeska's Will",
+    "type_line": "Sorcery",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Victimize",
+    "type_line": "Sorcery",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Mana Geyser",
+    "type_line": "Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Damnation",
+    "type_line": "Sorcery",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Buried Alive",
+    "type_line": "Sorcery",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Read the Bones",
+    "type_line": "Sorcery",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Diabolic Tutor",
+    "type_line": "Sorcery",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Living Death",
+    "type_line": "Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Chandra's Ignition",
+    "type_line": "Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  }
+]

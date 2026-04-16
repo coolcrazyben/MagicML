@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Psychosis Crawler",
+    "type_line": "Artifact Creature \u2014 Phyrexian Horror",
+    "mana_value": 5.0,
+    "mana_cost": "{5}",
+    "color_identity": []
+  },
+  {
+    "name": "Meteor Golem",
+    "type_line": "Artifact Creature \u2014 Golem",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Myr Battlesphere",
+    "type_line": "Artifact Creature \u2014 Myr Construct",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Wurmcoil Engine",
+    "type_line": "Artifact Creature \u2014 Phyrexian Wurm",
+    "mana_value": 6.0,
+    "mana_cost": "{6}",
+    "color_identity": []
+  },
+  {
+    "name": "Wandering Archaic // Explore the Vastlands",
+    "type_line": "Creature \u2014 Avatar // Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "",
+    "color_identity": []
+  },
+  {
+    "name": "Platinum Angel",
+    "type_line": "Artifact Creature \u2014 Angel",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Threefold Thunderhulk",
+    "type_line": "Artifact Creature \u2014 Gnome",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Oblivion Sower",
+    "type_line": "Creature \u2014 Eldrazi",
+    "mana_value": 6.0,
+    "mana_cost": "{6}",
+    "color_identity": []
+  },
+  {
+    "name": "Cybermen Squadron",
+    "type_line": "Artifact Creature \u2014 Cyberman",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Endbringer",
+    "type_line": "Creature \u2014 Eldrazi",
+    "mana_value": 6.0,
+    "mana_cost": "{5}{C}",
+    "color_identity": []
+  }
+]

@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "2fa1dac5-51ba-403e-b48b-d2c0d23a8146",
+  "oracle_id": "2b76f9e9-cd28-4eaf-8674-215c34263f96",
+  "multiverse_ids": [],
+  "resource_id": "DA53FE4F0F9F9C96733DEB265DAE1BF5CA49DBB43087FDC557B4AC1F2F156D78",
+  "mtgo_id": 146165,
+  "tcgplayer_id": 671239,
+  "cardmarket_id": 865047,
+  "name": "Return of the Wildspeaker",
+  "lang": "en",
+  "released_at": "2026-01-23",
+  "uri": "https://api.scryfall.com/cards/2fa1dac5-51ba-403e-b48b-d2c0d23a8146",
+  "scryfall_uri": "https://scryfall.com/card/ecc/115/return-of-the-wildspeaker?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/f/2fa1dac5-51ba-403e-b48b-d2c0d23a8146.jpg?1767731248",
+    "normal": "https://cards.scryfall.io/normal/front/2/f/2fa1dac5-51ba-403e-b48b-d2c0d23a8146.jpg?1767731248",
+    "large": "https://cards.scryfall.io/large/front/2/f/2fa1dac5-51ba-403e-b48b-d2c0d23a8146.jpg?1767731248",
+    "png": "https://cards.scryfall.io/png/front/2/f/2fa1dac5-51ba-403e-b48b-d2c0d23a8146.png?1767731248",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/f/2fa1dac5-51ba-403e-b48b-d2c0d23a8146.jpg?1767731248",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/f/2fa1dac5-51ba-403e-b48b-d2c0d23a8146.jpg?1767731248"
+  },
+  "mana_cost": "{4}{G}",
+  "cmc": 5.0,
+  "type_line": "Instant",
+  "oracle_text": "Choose one \u2014\n\u2022 Draw cards equal to the greatest power among non-Human creatures you control.\n\u2022 Non-Human creatures you control get +3/+3 until end of turn.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "805b5a0c-f8bb-4555-86ea-eb9ec36a011a",
+  "set": "ecc",
+  "set_name": "Lorwyn Eclipsed Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/805b5a0c-f8bb-4555-86ea-eb9ec36a011a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aecc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ecc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2fa1dac5-51ba-403e-b48b-d2c0d23a8146/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2b76f9e9-cd28-4eaf-8674-215c34263f96&unique=prints",
+  "collector_number": "115",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"The curse is broken.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Rallis",
+  "artist_ids": [
+    "a8e7b854-b15a-421a-b66d-6e68187ae285"
+  ],
+  "illustration_id": "e83973f2-5e30-491e-b15b-82d77bef0a77",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 174,
+  "penny_rank": 7402,
+  "prices": {
+    "usd": "0.78",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.77",
+    "eur_foil": null,
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DReturn%2Bof%2Bthe%2BWildspeaker",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DReturn%2Bof%2Bthe%2BWildspeaker",
+    "edhrec": "https://edhrec.com/route/?cc=Return+of+the+Wildspeaker"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F671239%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=865047&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/146165?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

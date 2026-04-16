@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "71106361-b5b9-403c-b3b1-afe3337e9e3d",
+  "oracle_id": "d2145ad3-fe7e-459b-b155-1b3ed089e936",
+  "multiverse_ids": [
+    397805
+  ],
+  "mtgo_id": 57252,
+  "mtgo_foil_id": 57253,
+  "tcgplayer_id": 98771,
+  "cardmarket_id": 282911,
+  "name": "Steady Progress",
+  "lang": "en",
+  "released_at": "2015-05-22",
+  "uri": "https://api.scryfall.com/cards/71106361-b5b9-403c-b3b1-afe3337e9e3d",
+  "scryfall_uri": "https://scryfall.com/card/mm2/58/steady-progress?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/1/71106361-b5b9-403c-b3b1-afe3337e9e3d.jpg?1562263746",
+    "normal": "https://cards.scryfall.io/normal/front/7/1/71106361-b5b9-403c-b3b1-afe3337e9e3d.jpg?1562263746",
+    "large": "https://cards.scryfall.io/large/front/7/1/71106361-b5b9-403c-b3b1-afe3337e9e3d.jpg?1562263746",
+    "png": "https://cards.scryfall.io/png/front/7/1/71106361-b5b9-403c-b3b1-afe3337e9e3d.png?1562263746",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/1/71106361-b5b9-403c-b3b1-afe3337e9e3d.jpg?1562263746",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/1/71106361-b5b9-403c-b3b1-afe3337e9e3d.jpg?1562263746"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3.0,
+  "type_line": "Instant",
+  "oracle_text": "Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)\nDraw a card.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Proliferate"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "28cac015-43df-4e88-90d0-95dcdd894834",
+  "set": "mm2",
+  "set_name": "Modern Masters 2015",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/28cac015-43df-4e88-90d0-95dcdd894834",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/71106361-b5b9-403c-b3b1-afe3337e9e3d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad2145ad3-fe7e-459b-b155-1b3ed089e936&unique=prints",
+  "collector_number": "58",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"More of that strange oil . . . It's probably nothing.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Efrem Palacios",
+  "artist_ids": [
+    "6cec4bf2-712b-4349-ad29-029b63f71639"
+  ],
+  "illustration_id": "4b97d4e7-7693-41b2-b0eb-7797670f380b",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 4748,
+  "penny_rank": 9027,
+  "prices": {
+    "usd": "0.27",
+    "usd_foil": "1.61",
+    "usd_etched": null,
+    "eur": "0.25",
+    "eur_foil": "0.57",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397805&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSteady%2BProgress",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSteady%2BProgress",
+    "edhrec": "https://edhrec.com/route/?cc=Steady+Progress"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F98771%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=282911&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/57252?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

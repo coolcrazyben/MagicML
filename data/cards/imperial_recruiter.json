@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "05bd329b-5707-42fc-af1c-084cc604e805",
+  "oracle_id": "4d6a1391-817a-4ddc-840d-886b138eeb3f",
+  "multiverse_ids": [
+    526252
+  ],
+  "mtgo_id": 90985,
+  "tcgplayer_id": 239769,
+  "tcgplayer_etched_id": 240826,
+  "cardmarket_id": 566323,
+  "name": "Imperial Recruiter",
+  "lang": "en",
+  "released_at": "2021-06-18",
+  "uri": "https://api.scryfall.com/cards/05bd329b-5707-42fc-af1c-084cc604e805",
+  "scryfall_uri": "https://scryfall.com/card/mh2/281/imperial-recruiter?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/5/05bd329b-5707-42fc-af1c-084cc604e805.jpg?1626100528",
+    "normal": "https://cards.scryfall.io/normal/front/0/5/05bd329b-5707-42fc-af1c-084cc604e805.jpg?1626100528",
+    "large": "https://cards.scryfall.io/large/front/0/5/05bd329b-5707-42fc-af1c-084cc604e805.jpg?1626100528",
+    "png": "https://cards.scryfall.io/png/front/0/5/05bd329b-5707-42fc-af1c-084cc604e805.png?1626100528",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/5/05bd329b-5707-42fc-af1c-084cc604e805.jpg?1626100528",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/5/05bd329b-5707-42fc-af1c-084cc604e805.jpg?1626100528"
+  },
+  "mana_cost": "{2}{R}",
+  "cmc": 3.0,
+  "type_line": "Creature \u2014 Human Advisor",
+  "oracle_text": "When this creature enters, search your library for a creature card with power 2 or less, reveal it, put it into your hand, then shuffle.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil",
+    "etched"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c1c7eb8c-f205-40ab-a609-767cb296544e",
+  "set": "mh2",
+  "set_name": "Modern Horizons 2",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/c1c7eb8c-f205-40ab-a609-767cb296544e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/05bd329b-5707-42fc-af1c-084cc604e805/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4d6a1391-817a-4ddc-840d-886b138eeb3f&unique=prints",
+  "collector_number": "281",
+  "digital": false,
+  "rarity": "mythic",
+  "watermark": "set",
+  "flavor_text": "A passionate recruiter will win a war before the first arrow flies.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Zack Stella",
+  "artist_ids": [
+    "17bc7f55-958b-43f4-bb40-09746d05b3f9"
+  ],
+  "illustration_id": "411a575f-dcfd-4929-b14e-e68a00a2f277",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 609,
+  "penny_rank": 979,
+  "preview": {
+    "source": "Face to Face Games",
+    "source_uri": "https://magic.facetofacegames.com/exclusive-modern-horizons-2-spoiler-imperial-recruiter/",
+    "previewed_at": "2021-05-26"
+  },
+  "prices": {
+    "usd": "12.29",
+    "usd_foil": "17.42",
+    "usd_etched": "15.70",
+    "eur": "8.76",
+    "eur_foil": "10.51",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=526252&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DImperial%2BRecruiter",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DImperial%2BRecruiter",
+    "edhrec": "https://edhrec.com/route/?cc=Imperial+Recruiter"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F239769%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=566323&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/90985?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

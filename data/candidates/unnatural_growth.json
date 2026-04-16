@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Doubling Season",
+    "type_line": "Enchantment",
+    "mana_value": 5.0,
+    "mana_cost": "{4}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Guardian Project",
+    "type_line": "Enchantment",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Parallel Lives",
+    "type_line": "Enchantment",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Greater Good",
+    "type_line": "Enchantment",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Eidolon of Blossoms",
+    "type_line": "Enchantment Creature \u2014 Spirit",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Bear Umbra",
+    "type_line": "Enchantment \u2014 Aura",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Wilderness Reclamation",
+    "type_line": "Enchantment",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Arasta of the Endless Web",
+    "type_line": "Legendary Enchantment Creature \u2014 Spider",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Primal Vigor",
+    "type_line": "Enchantment",
+    "mana_value": 5.0,
+    "mana_cost": "{4}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Case of the Locked Hothouse",
+    "type_line": "Enchantment \u2014 Case",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{G}",
+    "color_identity": [
+      "G"
+    ]
+  }
+]

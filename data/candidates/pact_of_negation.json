@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Swords to Plowshares",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{W}",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Path to Exile",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{W}",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Dark Ritual",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "An Offer You Can't Refuse",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Brainstorm",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Swan Song",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Vampiric Tutor",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Enlightened Tutor",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{W}",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Mystical Tutor",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Pongify",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{U}",
+    "color_identity": [
+      "U"
+    ]
+  }
+]

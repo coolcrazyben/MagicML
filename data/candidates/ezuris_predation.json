@@ -1,0 +1,88 @@
+[
+  {
+    "name": "All Is Dust",
+    "type_line": "Kindred Sorcery \u2014 Eldrazi",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Last March of the Ents",
+    "type_line": "Sorcery",
+    "mana_value": 8.0,
+    "mana_cost": "{6}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Beanstalk Giant // Fertile Footsteps",
+    "type_line": "Creature \u2014 Giant // Sorcery \u2014 Adventure",
+    "mana_value": 7.0,
+    "mana_cost": "{6}{G} // {2}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Turntimber Symbiosis // Turntimber, Serpentine Wood",
+    "type_line": "Sorcery // Land",
+    "mana_value": 7.0,
+    "mana_cost": "",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Virtue of Strength // Garenbrig Growth",
+    "type_line": "Enchantment // Sorcery \u2014 Adventure",
+    "mana_value": 7.0,
+    "mana_cost": "{5}{G}{G} // {G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Tooth and Nail",
+    "type_line": "Sorcery",
+    "mana_value": 7.0,
+    "mana_cost": "{5}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Reshape the Earth",
+    "type_line": "Sorcery",
+    "mana_value": 9.0,
+    "mana_cost": "{6}{G}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Preposterous Proportions",
+    "type_line": "Sorcery",
+    "mana_value": 7.0,
+    "mana_cost": "{5}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Skittering Invasion",
+    "type_line": "Kindred Sorcery \u2014 Eldrazi",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Tlincalli Hunter // Retrieve Prey",
+    "type_line": "Creature \u2014 Scorpion Scout // Sorcery \u2014 Adventure",
+    "mana_value": 7.0,
+    "mana_cost": "{5}{G}{G} // {1}{G}",
+    "color_identity": [
+      "G"
+    ]
+  }
+]

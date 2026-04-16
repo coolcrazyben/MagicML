@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Super State",
+    "type_line": "Legendary Enchantment \u2014 Aura",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Faceless One",
+    "type_line": "Legendary Enchantment Creature \u2014 Background",
+    "mana_value": 5.0,
+    "mana_cost": "{5}",
+    "color_identity": []
+  }
+]

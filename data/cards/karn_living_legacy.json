@@ -1,0 +1,156 @@
+{
+  "object": "card",
+  "id": "e83b1b87-01d5-4624-8a2b-4b771e13e59c",
+  "oracle_id": "09ab1278-811f-4b97-bd34-7493d6e081e9",
+  "multiverse_ids": [
+    574481
+  ],
+  "mtgo_id": 102478,
+  "arena_id": 82053,
+  "tcgplayer_id": 283122,
+  "cardmarket_id": 671602,
+  "name": "Karn, Living Legacy",
+  "lang": "en",
+  "released_at": "2022-09-09",
+  "uri": "https://api.scryfall.com/cards/e83b1b87-01d5-4624-8a2b-4b771e13e59c",
+  "scryfall_uri": "https://scryfall.com/card/dmu/1/karn-living-legacy?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/8/e83b1b87-01d5-4624-8a2b-4b771e13e59c.jpg?1686553669",
+    "normal": "https://cards.scryfall.io/normal/front/e/8/e83b1b87-01d5-4624-8a2b-4b771e13e59c.jpg?1686553669",
+    "large": "https://cards.scryfall.io/large/front/e/8/e83b1b87-01d5-4624-8a2b-4b771e13e59c.jpg?1686553669",
+    "png": "https://cards.scryfall.io/png/front/e/8/e83b1b87-01d5-4624-8a2b-4b771e13e59c.png?1686553669",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/8/e83b1b87-01d5-4624-8a2b-4b771e13e59c.jpg?1686553669",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/8/e83b1b87-01d5-4624-8a2b-4b771e13e59c.jpg?1686553669"
+  },
+  "mana_cost": "{4}",
+  "cmc": 4.0,
+  "type_line": "Legendary Planeswalker \u2014 Karn",
+  "oracle_text": "+1: Create a tapped Powerstone token. (It's an artifact with \"{T}: Add {C}. This mana can't be spent to cast a nonartifact spell.\")\n\u22121: Pay any amount of mana. Look at that many cards from the top of your library, then put one of those cards into your hand and the rest on the bottom of your library in a random order.\n\u22127: You get an emblem with \"Tap an untapped artifact you control: This emblem deals 1 damage to any target.\"",
+  "loyalty": "4",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "produced_mana": [
+    "C"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "493341c3-1f59-4d7e-b852-1449a2333be9",
+      "component": "combo_piece",
+      "name": "Karn, Living Legacy",
+      "type_line": "Legendary Planeswalker \u2014 Karn",
+      "uri": "https://api.scryfall.com/cards/493341c3-1f59-4d7e-b852-1449a2333be9"
+    },
+    {
+      "object": "related_card",
+      "id": "447af615-1e59-471f-886b-bf46007a938d",
+      "component": "token",
+      "name": "Powerstone",
+      "type_line": "Token Artifact \u2014 Powerstone",
+      "uri": "https://api.scryfall.com/cards/447af615-1e59-471f-886b-bf46007a938d"
+    },
+    {
+      "object": "related_card",
+      "id": "0c96e084-88b9-4390-bca2-5d1b7a459abc",
+      "component": "combo_piece",
+      "name": "A-Karn, Living Legacy",
+      "type_line": "Legendary Planeswalker \u2014 Karn",
+      "uri": "https://api.scryfall.com/cards/0c96e084-88b9-4390-bca2-5d1b7a459abc"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4e47a6cd-cdeb-4b0f-8f24-cfe1a0127cb3",
+  "set": "dmu",
+  "set_name": "Dominaria United",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/4e47a6cd-cdeb-4b0f-8f24-cfe1a0127cb3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Admu&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dmu?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e83b1b87-01d5-4624-8a2b-4b771e13e59c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A09ab1278-811f-4b97-bd34-7493d6e081e9&unique=prints",
+  "collector_number": "1",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Rahn",
+  "artist_ids": [
+    "7742047e-0f80-4c0f-a530-d07460165e86"
+  ],
+  "illustration_id": "ea860778-f298-4d7f-a255-cbee79f54b45",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 5153,
+  "penny_rank": 8864,
+  "preview": {
+    "source": "Voxy",
+    "source_uri": "https://twitter.com/VoxyTwitch/status/1561035114557095938",
+    "previewed_at": "2022-08-20"
+  },
+  "prices": {
+    "usd": "1.26",
+    "usd_foil": "1.70",
+    "usd_etched": null,
+    "eur": "1.10",
+    "eur_foil": "2.06",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574481&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKarn%252C%2BLiving%2BLegacy",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKarn%252C%2BLiving%2BLegacy",
+    "edhrec": "https://edhrec.com/route/?cc=Karn%2C+Living+Legacy"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F283122%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=671602&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/102478?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

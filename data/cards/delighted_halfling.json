@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "71384418-173a-4f77-adab-56e52fa23692",
+  "oracle_id": "f9d3b046-0b95-4103-a630-4b3fb88bb60b",
+  "multiverse_ids": [
+    616988
+  ],
+  "mtgo_id": 112226,
+  "arena_id": 84850,
+  "tcgplayer_id": 498414,
+  "cardmarket_id": 715938,
+  "name": "Delighted Halfling",
+  "lang": "en",
+  "released_at": "2023-06-23",
+  "uri": "https://api.scryfall.com/cards/71384418-173a-4f77-adab-56e52fa23692",
+  "scryfall_uri": "https://scryfall.com/card/ltr/158/delighted-halfling?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/1/71384418-173a-4f77-adab-56e52fa23692.jpg?1686969281",
+    "normal": "https://cards.scryfall.io/normal/front/7/1/71384418-173a-4f77-adab-56e52fa23692.jpg?1686969281",
+    "large": "https://cards.scryfall.io/large/front/7/1/71384418-173a-4f77-adab-56e52fa23692.jpg?1686969281",
+    "png": "https://cards.scryfall.io/png/front/7/1/71384418-173a-4f77-adab-56e52fa23692.png?1686969281",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/1/71384418-173a-4f77-adab-56e52fa23692.jpg?1686969281",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/1/71384418-173a-4f77-adab-56e52fa23692.jpg?1686969281"
+  },
+  "mana_cost": "{G}",
+  "cmc": 1.0,
+  "type_line": "Creature \u2014 Halfling Citizen",
+  "oracle_text": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a legendary spell, and that spell can't be countered.",
+  "power": "1",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "C",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "08078706-ac5d-439b-8f01-894d38751367",
+  "set": "ltr",
+  "set_name": "The Lord of the Rings: Tales of Middle-earth",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/08078706-ac5d-439b-8f01-894d38751367",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Altr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ltr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/71384418-173a-4f77-adab-56e52fa23692/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af9d3b046-0b95-4103-a630-4b3fb88bb60b&unique=prints",
+  "collector_number": "158",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "There were toys the Hobbit-children had never seen before, all beautiful, and some obviously magical.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Inka Schulz",
+  "artist_ids": [
+    "3f93408e-c510-42a5-beef-9ddbc56d9056"
+  ],
+  "illustration_id": "9328768c-3441-48d5-a481-8303e36c19a9",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "promo_types": [
+    "universesbeyond"
+  ],
+  "edhrec_rank": 157,
+  "preview": {
+    "source": "TheOneRing.net",
+    "source_uri": "https://www.theonering.net/torwp/2023/05/08/116501-lord-of-the-rings-tales-of-middle-earth-artist-talks-adapting-tolkien-for-magic-the-gathering/",
+    "previewed_at": "2023-05-29"
+  },
+  "prices": {
+    "usd": "25.65",
+    "usd_foil": "26.63",
+    "usd_etched": null,
+    "eur": "15.60",
+    "eur_foil": "16.99",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=616988&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDelighted%2BHalfling",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDelighted%2BHalfling",
+    "edhrec": "https://edhrec.com/route/?cc=Delighted+Halfling"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F498414%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=715938&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/112226?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

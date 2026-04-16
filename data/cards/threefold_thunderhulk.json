@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "699d1222-f150-46aa-9004-87b45f07eb42",
+  "oracle_id": "b8020a8b-557b-465d-865d-b59fecd7abc1",
+  "multiverse_ids": [],
+  "resource_id": "4E363134DE4A4BADFF538295DEAAA96E8716FDF756A97284286BFB377FDBA5A0",
+  "mtgo_id": 142427,
+  "tcgplayer_id": 642841,
+  "cardmarket_id": 834290,
+  "name": "Threefold Thunderhulk",
+  "lang": "en",
+  "released_at": "2025-08-01",
+  "uri": "https://api.scryfall.com/cards/699d1222-f150-46aa-9004-87b45f07eb42",
+  "scryfall_uri": "https://scryfall.com/card/eoc/145/threefold-thunderhulk?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/9/699d1222-f150-46aa-9004-87b45f07eb42.jpg?1752945202",
+    "normal": "https://cards.scryfall.io/normal/front/6/9/699d1222-f150-46aa-9004-87b45f07eb42.jpg?1752945202",
+    "large": "https://cards.scryfall.io/large/front/6/9/699d1222-f150-46aa-9004-87b45f07eb42.jpg?1752945202",
+    "png": "https://cards.scryfall.io/png/front/6/9/699d1222-f150-46aa-9004-87b45f07eb42.png?1752945202",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/9/699d1222-f150-46aa-9004-87b45f07eb42.jpg?1752945202",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/9/699d1222-f150-46aa-9004-87b45f07eb42.jpg?1752945202"
+  },
+  "mana_cost": "{7}",
+  "cmc": 7.0,
+  "type_line": "Artifact Creature \u2014 Gnome",
+  "oracle_text": "This creature enters with three +1/+1 counters on it.\nWhenever this creature enters or attacks, create a number of 1/1 colorless Gnome artifact creature tokens equal to its power.\n{2}, Sacrifice another artifact: Put a +1/+1 counter on this creature.",
+  "power": "0",
+  "toughness": "0",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "e32673cc-bec9-49b3-bc34-e2b3982ca245",
+      "component": "token",
+      "name": "Gnome",
+      "type_line": "Token Artifact Creature \u2014 Gnome",
+      "uri": "https://api.scryfall.com/cards/e32673cc-bec9-49b3-bc34-e2b3982ca245"
+    },
+    {
+      "object": "related_card",
+      "id": "699d1222-f150-46aa-9004-87b45f07eb42",
+      "component": "combo_piece",
+      "name": "Threefold Thunderhulk",
+      "type_line": "Artifact Creature \u2014 Gnome",
+      "uri": "https://api.scryfall.com/cards/699d1222-f150-46aa-9004-87b45f07eb42"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "b6ec8c6b-b4e6-4cb4-84d6-06234ace3b44",
+  "set": "eoc",
+  "set_name": "Edge of Eternities Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/b6ec8c6b-b4e6-4cb4-84d6-06234ace3b44",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aeoc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/eoc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/699d1222-f150-46aa-9004-87b45f07eb42/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab8020a8b-557b-465d-865d-b59fecd7abc1&unique=prints",
+  "collector_number": "145",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Xavier Ribeiro",
+  "artist_ids": [
+    "e17c2662-0491-47b2-bf1d-8c111a8ad3f8"
+  ],
+  "illustration_id": "780e4867-9ed6-41ba-af74-e641347333e1",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1800,
+  "penny_rank": 4937,
+  "preview": {
+    "source": "EDHijinks",
+    "source_uri": "https://www.youtube.com/watch?v=Swjj0JGhFco",
+    "previewed_at": "2025-07-10"
+  },
+  "prices": {
+    "usd": "0.29",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.28",
+    "eur_foil": null,
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThreefold%2BThunderhulk",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThreefold%2BThunderhulk",
+    "edhrec": "https://edhrec.com/route/?cc=Threefold+Thunderhulk"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F642841%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=834290&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/142427?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

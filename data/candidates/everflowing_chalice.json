@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Sol Ring",
+    "type_line": "Artifact",
+    "mana_value": 1.0,
+    "mana_cost": "{1}",
+    "color_identity": []
+  },
+  {
+    "name": "Skullclamp",
+    "type_line": "Artifact \u2014 Equipment",
+    "mana_value": 1.0,
+    "mana_cost": "{1}",
+    "color_identity": []
+  },
+  {
+    "name": "Wayfarer's Bauble",
+    "type_line": "Artifact",
+    "mana_value": 1.0,
+    "mana_cost": "{1}",
+    "color_identity": []
+  },
+  {
+    "name": "Lotus Petal",
+    "type_line": "Artifact",
+    "mana_value": 0.0,
+    "mana_cost": "{0}",
+    "color_identity": []
+  },
+  {
+    "name": "Chrome Mox",
+    "type_line": "Artifact",
+    "mana_value": 0.0,
+    "mana_cost": "{0}",
+    "color_identity": []
+  },
+  {
+    "name": "Mana Vault",
+    "type_line": "Artifact",
+    "mana_value": 1.0,
+    "mana_cost": "{1}",
+    "color_identity": []
+  },
+  {
+    "name": "Mox Amber",
+    "type_line": "Legendary Artifact",
+    "mana_value": 0.0,
+    "mana_cost": "{0}",
+    "color_identity": []
+  },
+  {
+    "name": "Sensei's Divining Top",
+    "type_line": "Artifact",
+    "mana_value": 1.0,
+    "mana_cost": "{1}",
+    "color_identity": []
+  },
+  {
+    "name": "Mox Opal",
+    "type_line": "Legendary Artifact",
+    "mana_value": 0.0,
+    "mana_cost": "{0}",
+    "color_identity": []
+  },
+  {
+    "name": "Mox Diamond",
+    "type_line": "Artifact",
+    "mana_value": 0.0,
+    "mana_cost": "{0}",
+    "color_identity": []
+  }
+]

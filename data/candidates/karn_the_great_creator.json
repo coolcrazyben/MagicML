@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Tezzeret, Cruel Captain",
+    "type_line": "Legendary Planeswalker \u2014 Tezzeret",
+    "mana_value": 3.0,
+    "mana_cost": "{3}",
+    "color_identity": []
+  },
+  {
+    "name": "The Aetherspark",
+    "type_line": "Legendary Artifact Planeswalker \u2014 Equipment",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Karn, Living Legacy",
+    "type_line": "Legendary Planeswalker \u2014 Karn",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Karn, Scion of Urza",
+    "type_line": "Legendary Planeswalker \u2014 Karn",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  }
+]

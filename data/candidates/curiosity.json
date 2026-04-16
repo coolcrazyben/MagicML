@@ -1,0 +1,88 @@
+[
+  {
+    "name": "Mystic Remora",
+    "type_line": "Enchantment",
+    "mana_value": 1.0,
+    "mana_cost": "{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Urza's Saga",
+    "type_line": "Enchantment Land \u2014 Urza's Saga",
+    "mana_value": 0.0,
+    "mana_cost": "",
+    "color_identity": []
+  },
+  {
+    "name": "Wizard Class",
+    "type_line": "Enchantment \u2014 Class",
+    "mana_value": 1.0,
+    "mana_cost": "{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Aqueous Form",
+    "type_line": "Enchantment \u2014 Aura",
+    "mana_value": 1.0,
+    "mana_cost": "{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Training Grounds",
+    "type_line": "Enchantment",
+    "mana_value": 1.0,
+    "mana_cost": "{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Ominous Seas",
+    "type_line": "Enchantment",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Silent Hallcreeper",
+    "type_line": "Enchantment Creature \u2014 Horror",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Valgavoth's Lair",
+    "type_line": "Enchantment Land",
+    "mana_value": 0.0,
+    "mana_cost": "",
+    "color_identity": []
+  },
+  {
+    "name": "Proft's Eidetic Memory",
+    "type_line": "Legendary Enchantment",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Witness Protection",
+    "type_line": "Enchantment \u2014 Aura",
+    "mana_value": 1.0,
+    "mana_cost": "{U}",
+    "color_identity": [
+      "U"
+    ]
+  }
+]

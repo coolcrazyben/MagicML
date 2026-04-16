@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Sol Ring",
+    "type_line": "Artifact",
+    "mana_value": 1.0,
+    "mana_cost": "{1}",
+    "color_identity": []
+  },
+  {
+    "name": "Arcane Signet",
+    "type_line": "Artifact",
+    "mana_value": 2.0,
+    "mana_cost": "{2}",
+    "color_identity": []
+  },
+  {
+    "name": "Swiftfoot Boots",
+    "type_line": "Artifact \u2014 Equipment",
+    "mana_value": 2.0,
+    "mana_cost": "{2}",
+    "color_identity": []
+  },
+  {
+    "name": "Lightning Greaves",
+    "type_line": "Artifact \u2014 Equipment",
+    "mana_value": 2.0,
+    "mana_cost": "{2}",
+    "color_identity": []
+  },
+  {
+    "name": "Fellwar Stone",
+    "type_line": "Artifact",
+    "mana_value": 2.0,
+    "mana_cost": "{2}",
+    "color_identity": []
+  },
+  {
+    "name": "Thought Vessel",
+    "type_line": "Artifact",
+    "mana_value": 2.0,
+    "mana_cost": "{2}",
+    "color_identity": []
+  },
+  {
+    "name": "Mind Stone",
+    "type_line": "Artifact",
+    "mana_value": 2.0,
+    "mana_cost": "{2}",
+    "color_identity": []
+  },
+  {
+    "name": "Wayfarer's Bauble",
+    "type_line": "Artifact",
+    "mana_value": 1.0,
+    "mana_cost": "{1}",
+    "color_identity": []
+  },
+  {
+    "name": "Lotus Petal",
+    "type_line": "Artifact",
+    "mana_value": 0.0,
+    "mana_cost": "{0}",
+    "color_identity": []
+  },
+  {
+    "name": "Chrome Mox",
+    "type_line": "Artifact",
+    "mana_value": 0.0,
+    "mana_cost": "{0}",
+    "color_identity": []
+  }
+]

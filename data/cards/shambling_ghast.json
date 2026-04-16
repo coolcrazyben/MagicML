@@ -1,0 +1,153 @@
+{
+  "object": "card",
+  "id": "d96198a7-dd19-4940-bf8f-23135011fc84",
+  "oracle_id": "e5e6229a-3422-4afd-9a87-86daa2d31d3a",
+  "multiverse_ids": [
+    527406
+  ],
+  "mtgo_id": 91740,
+  "arena_id": 77224,
+  "tcgplayer_id": 243154,
+  "cardmarket_id": 571245,
+  "name": "Shambling Ghast",
+  "lang": "en",
+  "released_at": "2021-07-23",
+  "uri": "https://api.scryfall.com/cards/d96198a7-dd19-4940-bf8f-23135011fc84",
+  "scryfall_uri": "https://scryfall.com/card/afr/119/shambling-ghast?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/9/d96198a7-dd19-4940-bf8f-23135011fc84.jpg?1627705376",
+    "normal": "https://cards.scryfall.io/normal/front/d/9/d96198a7-dd19-4940-bf8f-23135011fc84.jpg?1627705376",
+    "large": "https://cards.scryfall.io/large/front/d/9/d96198a7-dd19-4940-bf8f-23135011fc84.jpg?1627705376",
+    "png": "https://cards.scryfall.io/png/front/d/9/d96198a7-dd19-4940-bf8f-23135011fc84.png?1627705376",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/9/d96198a7-dd19-4940-bf8f-23135011fc84.jpg?1627705376",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/9/d96198a7-dd19-4940-bf8f-23135011fc84.jpg?1627705376"
+  },
+  "mana_cost": "{B}",
+  "cmc": 1.0,
+  "type_line": "Creature \u2014 Zombie",
+  "oracle_text": "When this creature dies, choose one \u2014\n\u2022 Target creature an opponent controls gets -1/-1 until end of turn.\n\u2022 Create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Treasure"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "a3a684b7-27e0-4d9e-a064-9e03c6e50c89",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact \u2014 Treasure",
+      "uri": "https://api.scryfall.com/cards/a3a684b7-27e0-4d9e-a064-9e03c6e50c89"
+    },
+    {
+      "object": "related_card",
+      "id": "d96198a7-dd19-4940-bf8f-23135011fc84",
+      "component": "combo_piece",
+      "name": "Shambling Ghast",
+      "type_line": "Creature \u2014 Zombie",
+      "uri": "https://api.scryfall.com/cards/d96198a7-dd19-4940-bf8f-23135011fc84"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "e1ef87ba-ba92-4573-817f-543b996d2851",
+  "set": "afr",
+  "set_name": "Adventures in the Forgotten Realms",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/e1ef87ba-ba92-4573-817f-543b996d2851",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aafr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/afr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d96198a7-dd19-4940-bf8f-23135011fc84/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae5e6229a-3422-4afd-9a87-86daa2d31d3a&unique=prints",
+  "collector_number": "119",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Dave Kendall",
+  "artist_ids": [
+    "8a5540a8-18c9-4fa9-802c-59d6866114d5"
+  ],
+  "illustration_id": "af111568-08c9-4cfe-a553-40d14604f501",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3329,
+  "penny_rank": 2025,
+  "prices": {
+    "usd": "0.45",
+    "usd_foil": "3.61",
+    "usd_etched": null,
+    "eur": "0.99",
+    "eur_foil": "1.91",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527406&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DShambling%2BGhast",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DShambling%2BGhast",
+    "edhrec": "https://edhrec.com/route/?cc=Shambling+Ghast"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F243154%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=571245&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/91740?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

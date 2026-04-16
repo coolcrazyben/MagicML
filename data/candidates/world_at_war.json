@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Mana Geyser",
+    "type_line": "Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Chandra's Ignition",
+    "type_line": "Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Chain Reaction",
+    "type_line": "Sorcery",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Mizzix's Mastery",
+    "type_line": "Sorcery",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Disrupt Decorum",
+    "type_line": "Sorcery",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Wandering Archaic // Explore the Vastlands",
+    "type_line": "Creature \u2014 Avatar // Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "",
+    "color_identity": []
+  },
+  {
+    "name": "Past in Flames",
+    "type_line": "Sorcery",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Fiery Confluence",
+    "type_line": "Sorcery",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Relentless Assault",
+    "type_line": "Sorcery",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Full Throttle",
+    "type_line": "Sorcery",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  }
+]

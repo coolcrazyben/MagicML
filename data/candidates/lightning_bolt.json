@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Abrade",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Thrill of Possibility",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Untimely Malfunction",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Demand Answers",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Red Elemental Blast",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Pyroblast",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Tibalt's Trickery",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Return the Favor",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Redirect Lightning",
+    "type_line": "Instant \u2014 Lesson",
+    "mana_value": 1.0,
+    "mana_cost": "{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Pyretic Ritual",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{R}",
+    "color_identity": [
+      "R"
+    ]
+  }
+]

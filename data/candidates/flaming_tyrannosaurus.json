@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Etali, Primal Storm",
+    "type_line": "Legendary Creature \u2014 Elder Dinosaur",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Ancient Copper Dragon",
+    "type_line": "Creature \u2014 Elder Dragon",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Meteor Golem",
+    "type_line": "Artifact Creature \u2014 Golem",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Hellkite Tyrant",
+    "type_line": "Creature \u2014 Dragon",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Myr Battlesphere",
+    "type_line": "Artifact Creature \u2014 Myr Construct",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Combustible Gearhulk",
+    "type_line": "Artifact Creature \u2014 Construct",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Wurmcoil Engine",
+    "type_line": "Artifact Creature \u2014 Phyrexian Wurm",
+    "mana_value": 6.0,
+    "mana_cost": "{6}",
+    "color_identity": []
+  },
+  {
+    "name": "Moraug, Fury of Akoum",
+    "type_line": "Legendary Creature \u2014 Minotaur Warrior",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Lathliss, Dragon Queen",
+    "type_line": "Legendary Creature \u2014 Dragon",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Steel Hellkite",
+    "type_line": "Artifact Creature \u2014 Dragon",
+    "mana_value": 6.0,
+    "mana_cost": "{6}",
+    "color_identity": []
+  }
+]

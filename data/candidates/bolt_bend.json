@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Chaos Warp",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Deflecting Swat",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Big Score",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Unexpected Windfall",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Seething Song",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Valakut Awakening // Valakut Stoneforge",
+    "type_line": "Instant // Land",
+    "mana_value": 3.0,
+    "mana_cost": "",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Flare of Duplication",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{1}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Delayed Blast Fireball",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{1}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Kazuul's Fury // Kazuul's Cliffs",
+    "type_line": "Instant // Land",
+    "mana_value": 3.0,
+    "mana_cost": "",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Two-Handed Axe // Sweeping Cleave",
+    "type_line": "Artifact \u2014 Equipment // Instant \u2014 Adventure",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{R} // {1}{R}",
+    "color_identity": [
+      "R"
+    ]
+  }
+]

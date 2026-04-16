@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Phyrexian Arena",
+    "type_line": "Enchantment",
+    "mana_value": 3.0,
+    "mana_cost": "{1}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Black Market Connections",
+    "type_line": "Enchantment",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Impact Tremors",
+    "type_line": "Enchantment",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Animate Dead",
+    "type_line": "Enchantment \u2014 Aura",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Bastion of Remembrance",
+    "type_line": "Enchantment",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Underworld Breach",
+    "type_line": "Enchantment",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Goblin Bombardment",
+    "type_line": "Enchantment",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Necropotence",
+    "type_line": "Enchantment",
+    "mana_value": 3.0,
+    "mana_cost": "{B}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "The Meathook Massacre",
+    "type_line": "Legendary Enchantment",
+    "mana_value": 2.0,
+    "mana_cost": "{X}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Ripples of Undeath",
+    "type_line": "Enchantment",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{B}",
+    "color_identity": [
+      "B"
+    ]
+  }
+]

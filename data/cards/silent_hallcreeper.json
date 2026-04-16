@@ -1,0 +1,135 @@
+{
+  "object": "card",
+  "id": "aac4f0cc-63be-4f08-956e-39839c9735ba",
+  "oracle_id": "6aea681e-88d2-48df-a717-3ce0bc95205b",
+  "multiverse_ids": [
+    673477
+  ],
+  "mtgo_id": 130275,
+  "arena_id": 92142,
+  "tcgplayer_id": 577658,
+  "cardmarket_id": 788165,
+  "name": "Silent Hallcreeper",
+  "lang": "en",
+  "released_at": "2024-09-27",
+  "uri": "https://api.scryfall.com/cards/aac4f0cc-63be-4f08-956e-39839c9735ba",
+  "scryfall_uri": "https://scryfall.com/card/dsk/72/silent-hallcreeper?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/a/aac4f0cc-63be-4f08-956e-39839c9735ba.jpg?1726286122",
+    "normal": "https://cards.scryfall.io/normal/front/a/a/aac4f0cc-63be-4f08-956e-39839c9735ba.jpg?1726286122",
+    "large": "https://cards.scryfall.io/large/front/a/a/aac4f0cc-63be-4f08-956e-39839c9735ba.jpg?1726286122",
+    "png": "https://cards.scryfall.io/png/front/a/a/aac4f0cc-63be-4f08-956e-39839c9735ba.png?1726286122",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/a/aac4f0cc-63be-4f08-956e-39839c9735ba.jpg?1726286122",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/a/aac4f0cc-63be-4f08-956e-39839c9735ba.jpg?1726286122"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2.0,
+  "type_line": "Enchantment Creature \u2014 Horror",
+  "oracle_text": "This creature can't be blocked.\nWhenever this creature deals combat damage to a player, choose one that hasn't been chosen \u2014\n\u2022 Put two +1/+1 counters on this creature.\n\u2022 Draw a card.\n\u2022 This creature becomes a copy of another target creature you control.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "a111d8a9-b647-48ec-afab-2b78f92173f5",
+  "set": "dsk",
+  "set_name": "Duskmourn: House of Horror",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/a111d8a9-b647-48ec-afab-2b78f92173f5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adsk&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dsk?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/aac4f0cc-63be-4f08-956e-39839c9735ba/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6aea681e-88d2-48df-a717-3ce0bc95205b&unique=prints",
+  "collector_number": "72",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Joshua Raphael",
+  "artist_ids": [
+    "553b2a73-780f-414b-b2d7-3b7888821082"
+  ],
+  "illustration_id": "60c358d4-a5cc-4c14-b285-fc8be42099ba",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "enchantment"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1636,
+  "penny_rank": 4577,
+  "preview": {
+    "source": "iYingdi",
+    "source_uri": "https://www.iyingdi.com/tz/post/5397544",
+    "previewed_at": "2024-09-05"
+  },
+  "prices": {
+    "usd": "2.55",
+    "usd_foil": "1.91",
+    "usd_etched": null,
+    "eur": "1.29",
+    "eur_foil": "1.61",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=673477&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSilent%2BHallcreeper",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSilent%2BHallcreeper",
+    "edhrec": "https://edhrec.com/route/?cc=Silent+Hallcreeper"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F577658%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=788165&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/130275?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Solemn Simulacrum",
+    "type_line": "Artifact Creature \u2014 Golem",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Roaming Throne",
+    "type_line": "Artifact Creature \u2014 Golem",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Mirkwood Bats",
+    "type_line": "Creature \u2014 Bat",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Pitiless Plunderer",
+    "type_line": "Creature \u2014 Human Pirate",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Gray Merchant of Asphodel",
+    "type_line": "Creature \u2014 Zombie",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Syr Konrad, the Grim",
+    "type_line": "Legendary Creature \u2014 Human Knight",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Psychosis Crawler",
+    "type_line": "Artifact Creature \u2014 Phyrexian Horror",
+    "mana_value": 5.0,
+    "mana_cost": "{5}",
+    "color_identity": []
+  },
+  {
+    "name": "Sheoldred, the Apocalypse",
+    "type_line": "Legendary Creature \u2014 Phyrexian Praetor",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Massacre Wurm",
+    "type_line": "Creature \u2014 Phyrexian Wurm",
+    "mana_value": 6.0,
+    "mana_cost": "{3}{B}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Crypt Ghast",
+    "type_line": "Creature \u2014 Spirit",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{B}",
+    "color_identity": [
+      "B"
+    ]
+  }
+]

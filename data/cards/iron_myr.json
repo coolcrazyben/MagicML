@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "5bd0a588-b695-4060-b5d5-c6a74710ff0f",
+  "oracle_id": "6c5cbab6-ee27-46f5-97a7-df85698d1e9f",
+  "multiverse_ids": [
+    194168
+  ],
+  "mtgo_id": 38019,
+  "mtgo_foil_id": 38020,
+  "tcgplayer_id": 36234,
+  "cardmarket_id": 242538,
+  "name": "Iron Myr",
+  "lang": "en",
+  "released_at": "2010-10-01",
+  "uri": "https://api.scryfall.com/cards/5bd0a588-b695-4060-b5d5-c6a74710ff0f",
+  "scryfall_uri": "https://scryfall.com/card/som/168/iron-myr?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/b/5bd0a588-b695-4060-b5d5-c6a74710ff0f.jpg?1562817986",
+    "normal": "https://cards.scryfall.io/normal/front/5/b/5bd0a588-b695-4060-b5d5-c6a74710ff0f.jpg?1562817986",
+    "large": "https://cards.scryfall.io/large/front/5/b/5bd0a588-b695-4060-b5d5-c6a74710ff0f.jpg?1562817986",
+    "png": "https://cards.scryfall.io/png/front/5/b/5bd0a588-b695-4060-b5d5-c6a74710ff0f.png?1562817986",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/b/5bd0a588-b695-4060-b5d5-c6a74710ff0f.jpg?1562817986",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/b/5bd0a588-b695-4060-b5d5-c6a74710ff0f.jpg?1562817986"
+  },
+  "mana_cost": "{2}",
+  "cmc": 2.0,
+  "type_line": "Artifact Creature \u2014 Myr",
+  "oracle_text": "{T}: Add {R}.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "R"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "8f403072-9b22-4e69-8d59-22dc4c97fd8d",
+  "set": "som",
+  "set_name": "Scars of Mirrodin",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/8f403072-9b22-4e69-8d59-22dc4c97fd8d",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asom&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/som?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5bd0a588-b695-4060-b5d5-c6a74710ff0f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6c5cbab6-ee27-46f5-97a7-df85698d1e9f&unique=prints",
+  "collector_number": "168",
+  "digital": false,
+  "rarity": "common",
+  "watermark": "mirran",
+  "flavor_text": "The myr are like rusted metal: gleaming purpose hidden by a thin disguise of debris.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Alan Pollack",
+  "artist_ids": [
+    "70c20ea3-5ad6-4082-a337-6e994ae5828e"
+  ],
+  "illustration_id": "aafd1477-1b84-4a86-9cdb-fb07f863d196",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1182,
+  "penny_rank": 6724,
+  "prices": {
+    "usd": "1.04",
+    "usd_foil": "6.83",
+    "usd_etched": null,
+    "eur": "0.35",
+    "eur_foil": "3.20",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=194168&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DIron%2BMyr",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DIron%2BMyr",
+    "edhrec": "https://edhrec.com/route/?cc=Iron+Myr"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F36234%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=242538&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/38019?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

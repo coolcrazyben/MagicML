@@ -1,0 +1,157 @@
+{
+  "object": "card",
+  "id": "18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312",
+  "oracle_id": "6556c4c0-b10d-4208-821b-0c0a49abd188",
+  "multiverse_ids": [
+    513482,
+    513483
+  ],
+  "mtgo_id": 88487,
+  "arena_id": 76398,
+  "tcgplayer_id": 235660,
+  "cardmarket_id": 557486,
+  "name": "Wandering Archaic // Explore the Vastlands",
+  "lang": "en",
+  "released_at": "2021-04-23",
+  "uri": "https://api.scryfall.com/cards/18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312",
+  "scryfall_uri": "https://scryfall.com/card/stx/6/wandering-archaic-explore-the-vastlands?utm_source=api",
+  "layout": "modal_dfc",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 5.0,
+  "type_line": "Creature \u2014 Avatar // Sorcery",
+  "color_identity": [],
+  "keywords": [],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Wandering Archaic",
+      "mana_cost": "{5}",
+      "type_line": "Creature \u2014 Avatar",
+      "oracle_text": "Whenever an opponent casts an instant or sorcery spell, they may pay {2}. If they don't, you may copy that spell. You may choose new targets for the copy.",
+      "colors": [],
+      "power": "4",
+      "toughness": "4",
+      "flavor_text": "\"Fly the path of nine birds.\"",
+      "artist": "Wayne Reynolds",
+      "artist_id": "afc47cec-3ccc-404e-a8c6-4d83dd504271",
+      "illustration_id": "cc924bfa-c839-4ada-963e-da67983d8213",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/1/8/18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312.jpg?1626663778",
+        "normal": "https://cards.scryfall.io/normal/front/1/8/18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312.jpg?1626663778",
+        "large": "https://cards.scryfall.io/large/front/1/8/18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312.jpg?1626663778",
+        "png": "https://cards.scryfall.io/png/front/1/8/18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312.png?1626663778",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/1/8/18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312.jpg?1626663778",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/1/8/18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312.jpg?1626663778"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Explore the Vastlands",
+      "mana_cost": "{3}",
+      "type_line": "Sorcery",
+      "oracle_text": "Each player looks at the top five cards of their library and may reveal a land card and/or an instant or sorcery card from among them. Each player puts the cards they revealed this way into their hand and the rest on the bottom of their library in a random order. Each player gains 3 life.",
+      "colors": [],
+      "artist": "Wayne Reynolds",
+      "artist_id": "afc47cec-3ccc-404e-a8c6-4d83dd504271",
+      "illustration_id": "7ca56834-8458-4247-a1c7-4a12e3aaf6bc",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/1/8/18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312.jpg?1626663778",
+        "normal": "https://cards.scryfall.io/normal/back/1/8/18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312.jpg?1626663778",
+        "large": "https://cards.scryfall.io/large/back/1/8/18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312.jpg?1626663778",
+        "png": "https://cards.scryfall.io/png/back/1/8/18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312.png?1626663778",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/1/8/18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312.jpg?1626663778",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/1/8/18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312.jpg?1626663778"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "541c3c28-8747-40e5-a231-8e8f33234859",
+  "set": "stx",
+  "set_name": "Strixhaven: School of Mages",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/541c3c28-8747-40e5-a231-8e8f33234859",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Astx&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/stx?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6556c4c0-b10d-4208-821b-0c0a49abd188&unique=prints",
+  "collector_number": "6",
+  "digital": false,
+  "rarity": "rare",
+  "artist": "Wayne Reynolds",
+  "artist_ids": [
+    "afc47cec-3ccc-404e-a8c6-4d83dd504271"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1210,
+  "penny_rank": 9764,
+  "preview": {
+    "source": "MTGGoldfish",
+    "source_uri": "https://www.mtggoldfish.com/articles/exclusive-strixhaven-preview-wandering-archaic-explore-the-vastlands",
+    "previewed_at": "2021-03-30"
+  },
+  "prices": {
+    "usd": "10.81",
+    "usd_foil": "13.20",
+    "usd_etched": null,
+    "eur": "8.10",
+    "eur_foil": "8.56",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513482&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWandering%2BArchaic%2B%252F%252F%2BExplore%2Bthe%2BVastlands",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWandering%2BArchaic%2B%252F%252F%2BExplore%2Bthe%2BVastlands",
+    "edhrec": "https://edhrec.com/route/?cc=Wandering+Archaic"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F235660%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=557486&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/88487?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

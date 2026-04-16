@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Portal to Phyrexia",
+    "type_line": "Artifact",
+    "mana_value": 9.0,
+    "mana_cost": "{9}",
+    "color_identity": []
+  },
+  {
+    "name": "Darksteel Forge",
+    "type_line": "Artifact",
+    "mana_value": 9.0,
+    "mana_cost": "{9}",
+    "color_identity": []
+  },
+  {
+    "name": "The Skullspore Nexus",
+    "type_line": "Legendary Artifact",
+    "mana_value": 8.0,
+    "mana_cost": "{6}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Cityscape Leveler",
+    "type_line": "Artifact Creature \u2014 Construct",
+    "mana_value": 8.0,
+    "mana_cost": "{8}",
+    "color_identity": []
+  },
+  {
+    "name": "Triplicate Titan",
+    "type_line": "Artifact Creature \u2014 Golem",
+    "mana_value": 9.0,
+    "mana_cost": "{9}",
+    "color_identity": []
+  },
+  {
+    "name": "Darksteel Monolith",
+    "type_line": "Artifact",
+    "mana_value": 8.0,
+    "mana_cost": "{8}",
+    "color_identity": []
+  },
+  {
+    "name": "Ancient Stone Idol",
+    "type_line": "Artifact Creature \u2014 Golem",
+    "mana_value": 10.0,
+    "mana_cost": "{10}",
+    "color_identity": []
+  },
+  {
+    "name": "Phyrexian Triniform",
+    "type_line": "Artifact Creature \u2014 Phyrexian Golem",
+    "mana_value": 9.0,
+    "mana_cost": "{9}",
+    "color_identity": []
+  },
+  {
+    "name": "The Walls of Ba Sing Se",
+    "type_line": "Legendary Artifact Creature \u2014 Wall",
+    "mana_value": 8.0,
+    "mana_cost": "{8}",
+    "color_identity": []
+  },
+  {
+    "name": "Maelstrom Colossus",
+    "type_line": "Artifact Creature \u2014 Golem",
+    "mana_value": 8.0,
+    "mana_cost": "{8}",
+    "color_identity": []
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Garruk's Uprising",
+    "type_line": "Enchantment",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Hardened Scales",
+    "type_line": "Enchantment",
+    "mana_value": 1.0,
+    "mana_cost": "{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Wild Growth",
+    "type_line": "Enchantment \u2014 Aura",
+    "mana_value": 1.0,
+    "mana_cost": "{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Sylvan Library",
+    "type_line": "Enchantment",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Dryad of the Ilysian Grove",
+    "type_line": "Enchantment Creature \u2014 Nymph Dryad",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Exploration",
+    "type_line": "Enchantment",
+    "mana_value": 1.0,
+    "mana_cost": "{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Utopia Sprawl",
+    "type_line": "Enchantment \u2014 Aura",
+    "mana_value": 1.0,
+    "mana_cost": "{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Branching Evolution",
+    "type_line": "Enchantment",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Enduring Vitality",
+    "type_line": "Enchantment Creature \u2014 Elk Glimmer",
+    "mana_value": 3.0,
+    "mana_cost": "{1}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun",
+    "type_line": "Legendary Enchantment // Legendary Land",
+    "mana_value": 3.0,
+    "mana_cost": "",
+    "color_identity": [
+      "G"
+    ]
+  }
+]

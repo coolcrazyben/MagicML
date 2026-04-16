@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Windfall",
+    "type_line": "Sorcery",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Fabricate",
+    "type_line": "Sorcery",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Distant Melody",
+    "type_line": "Sorcery",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Curse of the Swine",
+    "type_line": "Sorcery",
+    "mana_value": 2.0,
+    "mana_cost": "{X}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Tezzeret's Gambit",
+    "type_line": "Sorcery",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{U/P}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Solve the Equation",
+    "type_line": "Sorcery",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Irenicus's Vile Duplication",
+    "type_line": "Sorcery",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Rite of Replication",
+    "type_line": "Sorcery",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Finale of Revelation",
+    "type_line": "Sorcery",
+    "mana_value": 2.0,
+    "mana_cost": "{X}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Deep Analysis",
+    "type_line": "Sorcery",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{U}",
+    "color_identity": [
+      "U"
+    ]
+  }
+]

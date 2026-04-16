@@ -1,0 +1,76 @@
+[
+  {
+    "name": "Ghalta, Primal Hunger",
+    "type_line": "Legendary Creature \u2014 Elder Dinosaur",
+    "mana_value": 12.0,
+    "mana_cost": "{10}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Apex Devastator",
+    "type_line": "Creature \u2014 Chimera Hydra",
+    "mana_value": 10.0,
+    "mana_cost": "{8}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Blightsteel Colossus",
+    "type_line": "Artifact Creature \u2014 Phyrexian Golem",
+    "mana_value": 12.0,
+    "mana_cost": "{12}",
+    "color_identity": []
+  },
+  {
+    "name": "Kozilek, Butcher of Truth",
+    "type_line": "Legendary Creature \u2014 Eldrazi",
+    "mana_value": 10.0,
+    "mana_cost": "{10}",
+    "color_identity": []
+  },
+  {
+    "name": "Ulamog, the Ceaseless Hunger",
+    "type_line": "Legendary Creature \u2014 Eldrazi",
+    "mana_value": 10.0,
+    "mana_cost": "{10}",
+    "color_identity": []
+  },
+  {
+    "name": "It That Betrays",
+    "type_line": "Creature \u2014 Eldrazi",
+    "mana_value": 12.0,
+    "mana_cost": "{12}",
+    "color_identity": []
+  },
+  {
+    "name": "Kozilek, the Great Distortion",
+    "type_line": "Legendary Creature \u2014 Eldrazi",
+    "mana_value": 10.0,
+    "mana_cost": "{8}{C}{C}",
+    "color_identity": []
+  },
+  {
+    "name": "Ulamog, the Defiler",
+    "type_line": "Legendary Creature \u2014 Eldrazi",
+    "mana_value": 10.0,
+    "mana_cost": "{10}",
+    "color_identity": []
+  },
+  {
+    "name": "Metalwork Colossus",
+    "type_line": "Artifact Creature \u2014 Construct",
+    "mana_value": 11.0,
+    "mana_cost": "{11}",
+    "color_identity": []
+  },
+  {
+    "name": "Pathrazer of Ulamog",
+    "type_line": "Creature \u2014 Eldrazi",
+    "mana_value": 11.0,
+    "mana_cost": "{11}",
+    "color_identity": []
+  }
+]

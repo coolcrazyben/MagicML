@@ -1,0 +1,140 @@
+{
+  "object": "card",
+  "id": "ba98a4bd-e217-4dba-aee9-315b4f843cdf",
+  "oracle_id": "928bf0d9-89be-462d-aeb7-74a65e95535c",
+  "multiverse_ids": [
+    531938
+  ],
+  "tcgplayer_id": 243740,
+  "cardmarket_id": 572177,
+  "name": "Reckless Endeavor",
+  "lang": "en",
+  "released_at": "2021-07-23",
+  "uri": "https://api.scryfall.com/cards/ba98a4bd-e217-4dba-aee9-315b4f843cdf",
+  "scryfall_uri": "https://scryfall.com/card/afc/33/reckless-endeavor?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/a/ba98a4bd-e217-4dba-aee9-315b4f843cdf.jpg?1631585239",
+    "normal": "https://cards.scryfall.io/normal/front/b/a/ba98a4bd-e217-4dba-aee9-315b4f843cdf.jpg?1631585239",
+    "large": "https://cards.scryfall.io/large/front/b/a/ba98a4bd-e217-4dba-aee9-315b4f843cdf.jpg?1631585239",
+    "png": "https://cards.scryfall.io/png/front/b/a/ba98a4bd-e217-4dba-aee9-315b4f843cdf.png?1631585239",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/a/ba98a4bd-e217-4dba-aee9-315b4f843cdf.jpg?1631585239",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/a/ba98a4bd-e217-4dba-aee9-315b4f843cdf.jpg?1631585239"
+  },
+  "mana_cost": "{5}{R}{R}",
+  "cmc": 7.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Roll two d12 and choose one result. Reckless Endeavor deals damage equal to that result to each creature. Then create a number of Treasure tokens equal to the other result.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Treasure"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "a3a684b7-27e0-4d9e-a064-9e03c6e50c89",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact \u2014 Treasure",
+      "uri": "https://api.scryfall.com/cards/a3a684b7-27e0-4d9e-a064-9e03c6e50c89"
+    },
+    {
+      "object": "related_card",
+      "id": "7541b825-d6de-4cad-b00d-32530835b6f8",
+      "component": "combo_piece",
+      "name": "Reckless Endeavor",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/7541b825-d6de-4cad-b00d-32530835b6f8"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "db1b46f9-893c-4623-9465-985ff6e4472c",
+  "set": "afc",
+  "set_name": "Forgotten Realms Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/db1b46f9-893c-4623-9465-985ff6e4472c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aafc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/afc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ba98a4bd-e217-4dba-aee9-315b4f843cdf/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A928bf0d9-89be-462d-aeb7-74a65e95535c&unique=prints",
+  "collector_number": "33",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Which burns more fiercely? Your ambition, or the flame?",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Billy Christian",
+  "artist_ids": [
+    "10f26f94-64fc-4174-856e-701bea4f1521"
+  ],
+  "illustration_id": "58bb9da8-e493-4696-b136-ce5629a5f169",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 3575,
+  "prices": {
+    "usd": "9.81",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "8.21",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=531938&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DReckless%2BEndeavor",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DReckless%2BEndeavor",
+    "edhrec": "https://edhrec.com/route/?cc=Reckless+Endeavor"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F243740%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=572177&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Reckless+Endeavor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "ade32396-8841-4ba4-8852-d11146607f21",
+  "oracle_id": "b9df2cdf-397c-458d-89cf-911568737ffa",
+  "multiverse_ids": [
+    668975
+  ],
+  "mtgo_id": 129367,
+  "arena_id": 91597,
+  "tcgplayer_id": 559141,
+  "cardmarket_id": 778346,
+  "name": "Mockingbird",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/ade32396-8841-4ba4-8852-d11146607f21",
+  "scryfall_uri": "https://scryfall.com/card/blb/61/mockingbird?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/d/ade32396-8841-4ba4-8852-d11146607f21.jpg?1722388218",
+    "normal": "https://cards.scryfall.io/normal/front/a/d/ade32396-8841-4ba4-8852-d11146607f21.jpg?1722388218",
+    "large": "https://cards.scryfall.io/large/front/a/d/ade32396-8841-4ba4-8852-d11146607f21.jpg?1722388218",
+    "png": "https://cards.scryfall.io/png/front/a/d/ade32396-8841-4ba4-8852-d11146607f21.png?1722388218",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/d/ade32396-8841-4ba4-8852-d11146607f21.jpg?1722388218",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/d/ade32396-8841-4ba4-8852-d11146607f21.jpg?1722388218"
+  },
+  "mana_cost": "{X}{U}",
+  "cmc": 1.0,
+  "type_line": "Creature \u2014 Bird Bard",
+  "oracle_text": "Flying\nYou may have this creature enter as a copy of any creature on the battlefield with mana value less than or equal to the amount of mana spent to cast this creature, except it's a Bird in addition to its other types and it has flying.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "a2f58272-bba6-439d-871e-7a46686ac018",
+  "set": "blb",
+  "set_name": "Bloomburrow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/a2f58272-bba6-439d-871e-7a46686ac018",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ablb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/blb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ade32396-8841-4ba4-8852-d11146607f21/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab9df2cdf-397c-458d-89cf-911568737ffa&unique=prints",
+  "collector_number": "61",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Laughing at you? No, no, I'm laughing *as* you!\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Aurore Folny",
+  "artist_ids": [
+    "02f6cdda-7a80-4184-853d-20b28d580868"
+  ],
+  "illustration_id": "e16b596c-b6df-40dd-a4aa-9ed2f98350e8",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 818,
+  "preview": {
+    "source": "CulturaPop",
+    "source_uri": "https://cpop.it/articoli/bozzamagic-the-gathering-vi-sveliamo-in-esclusiva-3-nuove-carte-di-bloomburrow",
+    "previewed_at": "2024-07-12"
+  },
+  "prices": {
+    "usd": "3.31",
+    "usd_foil": "5.44",
+    "usd_etched": null,
+    "eur": "3.59",
+    "eur_foil": "5.98",
+    "tix": "0.62"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=668975&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMockingbird",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMockingbird",
+    "edhrec": "https://edhrec.com/route/?cc=Mockingbird"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F559141%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=778346&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/129367?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

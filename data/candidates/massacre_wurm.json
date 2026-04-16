@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Gray Merchant of Asphodel",
+    "type_line": "Creature \u2014 Zombie",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Syr Konrad, the Grim",
+    "type_line": "Legendary Creature \u2014 Human Knight",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Psychosis Crawler",
+    "type_line": "Artifact Creature \u2014 Phyrexian Horror",
+    "mana_value": 5.0,
+    "mana_cost": "{5}",
+    "color_identity": []
+  },
+  {
+    "name": "Sheoldred, Whispering One",
+    "type_line": "Legendary Creature \u2014 Phyrexian Praetor",
+    "mana_value": 7.0,
+    "mana_cost": "{5}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Meteor Golem",
+    "type_line": "Artifact Creature \u2014 Golem",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Myr Battlesphere",
+    "type_line": "Artifact Creature \u2014 Myr Construct",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Noxious Gearhulk",
+    "type_line": "Artifact Creature \u2014 Construct",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Wurmcoil Engine",
+    "type_line": "Artifact Creature \u2014 Phyrexian Wurm",
+    "mana_value": 6.0,
+    "mana_cost": "{6}",
+    "color_identity": []
+  },
+  {
+    "name": "Bloodthirsty Conqueror",
+    "type_line": "Creature \u2014 Vampire Knight",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Steel Hellkite",
+    "type_line": "Artifact Creature \u2014 Dragon",
+    "mana_value": 6.0,
+    "mana_cost": "{6}",
+    "color_identity": []
+  }
+]

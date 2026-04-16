@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Eldrazi Confluence",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{C}{C}",
+    "color_identity": []
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Massacre Wurm",
+    "type_line": "Creature \u2014 Phyrexian Wurm",
+    "mana_value": 6.0,
+    "mana_cost": "{3}{B}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Sheoldred, Whispering One",
+    "type_line": "Legendary Creature \u2014 Phyrexian Praetor",
+    "mana_value": 7.0,
+    "mana_cost": "{5}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Meteor Golem",
+    "type_line": "Artifact Creature \u2014 Golem",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Myr Battlesphere",
+    "type_line": "Artifact Creature \u2014 Myr Construct",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Noxious Gearhulk",
+    "type_line": "Artifact Creature \u2014 Construct",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Wurmcoil Engine",
+    "type_line": "Artifact Creature \u2014 Phyrexian Wurm",
+    "mana_value": 6.0,
+    "mana_cost": "{6}",
+    "color_identity": []
+  },
+  {
+    "name": "Steel Hellkite",
+    "type_line": "Artifact Creature \u2014 Dragon",
+    "mana_value": 6.0,
+    "mana_cost": "{6}",
+    "color_identity": []
+  },
+  {
+    "name": "K'rrik, Son of Yawgmoth",
+    "type_line": "Legendary Creature \u2014 Phyrexian Horror Minion",
+    "mana_value": 7.0,
+    "mana_cost": "{4}{B/P}{B/P}{B/P}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Vilis, Broker of Blood",
+    "type_line": "Legendary Creature \u2014 Demon",
+    "mana_value": 8.0,
+    "mana_cost": "{5}{B}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Archon of Cruelty",
+    "type_line": "Creature \u2014 Archon",
+    "mana_value": 8.0,
+    "mana_cost": "{6}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  }
+]

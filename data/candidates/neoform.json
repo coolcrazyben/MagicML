@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Cultivate",
+    "type_line": "Sorcery",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Farseek",
+    "type_line": "Sorcery",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Rampant Growth",
+    "type_line": "Sorcery",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Nature's Lore",
+    "type_line": "Sorcery",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Kodama's Reach",
+    "type_line": "Sorcery \u2014 Arcane",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Three Visits",
+    "type_line": "Sorcery",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Faithless Looting",
+    "type_line": "Sorcery",
+    "mana_value": 1.0,
+    "mana_cost": "{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Vandalblast",
+    "type_line": "Sorcery",
+    "mana_value": 1.0,
+    "mana_cost": "{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Jeska's Will",
+    "type_line": "Sorcery",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Windfall",
+    "type_line": "Sorcery",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  }
+]

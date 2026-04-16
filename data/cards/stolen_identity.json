@@ -1,0 +1,140 @@
+{
+  "object": "card",
+  "id": "2831fe77-ea98-4334-a78e-01580fb002c0",
+  "oracle_id": "30b533a3-afc3-4500-a8f0-54e84301988f",
+  "multiverse_ids": [
+    559805
+  ],
+  "tcgplayer_id": 269779,
+  "cardmarket_id": 652817,
+  "name": "Stolen Identity",
+  "lang": "en",
+  "released_at": "2022-04-29",
+  "uri": "https://api.scryfall.com/cards/2831fe77-ea98-4334-a78e-01580fb002c0",
+  "scryfall_uri": "https://scryfall.com/card/ncc/233/stolen-identity?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/8/2831fe77-ea98-4334-a78e-01580fb002c0.jpg?1673484009",
+    "normal": "https://cards.scryfall.io/normal/front/2/8/2831fe77-ea98-4334-a78e-01580fb002c0.jpg?1673484009",
+    "large": "https://cards.scryfall.io/large/front/2/8/2831fe77-ea98-4334-a78e-01580fb002c0.jpg?1673484009",
+    "png": "https://cards.scryfall.io/png/front/2/8/2831fe77-ea98-4334-a78e-01580fb002c0.png?1673484009",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/8/2831fe77-ea98-4334-a78e-01580fb002c0.jpg?1673484009",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/8/2831fe77-ea98-4334-a78e-01580fb002c0.jpg?1673484009"
+  },
+  "mana_cost": "{4}{U}{U}",
+  "cmc": 6.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Create a token that's a copy of target artifact or creature.\nCipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Cipher"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "2831fe77-ea98-4334-a78e-01580fb002c0",
+      "component": "combo_piece",
+      "name": "Stolen Identity",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/2831fe77-ea98-4334-a78e-01580fb002c0"
+    },
+    {
+      "object": "related_card",
+      "id": "1e6ce56c-ca2e-48e8-a4d9-671cb4de8a9d",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/1e6ce56c-ca2e-48e8-a4d9-671cb4de8a9d"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c51de34b-d4d6-4179-a432-573744ded119",
+  "set": "ncc",
+  "set_name": "New Capenna Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/c51de34b-d4d6-4179-a432-573744ded119",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ancc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ncc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2831fe77-ea98-4334-a78e-01580fb002c0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A30b533a3-afc3-4500-a8f0-54e84301988f&unique=prints",
+  "collector_number": "233",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Clint Cearley",
+  "artist_ids": [
+    "03b75350-d5a0-4e3a-b3b4-8d4a5554385b"
+  ],
+  "illustration_id": "d148b80c-e09d-4700-bb35-8d76c1f52ec5",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 4497,
+  "penny_rank": 11722,
+  "prices": {
+    "usd": "0.39",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.28",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=559805&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DStolen%2BIdentity",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DStolen%2BIdentity",
+    "edhrec": "https://edhrec.com/route/?cc=Stolen+Identity"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F269779%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=652817&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Stolen+Identity&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

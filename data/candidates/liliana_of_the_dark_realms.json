@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Tezzeret, Cruel Captain",
+    "type_line": "Legendary Planeswalker \u2014 Tezzeret",
+    "mana_value": 3.0,
+    "mana_cost": "{3}",
+    "color_identity": []
+  },
+  {
+    "name": "Karn, the Great Creator",
+    "type_line": "Legendary Planeswalker \u2014 Karn",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Liliana, Death's Majesty",
+    "type_line": "Legendary Planeswalker \u2014 Liliana",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "The Aetherspark",
+    "type_line": "Legendary Artifact Planeswalker \u2014 Equipment",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Liliana of the Veil",
+    "type_line": "Legendary Planeswalker \u2014 Liliana",
+    "mana_value": 3.0,
+    "mana_cost": "{1}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Tevesh Szat, Doom of Fools",
+    "type_line": "Legendary Planeswalker \u2014 Szat",
+    "mana_value": 5.0,
+    "mana_cost": "{4}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Ob Nixilis, the Hate-Twisted",
+    "type_line": "Legendary Planeswalker \u2014 Nixilis",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Lolth, Spider Queen",
+    "type_line": "Legendary Planeswalker \u2014 Lolth",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Sorin, Imperious Bloodlord",
+    "type_line": "Legendary Planeswalker \u2014 Sorin",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Ob Nixilis Reignited",
+    "type_line": "Legendary Planeswalker \u2014 Nixilis",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  }
+]

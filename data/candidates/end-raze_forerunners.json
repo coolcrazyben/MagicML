@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Avenger of Zendikar",
+    "type_line": "Creature \u2014 Elemental",
+    "mana_value": 7.0,
+    "mana_cost": "{5}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Hullbreaker Horror",
+    "type_line": "Creature \u2014 Kraken Horror",
+    "mana_value": 7.0,
+    "mana_cost": "{5}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Craterhoof Behemoth",
+    "type_line": "Creature \u2014 Beast",
+    "mana_value": 8.0,
+    "mana_cost": "{5}{G}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Etali, Primal Conqueror // Etali, Primal Sickness",
+    "type_line": "Legendary Creature \u2014 Elder Dinosaur // Legendary Creature \u2014 Phyrexian Elder Dinosaur",
+    "mana_value": 7.0,
+    "mana_cost": "",
+    "color_identity": [
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Meteor Golem",
+    "type_line": "Artifact Creature \u2014 Golem",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Thought Monitor",
+    "type_line": "Artifact Creature \u2014 Construct",
+    "mana_value": 7.0,
+    "mana_cost": "{6}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Myr Battlesphere",
+    "type_line": "Artifact Creature \u2014 Myr Construct",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Old Gnawbone",
+    "type_line": "Legendary Creature \u2014 Dragon",
+    "mana_value": 7.0,
+    "mana_cost": "{5}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Omnath, Locus of Rage",
+    "type_line": "Legendary Creature \u2014 Elemental",
+    "mana_value": 7.0,
+    "mana_cost": "{3}{R}{R}{G}{G}",
+    "color_identity": [
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Nyxbloom Ancient",
+    "type_line": "Enchantment Creature \u2014 Elemental",
+    "mana_value": 7.0,
+    "mana_cost": "{4}{G}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  }
+]

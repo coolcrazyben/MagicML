@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "a6abde7a-da2a-4631-9db6-9d0ffe1e1105",
+  "oracle_id": "8f504855-f3df-4284-a189-e799bcddf620",
+  "multiverse_ids": [
+    676058
+  ],
+  "mtgo_id": 130995,
+  "tcgplayer_id": 577823,
+  "cardmarket_id": 788880,
+  "name": "Hydra Omnivore",
+  "lang": "en",
+  "released_at": "2024-09-27",
+  "uri": "https://api.scryfall.com/cards/a6abde7a-da2a-4631-9db6-9d0ffe1e1105",
+  "scryfall_uri": "https://scryfall.com/card/dsc/185/hydra-omnivore?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/6/a6abde7a-da2a-4631-9db6-9d0ffe1e1105.jpg?1726285057",
+    "normal": "https://cards.scryfall.io/normal/front/a/6/a6abde7a-da2a-4631-9db6-9d0ffe1e1105.jpg?1726285057",
+    "large": "https://cards.scryfall.io/large/front/a/6/a6abde7a-da2a-4631-9db6-9d0ffe1e1105.jpg?1726285057",
+    "png": "https://cards.scryfall.io/png/front/a/6/a6abde7a-da2a-4631-9db6-9d0ffe1e1105.png?1726285057",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/6/a6abde7a-da2a-4631-9db6-9d0ffe1e1105.jpg?1726285057",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/6/a6abde7a-da2a-4631-9db6-9d0ffe1e1105.jpg?1726285057"
+  },
+  "mana_cost": "{4}{G}{G}",
+  "cmc": 6.0,
+  "type_line": "Creature \u2014 Hydra",
+  "oracle_text": "Whenever this creature deals combat damage to an opponent, it deals that much damage to each other opponent.",
+  "power": "8",
+  "toughness": "8",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4c822528-83c3-42c7-8708-dd1d37166819",
+  "set": "dsc",
+  "set_name": "Duskmourn: House of Horror Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/4c822528-83c3-42c7-8708-dd1d37166819",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adsc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dsc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a6abde7a-da2a-4631-9db6-9d0ffe1e1105/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8f504855-f3df-4284-a189-e799bcddf620&unique=prints",
+  "collector_number": "185",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "\"We should learn from the hydra. It never plays favorites; it devours everyone equally.\"\n\u2014Thrass, elder druid",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Svetlin Velinov",
+  "artist_ids": [
+    "ffd063ae-c097-4f26-b2e6-b1e2137708bc"
+  ],
+  "illustration_id": "c6d6108c-714b-4d72-a29f-783d96ae5c11",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 3842,
+  "prices": {
+    "usd": "0.46",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.66",
+    "eur_foil": null,
+    "tix": "2.52"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=676058&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHydra%2BOmnivore",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHydra%2BOmnivore",
+    "edhrec": "https://edhrec.com/route/?cc=Hydra+Omnivore"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F577823%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=788880&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/130995?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

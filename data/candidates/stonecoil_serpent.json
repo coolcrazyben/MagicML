@@ -1,0 +1,88 @@
+[
+  {
+    "name": "Birds of Paradise",
+    "type_line": "Creature \u2014 Bird",
+    "mana_value": 1.0,
+    "mana_cost": "{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Llanowar Elves",
+    "type_line": "Creature \u2014 Elf Druid",
+    "mana_value": 1.0,
+    "mana_cost": "{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Elvish Mystic",
+    "type_line": "Creature \u2014 Elf Druid",
+    "mana_value": 1.0,
+    "mana_cost": "{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Delighted Halfling",
+    "type_line": "Creature \u2014 Halfling Citizen",
+    "mana_value": 1.0,
+    "mana_cost": "{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Fyndhorn Elves",
+    "type_line": "Creature \u2014 Elf Druid",
+    "mana_value": 1.0,
+    "mana_cost": "{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Ragavan, Nimble Pilferer",
+    "type_line": "Legendary Creature \u2014 Monkey Pirate",
+    "mana_value": 1.0,
+    "mana_cost": "{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Walking Ballista",
+    "type_line": "Artifact Creature \u2014 Construct",
+    "mana_value": 0.0,
+    "mana_cost": "{X}{X}",
+    "color_identity": []
+  },
+  {
+    "name": "Arbor Elf",
+    "type_line": "Creature \u2014 Elf Druid",
+    "mana_value": 1.0,
+    "mana_cost": "{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Ornithopter",
+    "type_line": "Artifact Creature \u2014 Thopter",
+    "mana_value": 0.0,
+    "mana_cost": "{0}",
+    "color_identity": []
+  },
+  {
+    "name": "Haywire Mite",
+    "type_line": "Artifact Creature \u2014 Insect",
+    "mana_value": 1.0,
+    "mana_cost": "{1}",
+    "color_identity": [
+      "G"
+    ]
+  }
+]

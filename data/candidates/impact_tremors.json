@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Rhystic Study",
+    "type_line": "Enchantment",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Garruk's Uprising",
+    "type_line": "Enchantment",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Mystic Remora",
+    "type_line": "Enchantment",
+    "mana_value": 1.0,
+    "mana_cost": "{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Propaganda",
+    "type_line": "Enchantment",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Rhythm of the Wild",
+    "type_line": "Enchantment",
+    "mana_value": 3.0,
+    "mana_cost": "{1}{R}{G}",
+    "color_identity": [
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Hardened Scales",
+    "type_line": "Enchantment",
+    "mana_value": 1.0,
+    "mana_cost": "{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Wild Growth",
+    "type_line": "Enchantment \u2014 Aura",
+    "mana_value": 1.0,
+    "mana_cost": "{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Sylvan Library",
+    "type_line": "Enchantment",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Dryad of the Ilysian Grove",
+    "type_line": "Enchantment Creature \u2014 Nymph Dryad",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Exploration",
+    "type_line": "Enchantment",
+    "mana_value": 1.0,
+    "mana_cost": "{G}",
+    "color_identity": [
+      "G"
+    ]
+  }
+]

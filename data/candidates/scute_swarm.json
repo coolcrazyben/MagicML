@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Solemn Simulacrum",
+    "type_line": "Artifact Creature \u2014 Golem",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Eternal Witness",
+    "type_line": "Creature \u2014 Human Shaman",
+    "mana_value": 3.0,
+    "mana_cost": "{1}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Sakura-Tribe Elder",
+    "type_line": "Creature \u2014 Snake Shaman",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Roaming Throne",
+    "type_line": "Artifact Creature \u2014 Golem",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Blood Artist",
+    "type_line": "Creature \u2014 Vampire",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Tireless Provisioner",
+    "type_line": "Creature \u2014 Elf Scout",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Beast Whisperer",
+    "type_line": "Creature \u2014 Elf Druid",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Mirkwood Bats",
+    "type_line": "Creature \u2014 Bat",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Ornithopter of Paradise",
+    "type_line": "Artifact Creature \u2014 Thopter",
+    "mana_value": 2.0,
+    "mana_cost": "{2}",
+    "color_identity": []
+  },
+  {
+    "name": "Pitiless Plunderer",
+    "type_line": "Creature \u2014 Human Pirate",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{B}",
+    "color_identity": [
+      "B"
+    ]
+  }
+]

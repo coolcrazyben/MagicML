@@ -1,0 +1,132 @@
+{
+  "object": "card",
+  "id": "e262f55e-9239-4a97-a19e-9b08fb34502e",
+  "oracle_id": "edad60c6-80de-4033-af1b-a703ac332983",
+  "multiverse_ids": [
+    526250
+  ],
+  "mtgo_id": 90981,
+  "tcgplayer_id": 239839,
+  "tcgplayer_etched_id": 240820,
+  "cardmarket_id": 566447,
+  "name": "Goblin Bombardment",
+  "lang": "en",
+  "released_at": "2021-06-18",
+  "uri": "https://api.scryfall.com/cards/e262f55e-9239-4a97-a19e-9b08fb34502e",
+  "scryfall_uri": "https://scryfall.com/card/mh2/279/goblin-bombardment?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/2/e262f55e-9239-4a97-a19e-9b08fb34502e.jpg?1626100483",
+    "normal": "https://cards.scryfall.io/normal/front/e/2/e262f55e-9239-4a97-a19e-9b08fb34502e.jpg?1626100483",
+    "large": "https://cards.scryfall.io/large/front/e/2/e262f55e-9239-4a97-a19e-9b08fb34502e.jpg?1626100483",
+    "png": "https://cards.scryfall.io/png/front/e/2/e262f55e-9239-4a97-a19e-9b08fb34502e.png?1626100483",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/2/e262f55e-9239-4a97-a19e-9b08fb34502e.jpg?1626100483",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/2/e262f55e-9239-4a97-a19e-9b08fb34502e.jpg?1626100483"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2.0,
+  "type_line": "Enchantment",
+  "oracle_text": "Sacrifice a creature: This enchantment deals 1 damage to any target.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil",
+    "etched"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c1c7eb8c-f205-40ab-a609-767cb296544e",
+  "set": "mh2",
+  "set_name": "Modern Horizons 2",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/c1c7eb8c-f205-40ab-a609-767cb296544e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e262f55e-9239-4a97-a19e-9b08fb34502e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aedad60c6-80de-4033-af1b-a703ac332983&unique=prints",
+  "collector_number": "279",
+  "digital": false,
+  "rarity": "rare",
+  "watermark": "set",
+  "flavor_text": "With one motion, a pest is removed and a scourge inflicted.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Dave Kendall",
+  "artist_ids": [
+    "8a5540a8-18c9-4fa9-802c-59d6866114d5"
+  ],
+  "illustration_id": "7a150add-afe0-4a90-aae7-2609f79180c1",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 455,
+  "penny_rank": 735,
+  "preview": {
+    "source": "CardRush",
+    "source_uri": "https://www.cardrush-mtg.jp/product-list?keyword=\u30b4\u30d6\u30ea\u30f3\u306e\u7832\u6483&Submit=\u691c\u7d22&_ga=2.136769524.536042467.1622066731-1528793084.1622066731",
+    "previewed_at": "2021-05-26"
+  },
+  "prices": {
+    "usd": "4.35",
+    "usd_foil": "5.10",
+    "usd_etched": "3.65",
+    "eur": "2.80",
+    "eur_foil": "6.18",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=526250&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGoblin%2BBombardment",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGoblin%2BBombardment",
+    "edhrec": "https://edhrec.com/route/?cc=Goblin+Bombardment"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F239839%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=566447&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/90981?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

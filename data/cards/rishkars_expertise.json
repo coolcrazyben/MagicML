@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "efa9d2dc-b3b8-4475-bbfc-2db457ee4ffd",
+  "oracle_id": "97407cd0-2bd2-4074-94d3-4ec3d243fa78",
+  "multiverse_ids": [
+    640550
+  ],
+  "mtgo_id": 118908,
+  "tcgplayer_id": 525884,
+  "cardmarket_id": 743606,
+  "name": "Rishkar's Expertise",
+  "lang": "en",
+  "released_at": "2023-11-17",
+  "uri": "https://api.scryfall.com/cards/efa9d2dc-b3b8-4475-bbfc-2db457ee4ffd",
+  "scryfall_uri": "https://scryfall.com/card/lcc/254/rishkars-expertise?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/f/efa9d2dc-b3b8-4475-bbfc-2db457ee4ffd.jpg?1698988394",
+    "normal": "https://cards.scryfall.io/normal/front/e/f/efa9d2dc-b3b8-4475-bbfc-2db457ee4ffd.jpg?1698988394",
+    "large": "https://cards.scryfall.io/large/front/e/f/efa9d2dc-b3b8-4475-bbfc-2db457ee4ffd.jpg?1698988394",
+    "png": "https://cards.scryfall.io/png/front/e/f/efa9d2dc-b3b8-4475-bbfc-2db457ee4ffd.png?1698988394",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/f/efa9d2dc-b3b8-4475-bbfc-2db457ee4ffd.jpg?1698988394",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/f/efa9d2dc-b3b8-4475-bbfc-2db457ee4ffd.jpg?1698988394"
+  },
+  "mana_cost": "{4}{G}{G}",
+  "cmc": 6.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Draw cards equal to the greatest power among creatures you control.\nYou may cast a spell with mana value 5 or less from your hand without paying its mana cost.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d253edc3-5bc7-4cf1-9446-a8540dedffa5",
+  "set": "lcc",
+  "set_name": "The Lost Caverns of Ixalan Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d253edc3-5bc7-4cf1-9446-a8540dedffa5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Alcc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/lcc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/efa9d2dc-b3b8-4475-bbfc-2db457ee4ffd/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A97407cd0-2bd2-4074-94d3-4ec3d243fa78&unique=prints",
+  "collector_number": "254",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Control the Great Conduit? You might as well try to divert a river with your hands.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Magali Villeneuve",
+  "artist_ids": [
+    "9e6a55ae-be4d-4c23-a2a5-135737ffd879"
+  ],
+  "illustration_id": "d7147662-fbd0-4a25-82fa-4cab8f2ea3fd",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 246,
+  "penny_rank": 4995,
+  "prices": {
+    "usd": "2.97",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "1.93",
+    "eur_foil": null,
+    "tix": "0.31"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=640550&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRishkar%2527s%2BExpertise",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRishkar%2527s%2BExpertise",
+    "edhrec": "https://edhrec.com/route/?cc=Rishkar%27s+Expertise"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F525884%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=743606&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/118908?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

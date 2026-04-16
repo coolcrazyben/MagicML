@@ -1,0 +1,149 @@
+{
+  "object": "card",
+  "id": "42ac5ac7-b2f9-4e6f-af41-7e42ac816374",
+  "oracle_id": "7ca3aa03-e62d-464a-9111-e754abe17f76",
+  "multiverse_ids": [
+    662223
+  ],
+  "mtgo_id": 126159,
+  "arena_id": 90920,
+  "tcgplayer_id": 552621,
+  "cardmarket_id": 771454,
+  "name": "Strix Serenade",
+  "lang": "en",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/42ac5ac7-b2f9-4e6f-af41-7e42ac816374",
+  "scryfall_uri": "https://scryfall.com/card/mh3/71/strix-serenade?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/2/42ac5ac7-b2f9-4e6f-af41-7e42ac816374.jpg?1717011786",
+    "normal": "https://cards.scryfall.io/normal/front/4/2/42ac5ac7-b2f9-4e6f-af41-7e42ac816374.jpg?1717011786",
+    "large": "https://cards.scryfall.io/large/front/4/2/42ac5ac7-b2f9-4e6f-af41-7e42ac816374.jpg?1717011786",
+    "png": "https://cards.scryfall.io/png/front/4/2/42ac5ac7-b2f9-4e6f-af41-7e42ac816374.png?1717011786",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/2/42ac5ac7-b2f9-4e6f-af41-7e42ac816374.jpg?1717011786",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/2/42ac5ac7-b2f9-4e6f-af41-7e42ac816374.jpg?1717011786"
+  },
+  "mana_cost": "{U}",
+  "cmc": 1.0,
+  "type_line": "Instant",
+  "oracle_text": "Counter target artifact, creature, or planeswalker spell. Its controller creates a 2/2 blue Bird creature token with flying.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "5eccf31d-869d-4003-a92b-71b4f4b479ee",
+      "component": "combo_piece",
+      "name": "Strix Serenade",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/5eccf31d-869d-4003-a92b-71b4f4b479ee"
+    },
+    {
+      "object": "related_card",
+      "id": "e7222593-5ade-4512-bfee-6126d4d0cc19",
+      "component": "token",
+      "name": "Bird",
+      "type_line": "Token Creature \u2014 Bird",
+      "uri": "https://api.scryfall.com/cards/e7222593-5ade-4512-bfee-6126d4d0cc19"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/42ac5ac7-b2f9-4e6f-af41-7e42ac816374/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7ca3aa03-e62d-464a-9111-e754abe17f76&unique=prints",
+  "collector_number": "71",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Some birds sing to nature's beauty and the freedom of the skies. Others simply ask questions.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Filipe Pagliuso",
+  "artist_ids": [
+    "64c537b4-a864-4051-9a24-fbdd22cb40b4"
+  ],
+  "illustration_id": "b51bbf33-2bd0-40b8-a4f6-966acd28500a",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 945,
+  "penny_rank": 3931,
+  "preview": {
+    "source": "PleasantKenobi",
+    "source_uri": "https://twitter.com/PleasantKenobi/status/1793312639889690771",
+    "previewed_at": "2024-05-22"
+  },
+  "prices": {
+    "usd": "2.52",
+    "usd_foil": "3.72",
+    "usd_etched": null,
+    "eur": "3.08",
+    "eur_foil": "4.86",
+    "tix": "0.30"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=662223&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DStrix%2BSerenade",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DStrix%2BSerenade",
+    "edhrec": "https://edhrec.com/route/?cc=Strix+Serenade"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F552621%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=771454&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/126159?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Solemn Simulacrum",
+    "type_line": "Artifact Creature \u2014 Golem",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Roaming Throne",
+    "type_line": "Artifact Creature \u2014 Golem",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Beast Whisperer",
+    "type_line": "Creature \u2014 Elf Druid",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Seedborn Muse",
+    "type_line": "Creature \u2014 Spirit",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Rampaging Baloths",
+    "type_line": "Creature \u2014 Beast",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Toski, Bearer of Secrets",
+    "type_line": "Legendary Creature \u2014 Squirrel",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Forgotten Ancient",
+    "type_line": "Creature \u2014 Elemental",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Psychosis Crawler",
+    "type_line": "Artifact Creature \u2014 Phyrexian Horror",
+    "mana_value": 5.0,
+    "mana_cost": "{5}",
+    "color_identity": []
+  },
+  {
+    "name": "Ohran Frostfang",
+    "type_line": "Snow Creature \u2014 Snake",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Oracle of Mul Daya",
+    "type_line": "Creature \u2014 Elf Shaman",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{G}",
+    "color_identity": [
+      "G"
+    ]
+  }
+]

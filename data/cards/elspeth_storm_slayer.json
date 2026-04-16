@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "73a065e3-b530-4e62-ab3c-4f6f908184ec",
+  "oracle_id": "f78af825-023a-42e9-8374-5c52303a1417",
+  "multiverse_ids": [
+    693491
+  ],
+  "mtgo_id": 138965,
+  "arena_id": 95526,
+  "tcgplayer_id": 623882,
+  "cardmarket_id": 817814,
+  "name": "Elspeth, Storm Slayer",
+  "lang": "en",
+  "released_at": "2025-04-11",
+  "uri": "https://api.scryfall.com/cards/73a065e3-b530-4e62-ab3c-4f6f908184ec",
+  "scryfall_uri": "https://scryfall.com/card/tdm/11/elspeth-storm-slayer?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/3/73a065e3-b530-4e62-ab3c-4f6f908184ec.jpg?1743203994",
+    "normal": "https://cards.scryfall.io/normal/front/7/3/73a065e3-b530-4e62-ab3c-4f6f908184ec.jpg?1743203994",
+    "large": "https://cards.scryfall.io/large/front/7/3/73a065e3-b530-4e62-ab3c-4f6f908184ec.jpg?1743203994",
+    "png": "https://cards.scryfall.io/png/front/7/3/73a065e3-b530-4e62-ab3c-4f6f908184ec.png?1743203994",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/3/73a065e3-b530-4e62-ab3c-4f6f908184ec.jpg?1743203994",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/3/73a065e3-b530-4e62-ab3c-4f6f908184ec.jpg?1743203994"
+  },
+  "mana_cost": "{3}{W}{W}",
+  "cmc": 5.0,
+  "type_line": "Legendary Planeswalker \u2014 Elspeth",
+  "oracle_text": "If one or more tokens would be created under your control, twice that many of those tokens are created instead.\n+1: Create a 1/1 white Soldier creature token.\n0: Put a +1/+1 counter on each creature you control. Those creatures gain flying until your next turn.\n\u22123: Destroy target creature an opponent controls with mana value 3 or greater.",
+  "loyalty": "5",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "6455d903-6996-448f-9148-9068febecb00",
+      "component": "token",
+      "name": "Soldier",
+      "type_line": "Token Creature \u2014 Soldier",
+      "uri": "https://api.scryfall.com/cards/6455d903-6996-448f-9148-9068febecb00"
+    },
+    {
+      "object": "related_card",
+      "id": "89b98fd0-e2e5-4533-af2b-5230af2c88bd",
+      "component": "combo_piece",
+      "name": "Elspeth, Storm Slayer",
+      "type_line": "Legendary Planeswalker \u2014 Elspeth",
+      "uri": "https://api.scryfall.com/cards/89b98fd0-e2e5-4533-af2b-5230af2c88bd"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set": "tdm",
+  "set_name": "Tarkir: Dragonstorm",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atdm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tdm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/73a065e3-b530-4e62-ab3c-4f6f908184ec/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af78af825-023a-42e9-8374-5c52303a1417&unique=prints",
+  "collector_number": "11",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ekaterina Burmak",
+  "artist_ids": [
+    "2a9f3780-fcc8-4ec5-b403-ee1d1370d3b4"
+  ],
+  "illustration_id": "5b1cbecf-5abc-4b31-8221-afb8db4b8d19",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 934,
+  "prices": {
+    "usd": "41.95",
+    "usd_foil": "42.17",
+    "usd_etched": null,
+    "eur": "26.49",
+    "eur_foil": "28.61",
+    "tix": "0.74"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=693491&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DElspeth%252C%2BStorm%2BSlayer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DElspeth%252C%2BStorm%2BSlayer",
+    "edhrec": "https://edhrec.com/route/?cc=Elspeth%2C+Storm+Slayer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F623882%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=817814&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/138965?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

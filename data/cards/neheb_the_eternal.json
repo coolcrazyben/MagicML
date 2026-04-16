@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "767c5831-2195-4efa-802d-2ea2e6dabb5b",
+  "oracle_id": "b0d3fd57-1420-4dd1-8410-9d659655287f",
+  "multiverse_ids": [
+    650252
+  ],
+  "mtgo_id": 122456,
+  "tcgplayer_id": 535837,
+  "cardmarket_id": 753390,
+  "name": "Neheb, the Eternal",
+  "lang": "en",
+  "released_at": "2024-02-09",
+  "uri": "https://api.scryfall.com/cards/767c5831-2195-4efa-802d-2ea2e6dabb5b",
+  "scryfall_uri": "https://scryfall.com/card/mkc/158/neheb-the-eternal?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/6/767c5831-2195-4efa-802d-2ea2e6dabb5b.jpg?1706240851",
+    "normal": "https://cards.scryfall.io/normal/front/7/6/767c5831-2195-4efa-802d-2ea2e6dabb5b.jpg?1706240851",
+    "large": "https://cards.scryfall.io/large/front/7/6/767c5831-2195-4efa-802d-2ea2e6dabb5b.jpg?1706240851",
+    "png": "https://cards.scryfall.io/png/front/7/6/767c5831-2195-4efa-802d-2ea2e6dabb5b.png?1706240851",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/6/767c5831-2195-4efa-802d-2ea2e6dabb5b.jpg?1706240851",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/6/767c5831-2195-4efa-802d-2ea2e6dabb5b.jpg?1706240851"
+  },
+  "mana_cost": "{3}{R}{R}",
+  "cmc": 5.0,
+  "type_line": "Legendary Creature \u2014 Zombie Minotaur Warrior",
+  "oracle_text": "Afflict 3 (Whenever this creature becomes blocked, defending player loses 3 life.)\nAt the beginning of each of your postcombat main phases, add {R} for each 1 life your opponents have lost this turn.",
+  "power": "4",
+  "toughness": "6",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Afflict"
+  ],
+  "produced_mana": [
+    "R"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "286c37ca-ba65-4d3e-8c5d-d1878d88fd95",
+  "set": "mkc",
+  "set_name": "Murders at Karlov Manor Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/286c37ca-ba65-4d3e-8c5d-d1878d88fd95",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mkc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/767c5831-2195-4efa-802d-2ea2e6dabb5b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab0d3fd57-1420-4dd1-8410-9d659655287f&unique=prints",
+  "collector_number": "158",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "\"This is what glory looks like.\"\n\u2014Nicol Bolas",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Rahn",
+  "artist_ids": [
+    "7742047e-0f80-4c0f-a530-d07460165e86"
+  ],
+  "illustration_id": "af499a26-744c-4296-894f-a6bdf5b3a067",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1144,
+  "penny_rank": 13757,
+  "prices": {
+    "usd": "7.07",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "4.84",
+    "eur_foil": null,
+    "tix": "0.09"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=650252&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNeheb%252C%2Bthe%2BEternal",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNeheb%252C%2Bthe%2BEternal",
+    "edhrec": "https://edhrec.com/route/?cc=Neheb%2C+the+Eternal"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F535837%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=753390&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/122456?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

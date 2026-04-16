@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Big Score",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Force of Will",
+    "type_line": "Instant",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Unexpected Windfall",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Aetherize",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Mindbreak Trap",
+    "type_line": "Instant \u2014 Trap",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Second Harvest",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Bolt Bend",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Fact or Fiction",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Rewind",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Force of Vigor",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  }
+]

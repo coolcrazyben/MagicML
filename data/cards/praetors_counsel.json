@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "b6d5bf06-f735-4e9f-9460-e6cdf501662f",
+  "oracle_id": "83d8eda7-b8d2-479a-b1ec-de56833a3182",
+  "multiverse_ids": [
+    430353
+  ],
+  "tcgplayer_id": 132120,
+  "cardmarket_id": 298083,
+  "name": "Praetor's Counsel",
+  "lang": "en",
+  "released_at": "2017-06-09",
+  "uri": "https://api.scryfall.com/cards/b6d5bf06-f735-4e9f-9460-e6cdf501662f",
+  "scryfall_uri": "https://scryfall.com/card/cma/134/praetors-counsel?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/6/b6d5bf06-f735-4e9f-9460-e6cdf501662f.jpg?1592673116",
+    "normal": "https://cards.scryfall.io/normal/front/b/6/b6d5bf06-f735-4e9f-9460-e6cdf501662f.jpg?1592673116",
+    "large": "https://cards.scryfall.io/large/front/b/6/b6d5bf06-f735-4e9f-9460-e6cdf501662f.jpg?1592673116",
+    "png": "https://cards.scryfall.io/png/front/b/6/b6d5bf06-f735-4e9f-9460-e6cdf501662f.png?1592673116",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/6/b6d5bf06-f735-4e9f-9460-e6cdf501662f.jpg?1592673116",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/6/b6d5bf06-f735-4e9f-9460-e6cdf501662f.jpg?1592673116"
+  },
+  "mana_cost": "{5}{G}{G}{G}",
+  "cmc": 8.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Return all cards from your graveyard to your hand. Exile Praetor's Counsel. You have no maximum hand size for the rest of the game.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "fd4d8463-0156-4c60-a40e-778762bb90e4",
+  "set": "cma",
+  "set_name": "Commander Anthology",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/fd4d8463-0156-4c60-a40e-778762bb90e4",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acma&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cma?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b6d5bf06-f735-4e9f-9460-e6cdf501662f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A83d8eda7-b8d2-479a-b1ec-de56833a3182&unique=prints",
+  "collector_number": "134",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "As the Phyrexian contagion corroded Karn's body, the praetors whispered psalms to corrupt his mind.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Daarken",
+  "artist_ids": [
+    "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+  ],
+  "illustration_id": "b871566e-e9d1-4882-9643-75b03ebc7b3f",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 5336,
+  "penny_rank": 12332,
+  "prices": {
+    "usd": "1.58",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "1.43",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430353&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPraetor%2527s%2BCounsel",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPraetor%2527s%2BCounsel",
+    "edhrec": "https://edhrec.com/route/?cc=Praetor%27s+Counsel"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F132120%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=298083&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Praetor%27s+Counsel&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

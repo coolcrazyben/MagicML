@@ -1,0 +1,88 @@
+[
+  {
+    "name": "Big Score",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Unexpected Windfall",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Bolt Bend",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Eldrazi Confluence",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{C}{C}",
+    "color_identity": []
+  },
+  {
+    "name": "Virtue of Courage // Embereth Blaze",
+    "type_line": "Enchantment // Instant \u2014 Adventure",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{R}{R} // {1}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Wild Ricochet",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Bottle-Cap Blast",
+    "type_line": "Instant",
+    "mana_value": 5.0,
+    "mana_cost": "{4}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Invoke Calamity",
+    "type_line": "Instant",
+    "mana_value": 5.0,
+    "mana_cost": "{1}{R}{R}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Pyrokinesis",
+    "type_line": "Instant",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Zuko's Exile",
+    "type_line": "Instant \u2014 Lesson",
+    "mana_value": 5.0,
+    "mana_cost": "{5}",
+    "color_identity": []
+  }
+]

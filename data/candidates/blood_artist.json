@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Esper Sentinel",
+    "type_line": "Artifact Creature \u2014 Human Soldier",
+    "mana_value": 1.0,
+    "mana_cost": "{W}",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Ornithopter of Paradise",
+    "type_line": "Artifact Creature \u2014 Thopter",
+    "mana_value": 2.0,
+    "mana_cost": "{2}",
+    "color_identity": []
+  },
+  {
+    "name": "Zulaport Cutthroat",
+    "type_line": "Creature \u2014 Human Rogue Ally",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Grand Abolisher",
+    "type_line": "Creature \u2014 Human Cleric",
+    "mana_value": 2.0,
+    "mana_cost": "{W}{W}",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Orcish Bowmasters",
+    "type_line": "Creature \u2014 Orc Archer",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Foundry Inspector",
+    "type_line": "Artifact Creature \u2014 Construct",
+    "mana_value": 3.0,
+    "mana_cost": "{3}",
+    "color_identity": []
+  },
+  {
+    "name": "Viscera Seer",
+    "type_line": "Creature \u2014 Vampire Wizard",
+    "mana_value": 1.0,
+    "mana_cost": "{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Academy Manufactor",
+    "type_line": "Artifact Creature \u2014 Assembly-Worker",
+    "mana_value": 3.0,
+    "mana_cost": "{3}",
+    "color_identity": []
+  },
+  {
+    "name": "Morbid Opportunist",
+    "type_line": "Creature \u2014 Human Rogue",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Braids, Arisen Nightmare",
+    "type_line": "Legendary Creature \u2014 Nightmare",
+    "mana_value": 3.0,
+    "mana_cost": "{1}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  }
+]

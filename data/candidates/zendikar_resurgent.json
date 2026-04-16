@@ -1,0 +1,89 @@
+[
+  {
+    "name": "Warstorm Surge",
+    "type_line": "Enchantment",
+    "mana_value": 6.0,
+    "mana_cost": "{5}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "City on Fire",
+    "type_line": "Enchantment",
+    "mana_value": 8.0,
+    "mana_cost": "{5}{R}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Fiery Emancipation",
+    "type_line": "Enchantment",
+    "mana_value": 6.0,
+    "mana_cost": "{3}{R}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Nyxbloom Ancient",
+    "type_line": "Enchantment Creature \u2014 Elemental",
+    "mana_value": 7.0,
+    "mana_cost": "{4}{G}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Shark Typhoon",
+    "type_line": "Enchantment",
+    "mana_value": 6.0,
+    "mana_cost": "{5}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Thousand-Year Storm",
+    "type_line": "Enchantment",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{U}{R}",
+    "color_identity": [
+      "R",
+      "U"
+    ]
+  },
+  {
+    "name": "Echoes of Eternity",
+    "type_line": "Kindred Enchantment \u2014 Eldrazi",
+    "mana_value": 6.0,
+    "mana_cost": "{3}{C}{C}{C}",
+    "color_identity": []
+  },
+  {
+    "name": "Eldrazi Conscription",
+    "type_line": "Kindred Enchantment \u2014 Eldrazi Aura",
+    "mana_value": 8.0,
+    "mana_cost": "{8}",
+    "color_identity": []
+  },
+  {
+    "name": "Extravagant Replication",
+    "type_line": "Enchantment",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Mana Reflection",
+    "type_line": "Enchantment",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  }
+]

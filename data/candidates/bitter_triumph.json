@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Dark Ritual",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Vampiric Tutor",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Deadly Dispute",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Village Rites",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Malakir Rebirth // Malakir Mire",
+    "type_line": "Instant // Land",
+    "mana_value": 1.0,
+    "mana_cost": "",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Infernal Grasp",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Withering Torment",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Entomb",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Go for the Throat",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Cabal Ritual",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{B}",
+    "color_identity": [
+      "B"
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "name": "Liliana, Dreadhorde General",
+    "type_line": "Legendary Planeswalker \u2014 Liliana",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Ugin, the Ineffable",
+    "type_line": "Legendary Planeswalker \u2014 Ugin",
+    "mana_value": 6.0,
+    "mana_cost": "{6}",
+    "color_identity": []
+  },
+  {
+    "name": "Vraska, Betrayal's Sting",
+    "type_line": "Legendary Planeswalker \u2014 Vraska",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{B}{B/P}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Liliana, Death's Majesty",
+    "type_line": "Legendary Planeswalker \u2014 Liliana",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Ugin, Eye of the Storms",
+    "type_line": "Legendary Planeswalker \u2014 Ugin",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Tevesh Szat, Doom of Fools",
+    "type_line": "Legendary Planeswalker \u2014 Szat",
+    "mana_value": 5.0,
+    "mana_cost": "{4}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Sorin Markov",
+    "type_line": "Legendary Planeswalker \u2014 Sorin",
+    "mana_value": 6.0,
+    "mana_cost": "{3}{B}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Ob Nixilis, the Hate-Twisted",
+    "type_line": "Legendary Planeswalker \u2014 Nixilis",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Lolth, Spider Queen",
+    "type_line": "Legendary Planeswalker \u2014 Lolth",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Ob Nixilis Reignited",
+    "type_line": "Legendary Planeswalker \u2014 Nixilis",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  }
+]

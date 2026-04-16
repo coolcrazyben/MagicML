@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Counterspell",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Cyclonic Rift",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Negate",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Arcane Denial",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Fierce Guardianship",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Frantic Search",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Mana Drain",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Sink into Stupor // Soporific Springs",
+    "type_line": "Instant // Land",
+    "mana_value": 3.0,
+    "mana_cost": "",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Force of Negation",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{1}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Reality Shift",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{U}",
+    "color_identity": [
+      "U"
+    ]
+  }
+]

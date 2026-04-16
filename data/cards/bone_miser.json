@@ -1,0 +1,144 @@
+{
+  "object": "card",
+  "id": "a7fa6901-e74f-448c-9d26-99a692092512",
+  "oracle_id": "3984e5f6-8643-4104-aa9c-18d474e07801",
+  "multiverse_ids": [
+    470561
+  ],
+  "mtgo_id": 77084,
+  "tcgplayer_id": 196671,
+  "cardmarket_id": 392627,
+  "name": "Bone Miser",
+  "lang": "en",
+  "released_at": "2019-08-23",
+  "uri": "https://api.scryfall.com/cards/a7fa6901-e74f-448c-9d26-99a692092512",
+  "scryfall_uri": "https://scryfall.com/card/c19/15/bone-miser?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/7/a7fa6901-e74f-448c-9d26-99a692092512.jpg?1568003468",
+    "normal": "https://cards.scryfall.io/normal/front/a/7/a7fa6901-e74f-448c-9d26-99a692092512.jpg?1568003468",
+    "large": "https://cards.scryfall.io/large/front/a/7/a7fa6901-e74f-448c-9d26-99a692092512.jpg?1568003468",
+    "png": "https://cards.scryfall.io/png/front/a/7/a7fa6901-e74f-448c-9d26-99a692092512.png?1568003468",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/7/a7fa6901-e74f-448c-9d26-99a692092512.jpg?1568003468",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/7/a7fa6901-e74f-448c-9d26-99a692092512.jpg?1568003468"
+  },
+  "mana_cost": "{4}{B}",
+  "cmc": 5.0,
+  "type_line": "Creature \u2014 Zombie Wizard",
+  "oracle_text": "Whenever you discard a creature card, create a 2/2 black Zombie creature token.\nWhenever you discard a land card, add {B}{B}.\nWhenever you discard a noncreature, nonland card, draw a card.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "a7fa6901-e74f-448c-9d26-99a692092512",
+      "component": "combo_piece",
+      "name": "Bone Miser",
+      "type_line": "Creature \u2014 Zombie Wizard",
+      "uri": "https://api.scryfall.com/cards/a7fa6901-e74f-448c-9d26-99a692092512"
+    },
+    {
+      "object": "related_card",
+      "id": "8e214f84-01ee-49c1-8801-4e550b5ade5d",
+      "component": "token",
+      "name": "Zombie",
+      "type_line": "Token Creature \u2014 Zombie",
+      "uri": "https://api.scryfall.com/cards/8e214f84-01ee-49c1-8801-4e550b5ade5d"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "0fa3ccbb-d86d-4a2e-a55e-c4979c4feeb2",
+  "set": "c19",
+  "set_name": "Commander 2019",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/0fa3ccbb-d86d-4a2e-a55e-c4979c4feeb2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac19&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/c19?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a7fa6901-e74f-448c-9d26-99a692092512/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3984e5f6-8643-4104-aa9c-18d474e07801&unique=prints",
+  "collector_number": "15",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Antonio Jos\u00e9 Manzanedo",
+  "artist_ids": [
+    "74986d28-0001-4a78-827c-e490b325d0e3"
+  ],
+  "illustration_id": "d1962b9c-4b8b-4bcd-90d5-d3faa0160dac",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2217,
+  "prices": {
+    "usd": "23.76",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "19.25",
+    "eur_foil": null,
+    "tix": "3.13"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=470561&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBone%2BMiser",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBone%2BMiser",
+    "edhrec": "https://edhrec.com/route/?cc=Bone+Miser"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F196671%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=392627&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/77084?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

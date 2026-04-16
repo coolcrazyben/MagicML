@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "086d94a0-763e-495e-b952-5c13383657c9",
+  "oracle_id": "e26f0fcd-d6d2-4e7b-82dd-711bc0b9dad3",
+  "multiverse_ids": [
+    580977
+  ],
+  "mtgo_id": 108782,
+  "tcgplayer_id": 286337,
+  "cardmarket_id": 675374,
+  "name": "Cryptothrall",
+  "lang": "en",
+  "released_at": "2022-10-07",
+  "uri": "https://api.scryfall.com/cards/086d94a0-763e-495e-b952-5c13383657c9",
+  "scryfall_uri": "https://scryfall.com/card/40k/155/cryptothrall?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/8/086d94a0-763e-495e-b952-5c13383657c9.jpg?1673309645",
+    "normal": "https://cards.scryfall.io/normal/front/0/8/086d94a0-763e-495e-b952-5c13383657c9.jpg?1673309645",
+    "large": "https://cards.scryfall.io/large/front/0/8/086d94a0-763e-495e-b952-5c13383657c9.jpg?1673309645",
+    "png": "https://cards.scryfall.io/png/front/0/8/086d94a0-763e-495e-b952-5c13383657c9.png?1673309645",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/8/086d94a0-763e-495e-b952-5c13383657c9.jpg?1673309645",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/8/086d94a0-763e-495e-b952-5c13383657c9.jpg?1673309645"
+  },
+  "mana_cost": "{4}",
+  "cmc": 4.0,
+  "type_line": "Artifact Creature \u2014 Construct",
+  "oracle_text": "Protector \u2014 Other artifact creatures you control have hexproof.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "Protector"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "f35f5dd8-5b95-4f52-bbe7-1c62909a8d08",
+  "set": "40k",
+  "set_name": "Warhammer 40,000 Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/f35f5dd8-5b95-4f52-bbe7-1c62909a8d08",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A40k&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/40k?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/086d94a0-763e-495e-b952-5c13383657c9/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae26f0fcd-d6d2-4e7b-82dd-711bc0b9dad3&unique=prints",
+  "collector_number": "155",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Bound to a cryptek, the cryptothrall exists for one reason: to defend its master to the death.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Henry Peters",
+  "artist_ids": [
+    "2ffd9e06-94af-44f5-bec6-06f781941a6c"
+  ],
+  "illustration_id": "471d1496-932a-4f50-9fc9-9dca75ec5c61",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "universesbeyond"
+  ],
+  "edhrec_rank": 2873,
+  "preview": {
+    "source": "The Command Zone",
+    "source_uri": "https://www.youtube.com/watch?v=g2UWu8lKU5k",
+    "previewed_at": "2022-09-15"
+  },
+  "prices": {
+    "usd": "19.22",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "15.84",
+    "eur_foil": null,
+    "tix": "7.75"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=580977&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCryptothrall",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCryptothrall",
+    "edhrec": "https://edhrec.com/route/?cc=Cryptothrall"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F286337%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=675374&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/108782?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

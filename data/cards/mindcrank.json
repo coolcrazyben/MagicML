@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "8858a941-8175-476d-8177-2db4ffdcb3ad",
+  "oracle_id": "c73c1d91-0163-49c6-832a-b9327e7a2c9b",
+  "multiverse_ids": [
+    567683
+  ],
+  "mtgo_id": 101282,
+  "tcgplayer_id": 273500,
+  "cardmarket_id": 662061,
+  "name": "Mindcrank",
+  "lang": "en",
+  "released_at": "2022-06-10",
+  "uri": "https://api.scryfall.com/cards/8858a941-8175-476d-8177-2db4ffdcb3ad",
+  "scryfall_uri": "https://scryfall.com/card/clb/866/mindcrank?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/8/8858a941-8175-476d-8177-2db4ffdcb3ad.jpg?1674142661",
+    "normal": "https://cards.scryfall.io/normal/front/8/8/8858a941-8175-476d-8177-2db4ffdcb3ad.jpg?1674142661",
+    "large": "https://cards.scryfall.io/large/front/8/8/8858a941-8175-476d-8177-2db4ffdcb3ad.jpg?1674142661",
+    "png": "https://cards.scryfall.io/png/front/8/8/8858a941-8175-476d-8177-2db4ffdcb3ad.png?1674142661",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/8/8858a941-8175-476d-8177-2db4ffdcb3ad.jpg?1674142661",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/8/8858a941-8175-476d-8177-2db4ffdcb3ad.jpg?1674142661"
+  },
+  "mana_cost": "{2}",
+  "cmc": 2.0,
+  "type_line": "Artifact",
+  "oracle_text": "Whenever an opponent loses life, that player mills that many cards. (Damage causes loss of life.)",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "Mill"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set": "clb",
+  "set_name": "Commander Legends: Battle for Baldur's Gate",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aclb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/clb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8858a941-8175-476d-8177-2db4ffdcb3ad/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac73c1d91-0163-49c6-832a-b9327e7a2c9b&unique=prints",
+  "collector_number": "866",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"Let go of your memories and be reborn.\"\n\u2014Argent Etchings, plate 106, passage 27",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Rahn",
+  "artist_ids": [
+    "7742047e-0f80-4c0f-a530-d07460165e86"
+  ],
+  "illustration_id": "04a2030a-ba09-42d9-836a-df502a3be5bb",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 943,
+  "penny_rank": 870,
+  "prices": {
+    "usd": "13.68",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "9.25",
+    "eur_foil": null,
+    "tix": "0.23"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=567683&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMindcrank",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMindcrank",
+    "edhrec": "https://edhrec.com/route/?cc=Mindcrank"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F273500%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=662061&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/101282?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

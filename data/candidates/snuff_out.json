@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Deadly Rollick",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Fell the Profane // Fell Mire",
+    "type_line": "Instant // Land",
+    "mana_value": 4.0,
+    "mana_cost": "",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Withering Torment",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Saw in Half",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Murder",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{1}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Dismember",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{1}{B/P}{B/P}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Soul Shatter",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Baleful Mastery",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Flare of Malice",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Ad Nauseam",
+    "type_line": "Instant",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  }
+]

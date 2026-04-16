@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Vandalblast",
+    "type_line": "Sorcery",
+    "mana_value": 1.0,
+    "mana_cost": "{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Gamble",
+    "type_line": "Sorcery",
+    "mana_value": 1.0,
+    "mana_cost": "{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Rite of Flame",
+    "type_line": "Sorcery",
+    "mana_value": 1.0,
+    "mana_cost": "{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Grapeshot",
+    "type_line": "Sorcery",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Cathartic Reunion",
+    "type_line": "Sorcery",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Strike It Rich",
+    "type_line": "Sorcery",
+    "mana_value": 1.0,
+    "mana_cost": "{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Twinflame",
+    "type_line": "Sorcery",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Crackle with Power",
+    "type_line": "Sorcery",
+    "mana_value": 2.0,
+    "mana_cost": "{X}{X}{X}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Shatterskull Smashing // Shatterskull, the Hammer Pass",
+    "type_line": "Sorcery // Land",
+    "mana_value": 2.0,
+    "mana_cost": "",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Grab the Prize",
+    "type_line": "Sorcery",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{R}",
+    "color_identity": [
+      "R"
+    ]
+  }
+]

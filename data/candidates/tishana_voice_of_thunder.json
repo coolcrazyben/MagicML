@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Etali, Primal Storm",
+    "type_line": "Legendary Creature \u2014 Elder Dinosaur",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Avenger of Zendikar",
+    "type_line": "Creature \u2014 Elemental",
+    "mana_value": 7.0,
+    "mana_cost": "{5}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Hullbreaker Horror",
+    "type_line": "Creature \u2014 Kraken Horror",
+    "mana_value": 7.0,
+    "mana_cost": "{5}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Craterhoof Behemoth",
+    "type_line": "Creature \u2014 Beast",
+    "mana_value": 8.0,
+    "mana_cost": "{5}{G}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Rampaging Baloths",
+    "type_line": "Creature \u2014 Beast",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Disciple of Freyalise // Garden of Freyalise",
+    "type_line": "Creature \u2014 Elf Druid // Land",
+    "mana_value": 6.0,
+    "mana_cost": "",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Ancient Greenwarden",
+    "type_line": "Creature \u2014 Elemental",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Consecrated Sphinx",
+    "type_line": "Creature \u2014 Sphinx",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Ancient Copper Dragon",
+    "type_line": "Creature \u2014 Elder Dragon",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Niv-Mizzet, Parun",
+    "type_line": "Legendary Creature \u2014 Dragon Wizard",
+    "mana_value": 6.0,
+    "mana_cost": "{U}{U}{U}{R}{R}{R}",
+    "color_identity": [
+      "R",
+      "U"
+    ]
+  }
+]

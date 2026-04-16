@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "1fc2871b-c685-4951-b8e2-7370b9668f7e",
+  "oracle_id": "0727dc95-03df-4a2c-aed5-73fb840f3db7",
+  "multiverse_ids": [
+    625077
+  ],
+  "mtgo_id": 114455,
+  "tcgplayer_id": 506741,
+  "cardmarket_id": 723119,
+  "name": "Abstruse Archaic",
+  "lang": "en",
+  "released_at": "2023-08-04",
+  "uri": "https://api.scryfall.com/cards/1fc2871b-c685-4951-b8e2-7370b9668f7e",
+  "scryfall_uri": "https://scryfall.com/card/cmm/712/abstruse-archaic?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/f/1fc2871b-c685-4951-b8e2-7370b9668f7e.jpg?1690002945",
+    "normal": "https://cards.scryfall.io/normal/front/1/f/1fc2871b-c685-4951-b8e2-7370b9668f7e.jpg?1690002945",
+    "large": "https://cards.scryfall.io/large/front/1/f/1fc2871b-c685-4951-b8e2-7370b9668f7e.jpg?1690002945",
+    "png": "https://cards.scryfall.io/png/front/1/f/1fc2871b-c685-4951-b8e2-7370b9668f7e.png?1690002945",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/f/1fc2871b-c685-4951-b8e2-7370b9668f7e.jpg?1690002945",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/f/1fc2871b-c685-4951-b8e2-7370b9668f7e.jpg?1690002945"
+  },
+  "mana_cost": "{4}",
+  "cmc": 4.0,
+  "type_line": "Creature \u2014 Avatar",
+  "oracle_text": "Vigilance\n{1}, {T}: Copy target activated or triggered ability you control from a colorless source. You may choose new targets for the copy. (Mana abilities can't be targeted.)",
+  "power": "3",
+  "toughness": "4",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "Vigilance"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set": "cmm",
+  "set_name": "Commander Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cmm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1fc2871b-c685-4951-b8e2-7370b9668f7e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0727dc95-03df-4a2c-aed5-73fb840f3db7&unique=prints",
+  "collector_number": "712",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Unburdened from mortality, archaics wander the Vastlands seeking knowledge only they can comprehend.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Hristo D. Chukov",
+  "artist_ids": [
+    "e4631396-f0ce-41df-9d35-a7bd1da9d5a6"
+  ],
+  "illustration_id": "11f8a849-9bd3-4620-84ab-0caa7d9c6f65",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 5275,
+  "preview": {
+    "source": "LoadingReadyRun",
+    "source_uri": "https://www.youtube.com/watch?v=MHeLpN0k7WQ",
+    "previewed_at": "2023-07-20"
+  },
+  "prices": {
+    "usd": "2.77",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "1.38",
+    "eur_foil": null,
+    "tix": "1.98"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=625077&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAbstruse%2BArchaic",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAbstruse%2BArchaic",
+    "edhrec": "https://edhrec.com/route/?cc=Abstruse+Archaic"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F506741%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=723119&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/114455?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

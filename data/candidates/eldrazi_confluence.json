@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Titan's Presence",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{3}",
+    "color_identity": []
+  },
+  {
+    "name": "Zuko's Exile",
+    "type_line": "Instant \u2014 Lesson",
+    "mana_value": 5.0,
+    "mana_cost": "{5}",
+    "color_identity": []
+  }
+]

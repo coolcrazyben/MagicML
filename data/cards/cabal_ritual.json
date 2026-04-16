@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "a5d85875-22da-4054-ae42-e85b472a6d5d",
+  "oracle_id": "5b5bf1fa-6502-4790-b66b-f0f8504ebc7c",
+  "multiverse_ids": [
+    382877
+  ],
+  "mtgo_id": 52959,
+  "mtgo_foil_id": 52960,
+  "name": "Cabal Ritual",
+  "lang": "en",
+  "released_at": "2014-06-16",
+  "uri": "https://api.scryfall.com/cards/a5d85875-22da-4054-ae42-e85b472a6d5d",
+  "scryfall_uri": "https://scryfall.com/card/vma/106/cabal-ritual?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/5/a5d85875-22da-4054-ae42-e85b472a6d5d.jpg?1562928510",
+    "normal": "https://cards.scryfall.io/normal/front/a/5/a5d85875-22da-4054-ae42-e85b472a6d5d.jpg?1562928510",
+    "large": "https://cards.scryfall.io/large/front/a/5/a5d85875-22da-4054-ae42-e85b472a6d5d.jpg?1562928510",
+    "png": "https://cards.scryfall.io/png/front/a/5/a5d85875-22da-4054-ae42-e85b472a6d5d.png?1562928510",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/5/a5d85875-22da-4054-ae42-e85b472a6d5d.jpg?1562928510",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/5/a5d85875-22da-4054-ae42-e85b472a6d5d.jpg?1562928510"
+  },
+  "mana_cost": "{1}{B}",
+  "cmc": 2.0,
+  "type_line": "Instant",
+  "oracle_text": "Add {B}{B}{B}.\nThreshold \u2014 Add {B}{B}{B}{B}{B} instead if there are seven or more cards in your graveyard.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Threshold"
+  ],
+  "produced_mana": [
+    "B"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "a944551a-73fa-41cd-9159-e8d0e4674403",
+  "set": "vma",
+  "set_name": "Vintage Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/a944551a-73fa-41cd-9159-e8d0e4674403",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avma&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/vma?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a5d85875-22da-4054-ae42-e85b472a6d5d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5b5bf1fa-6502-4790-b66b-f0f8504ebc7c&unique=prints",
+  "collector_number": "106",
+  "digital": true,
+  "rarity": "uncommon",
+  "flavor_text": "\"Each syllable chills your veins. Each word rattles your mind.\"\n\u2014Cabal Patriarch",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Greg Hildebrandt",
+  "artist_ids": [
+    "020f967b-0d2f-4166-aabe-901dba8bc7ec"
+  ],
+  "illustration_id": "73ab2c36-98e1-42ba-b4b9-4950ec72ac6b",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 476,
+  "penny_rank": 231,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": "0.23"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382877&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCabal%2BRitual",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCabal%2BRitual",
+    "edhrec": "https://edhrec.com/route/?cc=Cabal+Ritual"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DCabal%2BRitual%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cabal+Ritual&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/52959?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

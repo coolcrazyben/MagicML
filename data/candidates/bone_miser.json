@@ -1,0 +1,88 @@
+[
+  {
+    "name": "Solemn Simulacrum",
+    "type_line": "Artifact Creature \u2014 Golem",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Roaming Throne",
+    "type_line": "Artifact Creature \u2014 Golem",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Mirkwood Bats",
+    "type_line": "Creature \u2014 Bat",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Storm-Kiln Artist",
+    "type_line": "Creature \u2014 Dwarf Shaman",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Pitiless Plunderer",
+    "type_line": "Creature \u2014 Human Pirate",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Gray Merchant of Asphodel",
+    "type_line": "Creature \u2014 Zombie",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Syr Konrad, the Grim",
+    "type_line": "Legendary Creature \u2014 Human Knight",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Etali, Primal Storm",
+    "type_line": "Legendary Creature \u2014 Elder Dinosaur",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Anger",
+    "type_line": "Creature \u2014 Incarnation",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Goldspan Dragon",
+    "type_line": "Creature \u2014 Dragon",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  }
+]

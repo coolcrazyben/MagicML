@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "38048d14-3463-4157-951f-1d68ec78a64e",
+  "oracle_id": "ffce81c5-1b58-4882-a4e7-6f8d7cb170de",
+  "multiverse_ids": [
+    673529
+  ],
+  "mtgo_id": 130379,
+  "arena_id": 92204,
+  "tcgplayer_id": 578058,
+  "cardmarket_id": 788175,
+  "name": "Withering Torment",
+  "lang": "en",
+  "released_at": "2024-09-27",
+  "uri": "https://api.scryfall.com/cards/38048d14-3463-4157-951f-1d68ec78a64e",
+  "scryfall_uri": "https://scryfall.com/card/dsk/124/withering-torment?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/8/38048d14-3463-4157-951f-1d68ec78a64e.jpg?1726286310",
+    "normal": "https://cards.scryfall.io/normal/front/3/8/38048d14-3463-4157-951f-1d68ec78a64e.jpg?1726286310",
+    "large": "https://cards.scryfall.io/large/front/3/8/38048d14-3463-4157-951f-1d68ec78a64e.jpg?1726286310",
+    "png": "https://cards.scryfall.io/png/front/3/8/38048d14-3463-4157-951f-1d68ec78a64e.png?1726286310",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/8/38048d14-3463-4157-951f-1d68ec78a64e.jpg?1726286310",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/8/38048d14-3463-4157-951f-1d68ec78a64e.jpg?1726286310"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3.0,
+  "type_line": "Instant",
+  "oracle_text": "Destroy target creature or enchantment. You lose 2 life.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "a111d8a9-b647-48ec-afab-2b78f92173f5",
+  "set": "dsk",
+  "set_name": "Duskmourn: House of Horror",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/a111d8a9-b647-48ec-afab-2b78f92173f5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adsk&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dsk?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/38048d14-3463-4157-951f-1d68ec78a64e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Affce81c5-1b58-4882-a4e7-6f8d7cb170de&unique=prints",
+  "collector_number": "124",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Each spindrell is the lingering consciousness of a survivor consumed by cellarspawn\u2014a ragged, drifting remnant pulsing with constant psychic agony.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Inkognit",
+  "artist_ids": [
+    "0ebd73e7-55c9-49d6-bf99-241f10801f89"
+  ],
+  "illustration_id": "39f6dcb0-1abf-43a4-a995-fc0cd2feff96",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 312,
+  "penny_rank": 3655,
+  "preview": {
+    "source": "The Grim Tutors",
+    "source_uri": "https://twitter.com/GrimTutorsMTG/status/1833191578350842004",
+    "previewed_at": "2024-09-09"
+  },
+  "prices": {
+    "usd": "3.21",
+    "usd_foil": "4.48",
+    "usd_etched": null,
+    "eur": "2.63",
+    "eur_foil": "2.35",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=673529&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWithering%2BTorment",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWithering%2BTorment",
+    "edhrec": "https://edhrec.com/route/?cc=Withering+Torment"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F578058%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=788175&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/130379?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

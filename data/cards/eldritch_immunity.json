@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "64a63b90-dbd6-4b66-8031-a3e230ada5b9",
+  "oracle_id": "7dce1e8c-5cfd-4626-9f23-7bb3f1b10c1e",
+  "multiverse_ids": [
+    665043
+  ],
+  "mtgo_id": 127369,
+  "tcgplayer_id": 553174,
+  "cardmarket_id": 772917,
+  "name": "Eldritch Immunity",
+  "lang": "en",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/64a63b90-dbd6-4b66-8031-a3e230ada5b9",
+  "scryfall_uri": "https://scryfall.com/card/m3c/33/eldritch-immunity?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/4/64a63b90-dbd6-4b66-8031-a3e230ada5b9.jpg?1717189787",
+    "normal": "https://cards.scryfall.io/normal/front/6/4/64a63b90-dbd6-4b66-8031-a3e230ada5b9.jpg?1717189787",
+    "large": "https://cards.scryfall.io/large/front/6/4/64a63b90-dbd6-4b66-8031-a3e230ada5b9.jpg?1717189787",
+    "png": "https://cards.scryfall.io/png/front/6/4/64a63b90-dbd6-4b66-8031-a3e230ada5b9.png?1717189787",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/4/64a63b90-dbd6-4b66-8031-a3e230ada5b9.jpg?1717189787",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/4/64a63b90-dbd6-4b66-8031-a3e230ada5b9.jpg?1717189787"
+  },
+  "mana_cost": "{C}",
+  "cmc": 1.0,
+  "type_line": "Kindred Instant \u2014 Eldrazi",
+  "oracle_text": "Target creature you control gains protection from each color until end of turn.\nOverload {4}{C} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "Overload"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "f5e00721-cf99-43ba-bf16-b22d56d12c73",
+  "set": "m3c",
+  "set_name": "Modern Horizons 3 Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/f5e00721-cf99-43ba-bf16-b22d56d12c73",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am3c&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/m3c?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/64a63b90-dbd6-4b66-8031-a3e230ada5b9/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7dce1e8c-5cfd-4626-9f23-7bb3f1b10c1e&unique=prints",
+  "collector_number": "33",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "The hail of arrows flew straight and true. But as the arrows got close, they simply ceased to be.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Carlos Palma Cruchaga",
+  "artist_ids": [
+    "f0c43e1b-1853-4abc-8a1b-d7dda6c1d592"
+  ],
+  "illustration_id": "e952f82e-924e-40d2-8fcb-1a369749b0d0",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "ripplefoil"
+  ],
+  "edhrec_rank": 2037,
+  "prices": {
+    "usd": "5.93",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "2.67",
+    "eur_foil": "4.83",
+    "tix": "4.78"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=665043&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DEldritch%2BImmunity",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DEldritch%2BImmunity",
+    "edhrec": "https://edhrec.com/route/?cc=Eldritch+Immunity"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F553174%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=772917&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/127369?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

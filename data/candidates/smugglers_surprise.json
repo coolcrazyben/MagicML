@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Heroic Intervention",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Worldly Tutor",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Crop Rotation",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Nature's Claim",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Snakeskin Veil",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Tamiyo's Safekeeping",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Veil of Summer",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Noxious Revival",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{G/P}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Return to Nature",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Fog",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{G}",
+    "color_identity": [
+      "G"
+    ]
+  }
+]

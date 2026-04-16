@@ -1,0 +1,51 @@
+[
+  {
+    "name": "All Is Dust",
+    "type_line": "Kindred Sorcery \u2014 Eldrazi",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Wandering Archaic // Explore the Vastlands",
+    "type_line": "Creature \u2014 Avatar // Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "",
+    "color_identity": []
+  },
+  {
+    "name": "Selective Obliteration",
+    "type_line": "Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{C}{C}",
+    "color_identity": []
+  },
+  {
+    "name": "Calamity of the Titans",
+    "type_line": "Sorcery",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{C}{C}",
+    "color_identity": []
+  },
+  {
+    "name": "Skittering Invasion",
+    "type_line": "Kindred Sorcery \u2014 Eldrazi",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Introduction to Annihilation",
+    "type_line": "Sorcery \u2014 Lesson",
+    "mana_value": 5.0,
+    "mana_cost": "{5}",
+    "color_identity": []
+  },
+  {
+    "name": "Mascot Exhibition",
+    "type_line": "Sorcery \u2014 Lesson",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  }
+]

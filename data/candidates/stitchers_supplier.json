@@ -1,0 +1,88 @@
+[
+  {
+    "name": "Blood Artist",
+    "type_line": "Creature \u2014 Vampire",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Ornithopter of Paradise",
+    "type_line": "Artifact Creature \u2014 Thopter",
+    "mana_value": 2.0,
+    "mana_cost": "{2}",
+    "color_identity": []
+  },
+  {
+    "name": "Zulaport Cutthroat",
+    "type_line": "Creature \u2014 Human Rogue Ally",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Orcish Bowmasters",
+    "type_line": "Creature \u2014 Orc Archer",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Viscera Seer",
+    "type_line": "Creature \u2014 Vampire Wizard",
+    "mana_value": 1.0,
+    "mana_cost": "{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Dauthi Voidwalker",
+    "type_line": "Creature \u2014 Dauthi Rogue",
+    "mana_value": 2.0,
+    "mana_cost": "{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Walking Ballista",
+    "type_line": "Artifact Creature \u2014 Construct",
+    "mana_value": 0.0,
+    "mana_cost": "{X}{X}",
+    "color_identity": []
+  },
+  {
+    "name": "Accursed Marauder",
+    "type_line": "Creature \u2014 Zombie Warrior",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Marionette Apprentice",
+    "type_line": "Creature \u2014 Human Artificer",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Carrion Feeder",
+    "type_line": "Creature \u2014 Zombie",
+    "mana_value": 1.0,
+    "mana_cost": "{B}",
+    "color_identity": [
+      "B"
+    ]
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Ornithopter of Paradise",
+    "type_line": "Artifact Creature \u2014 Thopter",
+    "mana_value": 2.0,
+    "mana_cost": "{2}",
+    "color_identity": []
+  },
+  {
+    "name": "Faerie Mastermind",
+    "type_line": "Creature \u2014 Faerie Rogue",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Thassa's Oracle",
+    "type_line": "Creature \u2014 Merfolk Wizard",
+    "mana_value": 2.0,
+    "mana_cost": "{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Etherium Sculptor",
+    "type_line": "Artifact Creature \u2014 Vedalken Artificer",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Walking Ballista",
+    "type_line": "Artifact Creature \u2014 Construct",
+    "mana_value": 0.0,
+    "mana_cost": "{X}{X}",
+    "color_identity": []
+  },
+  {
+    "name": "Ornithopter",
+    "type_line": "Artifact Creature \u2014 Thopter",
+    "mana_value": 0.0,
+    "mana_cost": "{0}",
+    "color_identity": []
+  },
+  {
+    "name": "Mockingbird",
+    "type_line": "Creature \u2014 Bird Bard",
+    "mana_value": 1.0,
+    "mana_cost": "{X}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Steel Overseer",
+    "type_line": "Artifact Creature \u2014 Construct",
+    "mana_value": 2.0,
+    "mana_cost": "{2}",
+    "color_identity": []
+  },
+  {
+    "name": "Thrummingbird",
+    "type_line": "Creature \u2014 Phyrexian Bird Horror",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Ledger Shredder",
+    "type_line": "Creature \u2014 Bird Advisor",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{U}",
+    "color_identity": [
+      "U"
+    ]
+  }
+]

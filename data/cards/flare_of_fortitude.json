@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "37b41b59-0296-443b-8a62-8d5c4641ef66",
+  "oracle_id": "4ff07b7c-e97a-4b57-bcf1-2f22c37a8bd6",
+  "multiverse_ids": [
+    662178
+  ],
+  "mtgo_id": 126069,
+  "arena_id": 90875,
+  "tcgplayer_id": 552293,
+  "cardmarket_id": 771180,
+  "name": "Flare of Fortitude",
+  "lang": "en",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/37b41b59-0296-443b-8a62-8d5c4641ef66",
+  "scryfall_uri": "https://scryfall.com/card/mh3/26/flare-of-fortitude?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/7/37b41b59-0296-443b-8a62-8d5c4641ef66.jpg?1717470469",
+    "normal": "https://cards.scryfall.io/normal/front/3/7/37b41b59-0296-443b-8a62-8d5c4641ef66.jpg?1717470469",
+    "large": "https://cards.scryfall.io/large/front/3/7/37b41b59-0296-443b-8a62-8d5c4641ef66.jpg?1717470469",
+    "png": "https://cards.scryfall.io/png/front/3/7/37b41b59-0296-443b-8a62-8d5c4641ef66.png?1717470469",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/7/37b41b59-0296-443b-8a62-8d5c4641ef66.jpg?1717470469",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/7/37b41b59-0296-443b-8a62-8d5c4641ef66.jpg?1717470469"
+  },
+  "mana_cost": "{2}{W}{W}",
+  "cmc": 4.0,
+  "type_line": "Instant",
+  "oracle_text": "You may sacrifice a nontoken white creature rather than pay this spell's mana cost.\nUntil end of turn, your life total can't change, and permanents you control gain hexproof and indestructible.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "banned",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/37b41b59-0296-443b-8a62-8d5c4641ef66/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4ff07b7c-e97a-4b57-bcf1-2f22c37a8bd6&unique=prints",
+  "collector_number": "26",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"I call upon a power greater than myself.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Winona Nelson",
+  "artist_ids": [
+    "e45fe8d3-75d6-42c9-a2df-e945ad81ea27"
+  ],
+  "illustration_id": "ae8d1221-6f35-4244-9598-b355531498bf",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 754,
+  "penny_rank": 962,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "",
+    "previewed_at": "2024-05-21"
+  },
+  "prices": {
+    "usd": "3.34",
+    "usd_foil": "4.93",
+    "usd_etched": null,
+    "eur": "4.12",
+    "eur_foil": "4.48",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=662178&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFlare%2Bof%2BFortitude",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFlare%2Bof%2BFortitude",
+    "edhrec": "https://edhrec.com/route/?cc=Flare+of+Fortitude"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F552293%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=771180&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/126069?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

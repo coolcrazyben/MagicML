@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "a0878b20-315d-49fa-a4d7-232ba1ed6b0d",
+  "oracle_id": "e6479195-cbdf-4d2b-9f45-5fd0a6ab4a77",
+  "multiverse_ids": [
+    202641
+  ],
+  "mtgo_id": 39696,
+  "mtgo_foil_id": 39697,
+  "tcgplayer_id": 39487,
+  "cardmarket_id": 245861,
+  "name": "Arm with Aether",
+  "lang": "en",
+  "released_at": "2011-05-13",
+  "uri": "https://api.scryfall.com/cards/a0878b20-315d-49fa-a4d7-232ba1ed6b0d",
+  "scryfall_uri": "https://scryfall.com/card/nph/28/arm-with-aether?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/0/a0878b20-315d-49fa-a4d7-232ba1ed6b0d.jpg?1562880261",
+    "normal": "https://cards.scryfall.io/normal/front/a/0/a0878b20-315d-49fa-a4d7-232ba1ed6b0d.jpg?1562880261",
+    "large": "https://cards.scryfall.io/large/front/a/0/a0878b20-315d-49fa-a4d7-232ba1ed6b0d.jpg?1562880261",
+    "png": "https://cards.scryfall.io/png/front/a/0/a0878b20-315d-49fa-a4d7-232ba1ed6b0d.png?1562880261",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/0/a0878b20-315d-49fa-a4d7-232ba1ed6b0d.jpg?1562880261",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/0/a0878b20-315d-49fa-a4d7-232ba1ed6b0d.jpg?1562880261"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Until end of turn, creatures you control gain \"Whenever this creature deals damage to an opponent, you may return target creature that player controls to its owner's hand.\"",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "e8e356d8-6d01-4dab-aa07-d0999dc9359f",
+  "set": "nph",
+  "set_name": "New Phyrexia",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/e8e356d8-6d01-4dab-aa07-d0999dc9359f",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Anph&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/nph?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a0878b20-315d-49fa-a4d7-232ba1ed6b0d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae6479195-cbdf-4d2b-9f45-5fd0a6ab4a77&unique=prints",
+  "collector_number": "28",
+  "digital": false,
+  "rarity": "uncommon",
+  "watermark": "mirran",
+  "flavor_text": "\"Anything we can do to hurt the Phyrexian invaders is worth dying for.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Austin Hsu",
+  "artist_ids": [
+    "c5e439d8-b3db-4c13-ae93-4e129e3b9478"
+  ],
+  "illustration_id": "59f307c0-6200-4c7b-a956-432aa475dc1f",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 19753,
+  "penny_rank": 10501,
+  "prices": {
+    "usd": "0.17",
+    "usd_foil": "0.59",
+    "usd_etched": null,
+    "eur": "0.23",
+    "eur_foil": "0.47",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=202641&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DArm%2Bwith%2BAether",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DArm%2Bwith%2BAether",
+    "edhrec": "https://edhrec.com/route/?cc=Arm+with+Aether"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F39487%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=245861&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/39696?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

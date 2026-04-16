@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "1584404b-c086-4734-89e5-8a10c3f29504",
+  "oracle_id": "0a35df9d-80a0-4b6f-91d5-dad980af47e1",
+  "multiverse_ids": [
+    247300
+  ],
+  "mtgo_id": 40488,
+  "mtgo_foil_id": 40808,
+  "tcgplayer_id": 47419,
+  "cardmarket_id": 247233,
+  "name": "Footbottom Feast",
+  "lang": "en",
+  "released_at": "2011-06-17",
+  "uri": "https://api.scryfall.com/cards/1584404b-c086-4734-89e5-8a10c3f29504",
+  "scryfall_uri": "https://scryfall.com/card/cmd/84/footbottom-feast?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/5/1584404b-c086-4734-89e5-8a10c3f29504.jpg?1592713287",
+    "normal": "https://cards.scryfall.io/normal/front/1/5/1584404b-c086-4734-89e5-8a10c3f29504.jpg?1592713287",
+    "large": "https://cards.scryfall.io/large/front/1/5/1584404b-c086-4734-89e5-8a10c3f29504.jpg?1592713287",
+    "png": "https://cards.scryfall.io/png/front/1/5/1584404b-c086-4734-89e5-8a10c3f29504.png?1592713287",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/5/1584404b-c086-4734-89e5-8a10c3f29504.jpg?1592713287",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/5/1584404b-c086-4734-89e5-8a10c3f29504.jpg?1592713287"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3.0,
+  "type_line": "Instant",
+  "oracle_text": "Put any number of target creature cards from your graveyard on top of your library.\nDraw a card.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "84ff1a64-4e69-4ed2-8c08-26206e3b97a0",
+  "set": "cmd",
+  "set_name": "Commander 2011",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/84ff1a64-4e69-4ed2-8c08-26206e3b97a0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmd&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cmd?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1584404b-c086-4734-89e5-8a10c3f29504/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0a35df9d-80a0-4b6f-91d5-dad980af47e1&unique=prints",
+  "collector_number": "84",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "The scent of rot and vinegar fills the marsh, inviting boggarts from every warren to reunite and feast.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jim Nelson",
+  "artist_ids": [
+    "aa9f64d1-29e1-4c82-877e-44c18183f40b"
+  ],
+  "illustration_id": "033f8361-9d7b-4161-b9f1-6c4987ef4ecc",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 11213,
+  "penny_rank": 14320,
+  "prices": {
+    "usd": "0.39",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.25",
+    "eur_foil": null,
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247300&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFootbottom%2BFeast",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFootbottom%2BFeast",
+    "edhrec": "https://edhrec.com/route/?cc=Footbottom+Feast"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F47419%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=247233&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/40488?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

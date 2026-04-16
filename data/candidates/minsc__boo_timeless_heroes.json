@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Chandra, Torch of Defiance",
+    "type_line": "Legendary Planeswalker \u2014 Chandra",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Nissa, Who Shakes the World",
+    "type_line": "Legendary Planeswalker \u2014 Nissa",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Tezzeret, Cruel Captain",
+    "type_line": "Legendary Planeswalker \u2014 Tezzeret",
+    "mana_value": 3.0,
+    "mana_cost": "{3}",
+    "color_identity": []
+  },
+  {
+    "name": "Daretti, Scrap Savant",
+    "type_line": "Legendary Planeswalker \u2014 Daretti",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Karn, the Great Creator",
+    "type_line": "Legendary Planeswalker \u2014 Karn",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Garruk, Primal Hunter",
+    "type_line": "Legendary Planeswalker \u2014 Garruk",
+    "mana_value": 5.0,
+    "mana_cost": "{2}{G}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "The Aetherspark",
+    "type_line": "Legendary Artifact Planeswalker \u2014 Equipment",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Wrenn and Seven",
+    "type_line": "Legendary Planeswalker \u2014 Wrenn",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Wrenn and Realmbreaker",
+    "type_line": "Legendary Planeswalker \u2014 Wrenn",
+    "mana_value": 3.0,
+    "mana_cost": "{1}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Domri, Anarch of Bolas",
+    "type_line": "Legendary Planeswalker \u2014 Domri",
+    "mana_value": 3.0,
+    "mana_cost": "{1}{R}{G}",
+    "color_identity": [
+      "G",
+      "R"
+    ]
+  }
+]

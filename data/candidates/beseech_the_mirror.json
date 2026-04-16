@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Toxic Deluge",
+    "type_line": "Sorcery",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Victimize",
+    "type_line": "Sorcery",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Windfall",
+    "type_line": "Sorcery",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Damnation",
+    "type_line": "Sorcery",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Buried Alive",
+    "type_line": "Sorcery",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Read the Bones",
+    "type_line": "Sorcery",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Diabolic Tutor",
+    "type_line": "Sorcery",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Living Death",
+    "type_line": "Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Fabricate",
+    "type_line": "Sorcery",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Dread Return",
+    "type_line": "Sorcery",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  }
+]

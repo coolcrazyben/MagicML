@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Counterspell",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Beast Within",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Heroic Intervention",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Cyclonic Rift",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Negate",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Generous Gift",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{W}",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Arcane Denial",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Fierce Guardianship",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Teferi's Protection",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{W}",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Frantic Search",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  }
+]

@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "6836c646-83ff-4bf8-96dd-4cbdd6c7e861",
+  "oracle_id": "d4f28a4b-d821-4132-bdec-4c528318f8e2",
+  "multiverse_ids": [
+    627696
+  ],
+  "mtgo_id": 114691,
+  "tcgplayer_id": 503584,
+  "cardmarket_id": 721926,
+  "name": "Hellkite Charger",
+  "lang": "en",
+  "released_at": "2023-08-04",
+  "uri": "https://api.scryfall.com/cards/6836c646-83ff-4bf8-96dd-4cbdd6c7e861",
+  "scryfall_uri": "https://scryfall.com/card/cmm/232/hellkite-charger?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/8/6836c646-83ff-4bf8-96dd-4cbdd6c7e861.jpg?1689997926",
+    "normal": "https://cards.scryfall.io/normal/front/6/8/6836c646-83ff-4bf8-96dd-4cbdd6c7e861.jpg?1689997926",
+    "large": "https://cards.scryfall.io/large/front/6/8/6836c646-83ff-4bf8-96dd-4cbdd6c7e861.jpg?1689997926",
+    "png": "https://cards.scryfall.io/png/front/6/8/6836c646-83ff-4bf8-96dd-4cbdd6c7e861.png?1689997926",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/8/6836c646-83ff-4bf8-96dd-4cbdd6c7e861.jpg?1689997926",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/8/6836c646-83ff-4bf8-96dd-4cbdd6c7e861.jpg?1689997926"
+  },
+  "mana_cost": "{4}{R}{R}",
+  "cmc": 6.0,
+  "type_line": "Creature \u2014 Dragon",
+  "oracle_text": "Flying, haste\nWhenever this creature attacks, you may pay {5}{R}{R}. If you do, untap all attacking creatures and after this phase, there is an additional combat phase.",
+  "power": "5",
+  "toughness": "5",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Flying",
+    "Haste"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set": "cmm",
+  "set_name": "Commander Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/cd05036f-2698-43e6-a48e-5c8d82f0a551",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cmm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6836c646-83ff-4bf8-96dd-4cbdd6c7e861/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad4f28a4b-d821-4132-bdec-4c528318f8e2&unique=prints",
+  "collector_number": "232",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jaime Jones",
+  "artist_ids": [
+    "92f6c2c1-fa57-4b52-99c4-0fd866c13dc9"
+  ],
+  "illustration_id": "1a30eb52-3578-4606-b1c3-21d25fe3897b",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2081,
+  "penny_rank": 8342,
+  "preview": {
+    "source": "Card Kingdom",
+    "source_uri": "https://twitter.com/Card_Kingdom/status/1679166687122276356",
+    "previewed_at": "2023-07-12"
+  },
+  "prices": {
+    "usd": "3.64",
+    "usd_foil": "5.15",
+    "usd_etched": null,
+    "eur": "1.57",
+    "eur_foil": "1.94",
+    "tix": "0.12"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=627696&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHellkite%2BCharger",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHellkite%2BCharger",
+    "edhrec": "https://edhrec.com/route/?cc=Hellkite+Charger"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F503584%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=721926&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/114691?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

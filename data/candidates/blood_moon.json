@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Impact Tremors",
+    "type_line": "Enchantment",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Underworld Breach",
+    "type_line": "Enchantment",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Goblin Bombardment",
+    "type_line": "Enchantment",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Purphoros, God of the Forge",
+    "type_line": "Legendary Enchantment Creature \u2014 God",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Rising of the Day",
+    "type_line": "Enchantment",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Shared Animosity",
+    "type_line": "Enchantment",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Aggravated Assault",
+    "type_line": "Enchantment",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Dragon Tempest",
+    "type_line": "Enchantment",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Descent into Avernus",
+    "type_line": "Enchantment",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Fiery Inscription",
+    "type_line": "Enchantment",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{R}",
+    "color_identity": [
+      "R"
+    ]
+  }
+]

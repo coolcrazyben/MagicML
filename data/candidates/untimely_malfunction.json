@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Chaos Warp",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Deflecting Swat",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Abrade",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Lightning Bolt",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Thrill of Possibility",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Seething Song",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Demand Answers",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Red Elemental Blast",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Pyroblast",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Valakut Awakening // Valakut Stoneforge",
+    "type_line": "Instant // Land",
+    "mana_value": 3.0,
+    "mana_cost": "",
+    "color_identity": [
+      "R"
+    ]
+  }
+]

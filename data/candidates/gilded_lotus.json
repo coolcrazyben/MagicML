@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Solemn Simulacrum",
+    "type_line": "Artifact Creature \u2014 Golem",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "The One Ring",
+    "type_line": "Legendary Artifact",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Roaming Throne",
+    "type_line": "Artifact Creature \u2014 Golem",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Thran Dynamo",
+    "type_line": "Artifact",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Panharmonicon",
+    "type_line": "Artifact",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Bolas's Citadel",
+    "type_line": "Legendary Artifact",
+    "mana_value": 6.0,
+    "mana_cost": "{3}{B}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Vanquisher's Banner",
+    "type_line": "Artifact",
+    "mana_value": 5.0,
+    "mana_cost": "{5}",
+    "color_identity": []
+  },
+  {
+    "name": "Aetherflux Reservoir",
+    "type_line": "Artifact",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Helm of the Host",
+    "type_line": "Legendary Artifact \u2014 Equipment",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Mystic Forge",
+    "type_line": "Artifact",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  }
+]

@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "ac625f30-ed91-4b21-ada8-aaa5b2ad79b8",
+  "oracle_id": "3f661b58-e8ca-412c-bdac-af151162de12",
+  "multiverse_ids": [
+    602595
+  ],
+  "mtgo_id": 106345,
+  "arena_id": 83765,
+  "tcgplayer_id": 479581,
+  "cardmarket_id": 694729,
+  "name": "Prologue to Phyresis",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/ac625f30-ed91-4b21-ada8-aaa5b2ad79b8",
+  "scryfall_uri": "https://scryfall.com/card/one/65/prologue-to-phyresis?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/c/ac625f30-ed91-4b21-ada8-aaa5b2ad79b8.jpg?1675956984",
+    "normal": "https://cards.scryfall.io/normal/front/a/c/ac625f30-ed91-4b21-ada8-aaa5b2ad79b8.jpg?1675956984",
+    "large": "https://cards.scryfall.io/large/front/a/c/ac625f30-ed91-4b21-ada8-aaa5b2ad79b8.jpg?1675956984",
+    "png": "https://cards.scryfall.io/png/front/a/c/ac625f30-ed91-4b21-ada8-aaa5b2ad79b8.png?1675956984",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/c/ac625f30-ed91-4b21-ada8-aaa5b2ad79b8.jpg?1675956984",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/c/ac625f30-ed91-4b21-ada8-aaa5b2ad79b8.jpg?1675956984"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2.0,
+  "type_line": "Instant",
+  "oracle_text": "Each opponent gets a poison counter.\nDraw a card.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "ac625f30-ed91-4b21-ada8-aaa5b2ad79b8",
+      "component": "combo_piece",
+      "name": "Prologue to Phyresis",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/ac625f30-ed91-4b21-ada8-aaa5b2ad79b8"
+    },
+    {
+      "object": "related_card",
+      "id": "40255bfa-0004-45f1-a31b-17d385f09a95",
+      "component": "combo_piece",
+      "name": "Poison Counter",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/40255bfa-0004-45f1-a31b-17d385f09a95"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ac625f30-ed91-4b21-ada8-aaa5b2ad79b8/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3f661b58-e8ca-412c-bdac-af151162de12&unique=prints",
+  "collector_number": "65",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Please, for science, tell me how it feels. Leave nothing out.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Simon Dominic",
+  "artist_ids": [
+    "b0e80135-db5a-4b88-a0bc-815a0e94faa1"
+  ],
+  "illustration_id": "83475779-ee81-414e-b075-12e1e9db0c1c",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2599,
+  "penny_rank": 2654,
+  "prices": {
+    "usd": "0.42",
+    "usd_foil": "0.89",
+    "usd_etched": null,
+    "eur": "0.38",
+    "eur_foil": "0.50",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602595&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPrologue%2Bto%2BPhyresis",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPrologue%2Bto%2BPhyresis",
+    "edhrec": "https://edhrec.com/route/?cc=Prologue+to+Phyresis"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F479581%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=694729&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106345?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

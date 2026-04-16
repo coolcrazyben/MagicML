@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "a304200f-86d5-4eed-a775-cc24e72872ac",
+  "oracle_id": "330f97ee-6bb2-4a4b-a8bc-411659dc4260",
+  "multiverse_ids": [
+    463838
+  ],
+  "mtgo_id": 72184,
+  "arena_id": 69722,
+  "tcgplayer_id": 188640,
+  "cardmarket_id": 372247,
+  "name": "Guildpact Informant",
+  "lang": "en",
+  "released_at": "2019-05-03",
+  "uri": "https://api.scryfall.com/cards/a304200f-86d5-4eed-a775-cc24e72872ac",
+  "scryfall_uri": "https://scryfall.com/card/war/271/guildpact-informant?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/3/a304200f-86d5-4eed-a775-cc24e72872ac.jpg?1558667625",
+    "normal": "https://cards.scryfall.io/normal/front/a/3/a304200f-86d5-4eed-a775-cc24e72872ac.jpg?1558667625",
+    "large": "https://cards.scryfall.io/large/front/a/3/a304200f-86d5-4eed-a775-cc24e72872ac.jpg?1558667625",
+    "png": "https://cards.scryfall.io/png/front/a/3/a304200f-86d5-4eed-a775-cc24e72872ac.png?1558667625",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/3/a304200f-86d5-4eed-a775-cc24e72872ac.jpg?1558667625",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/3/a304200f-86d5-4eed-a775-cc24e72872ac.jpg?1558667625"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3.0,
+  "type_line": "Creature \u2014 Faerie Rogue",
+  "oracle_text": "Flying\nWhenever this creature deals combat damage to a player or planeswalker, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flying",
+    "Proliferate"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "ee044f0b-e101-4ead-8d0e-aa510aad4277",
+  "set": "war",
+  "set_name": "War of the Spark",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/ee044f0b-e101-4ead-8d0e-aa510aad4277",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awar&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/war?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a304200f-86d5-4eed-a775-cc24e72872ac/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A330f97ee-6bb2-4a4b-a8bc-411659dc4260&unique=prints",
+  "collector_number": "271",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Of course you're being followed!\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Randy Gallegos",
+  "artist_ids": [
+    "a5048cc7-438a-4378-98e4-da99b78e1db0"
+  ],
+  "illustration_id": "3c25b1c6-3053-4345-ac0c-a2af29c40ddd",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "planeswalkerdeck"
+  ],
+  "edhrec_rank": 8439,
+  "prices": {
+    "usd": "0.90",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "1.47",
+    "eur_foil": null,
+    "tix": "7.43"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463838&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGuildpact%2BInformant",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGuildpact%2BInformant",
+    "edhrec": "https://edhrec.com/route/?cc=Guildpact+Informant"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F188640%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=372247&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72184?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

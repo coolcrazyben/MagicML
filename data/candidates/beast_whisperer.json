@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Solemn Simulacrum",
+    "type_line": "Artifact Creature \u2014 Golem",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Eternal Witness",
+    "type_line": "Creature \u2014 Human Shaman",
+    "mana_value": 3.0,
+    "mana_cost": "{1}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Roaming Throne",
+    "type_line": "Artifact Creature \u2014 Golem",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Tireless Provisioner",
+    "type_line": "Creature \u2014 Elf Scout",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Professional Face-Breaker",
+    "type_line": "Creature \u2014 Human Warrior",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Scute Swarm",
+    "type_line": "Creature \u2014 Insect",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Storm-Kiln Artist",
+    "type_line": "Creature \u2014 Dwarf Shaman",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Foundry Inspector",
+    "type_line": "Artifact Creature \u2014 Construct",
+    "mana_value": 3.0,
+    "mana_cost": "{3}",
+    "color_identity": []
+  },
+  {
+    "name": "Academy Manufactor",
+    "type_line": "Artifact Creature \u2014 Assembly-Worker",
+    "mana_value": 3.0,
+    "mana_cost": "{3}",
+    "color_identity": []
+  },
+  {
+    "name": "Archmage Emeritus",
+    "type_line": "Creature \u2014 Human Wizard",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  }
+]

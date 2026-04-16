@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Sanguine Bond",
+    "type_line": "Enchantment",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Grave Pact",
+    "type_line": "Enchantment",
+    "mana_value": 4.0,
+    "mana_cost": "{1}{B}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Black Market",
+    "type_line": "Enchantment",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Whip of Erebos",
+    "type_line": "Legendary Enchantment Artifact",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Enduring Tenacity",
+    "type_line": "Enchantment Creature \u2014 Snake Glimmer",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Dictate of Erebos",
+    "type_line": "Enchantment",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Revel in Riches",
+    "type_line": "Enchantment",
+    "mana_value": 5.0,
+    "mana_cost": "{4}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Painful Quandary",
+    "type_line": "Enchantment",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Echoes of Eternity",
+    "type_line": "Kindred Enchantment \u2014 Eldrazi",
+    "mana_value": 6.0,
+    "mana_cost": "{3}{C}{C}{C}",
+    "color_identity": []
+  },
+  {
+    "name": "No Mercy",
+    "type_line": "Enchantment",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "name": "Narset, Parter of Veils",
+    "type_line": "Legendary Planeswalker \u2014 Narset",
+    "mana_value": 3.0,
+    "mana_cost": "{1}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Jace, Wielder of Mysteries",
+    "type_line": "Legendary Planeswalker \u2014 Jace",
+    "mana_value": 4.0,
+    "mana_cost": "{1}{U}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Tezzeret, Cruel Captain",
+    "type_line": "Legendary Planeswalker \u2014 Tezzeret",
+    "mana_value": 3.0,
+    "mana_cost": "{3}",
+    "color_identity": []
+  },
+  {
+    "name": "Grist, the Hunger Tide",
+    "type_line": "Legendary Planeswalker \u2014 Grist",
+    "mana_value": 3.0,
+    "mana_cost": "{1}{B}{G}",
+    "color_identity": [
+      "B",
+      "G"
+    ]
+  },
+  {
+    "name": "Oko, Thief of Crowns",
+    "type_line": "Legendary Planeswalker \u2014 Oko",
+    "mana_value": 3.0,
+    "mana_cost": "{1}{G}{U}",
+    "color_identity": [
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Karn, the Great Creator",
+    "type_line": "Legendary Planeswalker \u2014 Karn",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Teferi, Master of Time",
+    "type_line": "Legendary Planeswalker \u2014 Teferi",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Liliana of the Dark Realms",
+    "type_line": "Legendary Planeswalker \u2014 Liliana",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "The Aetherspark",
+    "type_line": "Legendary Artifact Planeswalker \u2014 Equipment",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Kiora, Behemoth Beckoner",
+    "type_line": "Legendary Planeswalker \u2014 Kiora",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{G/U}",
+    "color_identity": [
+      "G",
+      "U"
+    ]
+  }
+]

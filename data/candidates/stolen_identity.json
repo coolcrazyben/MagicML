@@ -1,0 +1,88 @@
+[
+  {
+    "name": "Sea Gate Restoration // Sea Gate, Reborn",
+    "type_line": "Sorcery // Land",
+    "mana_value": 7.0,
+    "mana_cost": "",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Thoughtcast",
+    "type_line": "Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "{4}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "All Is Dust",
+    "type_line": "Kindred Sorcery \u2014 Eldrazi",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Raise the Palisade",
+    "type_line": "Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "{4}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "L\u00f3rien Revealed",
+    "type_line": "Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Wandering Archaic // Explore the Vastlands",
+    "type_line": "Creature \u2014 Avatar // Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "",
+    "color_identity": []
+  },
+  {
+    "name": "Time Warp",
+    "type_line": "Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Quantum Misalignment",
+    "type_line": "Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "{4}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Season of Weaving",
+    "type_line": "Sorcery",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Temporal Mastery",
+    "type_line": "Sorcery",
+    "mana_value": 7.0,
+    "mana_cost": "{5}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  }
+]

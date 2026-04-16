@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "b5bf549c-799f-456f-85d5-8a7302bc729d",
+  "oracle_id": "cc94462f-a207-4fdb-8704-aa979c244cab",
+  "multiverse_ids": [
+    394585
+  ],
+  "mtgo_id": 56078,
+  "mtgo_foil_id": 56079,
+  "tcgplayer_id": 96737,
+  "cardmarket_id": 273344,
+  "name": "Gravepurge",
+  "lang": "en",
+  "released_at": "2015-03-27",
+  "uri": "https://api.scryfall.com/cards/b5bf549c-799f-456f-85d5-8a7302bc729d",
+  "scryfall_uri": "https://scryfall.com/card/dtk/104/gravepurge?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/5/b5bf549c-799f-456f-85d5-8a7302bc729d.jpg?1562791933",
+    "normal": "https://cards.scryfall.io/normal/front/b/5/b5bf549c-799f-456f-85d5-8a7302bc729d.jpg?1562791933",
+    "large": "https://cards.scryfall.io/large/front/b/5/b5bf549c-799f-456f-85d5-8a7302bc729d.jpg?1562791933",
+    "png": "https://cards.scryfall.io/png/front/b/5/b5bf549c-799f-456f-85d5-8a7302bc729d.png?1562791933",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/5/b5bf549c-799f-456f-85d5-8a7302bc729d.jpg?1562791933",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/5/b5bf549c-799f-456f-85d5-8a7302bc729d.jpg?1562791933"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3.0,
+  "type_line": "Instant",
+  "oracle_text": "Put any number of target creature cards from your graveyard on top of your library.\nDraw a card.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7e72625f-f320-4552-a719-d11e2f1853bd",
+  "set": "dtk",
+  "set_name": "Dragons of Tarkir",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/7e72625f-f320-4552-a719-d11e2f1853bd",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adtk&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dtk?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b5bf549c-799f-456f-85d5-8a7302bc729d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acc94462f-a207-4fdb-8704-aa979c244cab&unique=prints",
+  "collector_number": "104",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Lord Silumgar has given you a second chance to please him.\"\n\u2014Siara, the Dragon's Mouth",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Nils Hamm",
+  "artist_ids": [
+    "c540d1fc-1500-457f-93cf-d6069ee66546"
+  ],
+  "illustration_id": "0d398e4c-4bb7-4e1b-b7fd-67e88c5129a0",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 6908,
+  "penny_rank": 13089,
+  "prices": {
+    "usd": "0.15",
+    "usd_foil": "0.80",
+    "usd_etched": null,
+    "eur": "0.05",
+    "eur_foil": "0.45",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394585&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGravepurge",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGravepurge",
+    "edhrec": "https://edhrec.com/route/?cc=Gravepurge"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F96737%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=273344&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/56078?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

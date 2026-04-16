@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "fd5be605-c7c3-4c0b-a68e-65452b27d3ce",
+  "oracle_id": "c6bdaf76-6a03-4695-9c4b-f040e73435af",
+  "multiverse_ids": [
+    696373
+  ],
+  "mtgo_id": 138371,
+  "tcgplayer_id": 624183,
+  "cardmarket_id": 818819,
+  "name": "Guttersnipe",
+  "lang": "en",
+  "released_at": "2025-04-11",
+  "uri": "https://api.scryfall.com/cards/fd5be605-c7c3-4c0b-a68e-65452b27d3ce",
+  "scryfall_uri": "https://scryfall.com/card/tdc/217/guttersnipe?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/d/fd5be605-c7c3-4c0b-a68e-65452b27d3ce.jpg?1743206688",
+    "normal": "https://cards.scryfall.io/normal/front/f/d/fd5be605-c7c3-4c0b-a68e-65452b27d3ce.jpg?1743206688",
+    "large": "https://cards.scryfall.io/large/front/f/d/fd5be605-c7c3-4c0b-a68e-65452b27d3ce.jpg?1743206688",
+    "png": "https://cards.scryfall.io/png/front/f/d/fd5be605-c7c3-4c0b-a68e-65452b27d3ce.png?1743206688",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/d/fd5be605-c7c3-4c0b-a68e-65452b27d3ce.jpg?1743206688",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/d/fd5be605-c7c3-4c0b-a68e-65452b27d3ce.jpg?1743206688"
+  },
+  "mana_cost": "{2}{R}",
+  "cmc": 3.0,
+  "type_line": "Creature \u2014 Goblin Shaman",
+  "oracle_text": "Whenever you cast an instant or sorcery spell, this creature deals 2 damage to each opponent.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "bca9779c-0a0b-4ac1-8794-f3fc25549cf4",
+  "set": "tdc",
+  "set_name": "Tarkir: Dragonstorm Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/bca9779c-0a0b-4ac1-8794-f3fc25549cf4",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atdc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tdc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/fd5be605-c7c3-4c0b-a68e-65452b27d3ce/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac6bdaf76-6a03-4695-9c4b-f040e73435af&unique=prints",
+  "collector_number": "217",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"Fire! Fire! Fire! What joy! What fire! Burn it all!\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Andrey Kuzinskiy",
+  "artist_ids": [
+    "c04ff0b2-67a1-4238-82f7-6c67de734b56"
+  ],
+  "illustration_id": "2aedc3b2-76e4-4bf2-aad6-7c019b4104ec",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 403,
+  "penny_rank": 4626,
+  "prices": {
+    "usd": "0.35",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.29",
+    "eur_foil": null,
+    "tix": "0.35"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=696373&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGuttersnipe",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGuttersnipe",
+    "edhrec": "https://edhrec.com/route/?cc=Guttersnipe"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F624183%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=818819&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/138371?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

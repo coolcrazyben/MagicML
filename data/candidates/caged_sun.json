@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Bolas's Citadel",
+    "type_line": "Legendary Artifact",
+    "mana_value": 6.0,
+    "mana_cost": "{3}{B}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Vanquisher's Banner",
+    "type_line": "Artifact",
+    "mana_value": 5.0,
+    "mana_cost": "{5}",
+    "color_identity": []
+  },
+  {
+    "name": "Gilded Lotus",
+    "type_line": "Artifact",
+    "mana_value": 5.0,
+    "mana_cost": "{5}",
+    "color_identity": []
+  },
+  {
+    "name": "Psychosis Crawler",
+    "type_line": "Artifact Creature \u2014 Phyrexian Horror",
+    "mana_value": 5.0,
+    "mana_cost": "{5}",
+    "color_identity": []
+  },
+  {
+    "name": "Conjurer's Closet",
+    "type_line": "Artifact",
+    "mana_value": 5.0,
+    "mana_cost": "{5}",
+    "color_identity": []
+  },
+  {
+    "name": "Banner of Kinship",
+    "type_line": "Artifact",
+    "mana_value": 5.0,
+    "mana_cost": "{5}",
+    "color_identity": []
+  },
+  {
+    "name": "Meteor Golem",
+    "type_line": "Artifact Creature \u2014 Golem",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Chimil, the Inner Sun",
+    "type_line": "Legendary Artifact",
+    "mana_value": 6.0,
+    "mana_cost": "{6}",
+    "color_identity": []
+  },
+  {
+    "name": "Myr Battlesphere",
+    "type_line": "Artifact Creature \u2014 Myr Construct",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Throne of Eldraine",
+    "type_line": "Legendary Artifact",
+    "mana_value": 5.0,
+    "mana_cost": "{5}",
+    "color_identity": []
+  }
+]

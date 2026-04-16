@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Windfall",
+    "type_line": "Sorcery",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Ponder",
+    "type_line": "Sorcery",
+    "mana_value": 1.0,
+    "mana_cost": "{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Preordain",
+    "type_line": "Sorcery",
+    "mana_value": 1.0,
+    "mana_cost": "{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Fabricate",
+    "type_line": "Sorcery",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Gitaxian Probe",
+    "type_line": "Sorcery",
+    "mana_value": 1.0,
+    "mana_cost": "{U/P}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Serum Visions",
+    "type_line": "Sorcery",
+    "mana_value": 1.0,
+    "mana_cost": "{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Curse of the Swine",
+    "type_line": "Sorcery",
+    "mana_value": 2.0,
+    "mana_cost": "{X}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Solve the Equation",
+    "type_line": "Sorcery",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Finale of Revelation",
+    "type_line": "Sorcery",
+    "mana_value": 2.0,
+    "mana_cost": "{X}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Enter the Enigma",
+    "type_line": "Sorcery",
+    "mana_value": 1.0,
+    "mana_cost": "{U}",
+    "color_identity": [
+      "U"
+    ]
+  }
+]

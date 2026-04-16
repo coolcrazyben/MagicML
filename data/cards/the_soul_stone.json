@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "1982f910-a9bd-4e94-a187-84381b22aacc",
+  "oracle_id": "92cfba68-12f6-4f97-9187-0f6a39656a0f",
+  "multiverse_ids": [],
+  "resource_id": "95469C8D05126D7FDB98B69C87B384378B21FE59C8AA4B4E6357050C765B0D14",
+  "tcgplayer_id": 647302,
+  "cardmarket_id": 841128,
+  "name": "The Soul Stone",
+  "lang": "en",
+  "released_at": "2025-09-26",
+  "uri": "https://api.scryfall.com/cards/1982f910-a9bd-4e94-a187-84381b22aacc",
+  "scryfall_uri": "https://scryfall.com/card/spm/66/the-soul-stone?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/9/1982f910-a9bd-4e94-a187-84381b22aacc.jpg?1757377171",
+    "normal": "https://cards.scryfall.io/normal/front/1/9/1982f910-a9bd-4e94-a187-84381b22aacc.jpg?1757377171",
+    "large": "https://cards.scryfall.io/large/front/1/9/1982f910-a9bd-4e94-a187-84381b22aacc.jpg?1757377171",
+    "png": "https://cards.scryfall.io/png/front/1/9/1982f910-a9bd-4e94-a187-84381b22aacc.png?1757377171",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/9/1982f910-a9bd-4e94-a187-84381b22aacc.jpg?1757377171",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/9/1982f910-a9bd-4e94-a187-84381b22aacc.jpg?1757377171"
+  },
+  "mana_cost": "{1}{B}",
+  "cmc": 2.0,
+  "type_line": "Legendary Artifact \u2014 Infinity Stone",
+  "oracle_text": "Indestructible\n{T}: Add {B}.\n{6}{B}, {T}, Exile a creature you control: Harness The Soul Stone. (Once harnessed, its \u221e ability is active.)\n\u221e \u2014 At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Indestructible"
+  ],
+  "produced_mana": [
+    "B"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "a1c7b891-9e96-434c-9994-be58b62b27f1",
+  "set": "spm",
+  "set_name": "Marvel's Spider-Man",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/a1c7b891-9e96-434c-9994-be58b62b27f1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aspm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/spm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1982f910-a9bd-4e94-a187-84381b22aacc/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A92cfba68-12f6-4f97-9187-0f6a39656a0f&unique=prints",
+  "collector_number": "66",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Volkan Ba\u01f5a",
+  "artist_ids": [
+    "93bec3c0-0260-4d31-8064-5d01efb4153f"
+  ],
+  "illustration_id": "6da07661-ffd6-43c5-a6ba-e29271065b21",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "promo_types": [
+    "universesbeyond"
+  ],
+  "edhrec_rank": 1494,
+  "preview": {
+    "source": "Marvel",
+    "source_uri": "https://www.facebook.com/watch/?v=715591184787725",
+    "previewed_at": "2025-08-01"
+  },
+  "prices": {
+    "usd": "66.54",
+    "usd_foil": "82.00",
+    "usd_etched": null,
+    "eur": "45.26",
+    "eur_foil": "68.08",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThe%2BSoul%2BStone",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThe%2BSoul%2BStone",
+    "edhrec": "https://edhrec.com/route/?cc=The+Soul+Stone"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F647302%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=841128&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=The+Soul+Stone&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

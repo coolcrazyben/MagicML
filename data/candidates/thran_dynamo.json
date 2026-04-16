@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Solemn Simulacrum",
+    "type_line": "Artifact Creature \u2014 Golem",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Commander's Sphere",
+    "type_line": "Artifact",
+    "mana_value": 3.0,
+    "mana_cost": "{3}",
+    "color_identity": []
+  },
+  {
+    "name": "Chromatic Lantern",
+    "type_line": "Artifact",
+    "mana_value": 3.0,
+    "mana_cost": "{3}",
+    "color_identity": []
+  },
+  {
+    "name": "The One Ring",
+    "type_line": "Legendary Artifact",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Roaming Throne",
+    "type_line": "Artifact Creature \u2014 Golem",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Ashnod's Altar",
+    "type_line": "Artifact",
+    "mana_value": 3.0,
+    "mana_cost": "{3}",
+    "color_identity": []
+  },
+  {
+    "name": "Herald's Horn",
+    "type_line": "Artifact",
+    "mana_value": 3.0,
+    "mana_cost": "{3}",
+    "color_identity": []
+  },
+  {
+    "name": "Mithril Coat",
+    "type_line": "Legendary Artifact \u2014 Equipment",
+    "mana_value": 3.0,
+    "mana_cost": "{3}",
+    "color_identity": []
+  },
+  {
+    "name": "Patchwork Banner",
+    "type_line": "Artifact",
+    "mana_value": 3.0,
+    "mana_cost": "{3}",
+    "color_identity": []
+  },
+  {
+    "name": "Foundry Inspector",
+    "type_line": "Artifact Creature \u2014 Construct",
+    "mana_value": 3.0,
+    "mana_cost": "{3}",
+    "color_identity": []
+  }
+]

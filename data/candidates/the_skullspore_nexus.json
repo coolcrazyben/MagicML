@@ -1,0 +1,74 @@
+[
+  {
+    "name": "The Great Henge",
+    "type_line": "Legendary Artifact",
+    "mana_value": 9.0,
+    "mana_cost": "{7}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Meteor Golem",
+    "type_line": "Artifact Creature \u2014 Golem",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Myr Battlesphere",
+    "type_line": "Artifact Creature \u2014 Myr Construct",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Portal to Phyrexia",
+    "type_line": "Artifact",
+    "mana_value": 9.0,
+    "mana_cost": "{9}",
+    "color_identity": []
+  },
+  {
+    "name": "Chromatic Orrery",
+    "type_line": "Legendary Artifact",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Akroma's Memorial",
+    "type_line": "Legendary Artifact",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Darksteel Forge",
+    "type_line": "Artifact",
+    "mana_value": 9.0,
+    "mana_cost": "{9}",
+    "color_identity": []
+  },
+  {
+    "name": "Kaldra Compleat",
+    "type_line": "Legendary Artifact \u2014 Equipment",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Platinum Angel",
+    "type_line": "Artifact Creature \u2014 Angel",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Threefold Thunderhulk",
+    "type_line": "Artifact Creature \u2014 Gnome",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  }
+]

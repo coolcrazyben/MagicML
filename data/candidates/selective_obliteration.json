@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Wandering Archaic // Explore the Vastlands",
+    "type_line": "Creature \u2014 Avatar // Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "",
+    "color_identity": []
+  },
+  {
+    "name": "Calamity of the Titans",
+    "type_line": "Sorcery",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{C}{C}",
+    "color_identity": []
+  },
+  {
+    "name": "Introduction to Annihilation",
+    "type_line": "Sorcery \u2014 Lesson",
+    "mana_value": 5.0,
+    "mana_cost": "{5}",
+    "color_identity": []
+  },
+  {
+    "name": "Gruesome Slaughter",
+    "type_line": "Sorcery",
+    "mana_value": 6.0,
+    "mana_cost": "{6}",
+    "color_identity": []
+  }
+]

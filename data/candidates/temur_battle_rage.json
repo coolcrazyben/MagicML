@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Beast Within",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Chaos Warp",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Heroic Intervention",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Deflecting Swat",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Abrade",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Lightning Bolt",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Worldly Tutor",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Thrill of Possibility",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Crop Rotation",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Harrow",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{G}",
+    "color_identity": [
+      "G"
+    ]
+  }
+]

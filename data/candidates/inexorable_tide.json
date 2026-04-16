@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Kindred Discovery",
+    "type_line": "Enchantment",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Bident of Thassa",
+    "type_line": "Legendary Enchantment Artifact",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Teferi's Ageless Insight",
+    "type_line": "Legendary Enchantment",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Reflections of Littjara",
+    "type_line": "Enchantment",
+    "mana_value": 5.0,
+    "mana_cost": "{4}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Leyline of Anticipation",
+    "type_line": "Enchantment",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Reconnaissance Mission",
+    "type_line": "Enchantment",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Thopter Spy Network",
+    "type_line": "Enchantment",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Enduring Curiosity",
+    "type_line": "Enchantment Creature \u2014 Cat Glimmer",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Mechanized Production",
+    "type_line": "Enchantment \u2014 Aura",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Thassa, Deep-Dwelling",
+    "type_line": "Legendary Enchantment Creature \u2014 God",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{U}",
+    "color_identity": [
+      "U"
+    ]
+  }
+]

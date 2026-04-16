@@ -1,0 +1,117 @@
+{
+  "object": "card",
+  "id": "d74f59cd-0b58-4dbc-a4e7-742b012ba749",
+  "oracle_id": "1b882a0e-0ede-4d1a-bd1a-9b7cffbcde8e",
+  "multiverse_ids": [],
+  "tcgplayer_id": 687584,
+  "cardmarket_id": 881622,
+  "name": "Three Visits",
+  "lang": "en",
+  "released_at": "2026-04-24",
+  "uri": "https://api.scryfall.com/cards/d74f59cd-0b58-4dbc-a4e7-742b012ba749",
+  "scryfall_uri": "https://scryfall.com/card/soc/289/three-visits?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/7/d74f59cd-0b58-4dbc-a4e7-742b012ba749.jpg?1775941618",
+    "normal": "https://cards.scryfall.io/normal/front/d/7/d74f59cd-0b58-4dbc-a4e7-742b012ba749.jpg?1775941618",
+    "large": "https://cards.scryfall.io/large/front/d/7/d74f59cd-0b58-4dbc-a4e7-742b012ba749.jpg?1775941618",
+    "png": "https://cards.scryfall.io/png/front/d/7/d74f59cd-0b58-4dbc-a4e7-742b012ba749.png?1775941618",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/7/d74f59cd-0b58-4dbc-a4e7-742b012ba749.jpg?1775941618",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/7/d74f59cd-0b58-4dbc-a4e7-742b012ba749.jpg?1775941618"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Search your library for a Forest card, put it onto the battlefield, then shuffle.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "97fab8d1-480a-419d-ab14-663968e29b9c",
+  "set": "soc",
+  "set_name": "Secrets of Strixhaven Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/97fab8d1-480a-419d-ab14-663968e29b9c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asoc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/soc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d74f59cd-0b58-4dbc-a4e7-742b012ba749/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1b882a0e-0ede-4d1a-bd1a-9b7cffbcde8e&unique=prints",
+  "collector_number": "289",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Those who love the woods only wish to spread its majesty.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Yeong-Hao Han",
+  "artist_ids": [
+    "f8e7f8d6-6dde-4059-973c-30f1fd1bbe4e"
+  ],
+  "illustration_id": "9626d2d5-feb3-4e26-92e4-687eaadea038",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 45,
+  "prices": {
+    "usd": "7.37",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "6.80",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThree%2BVisits",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThree%2BVisits",
+    "edhrec": "https://edhrec.com/route/?cc=Three+Visits"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F687584%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=881622&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Three+Visits&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

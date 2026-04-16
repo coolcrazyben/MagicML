@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "2f5500a2-c6d6-40d7-b586-59b854733160",
+  "oracle_id": "00fdcc19-88ed-46c3-91f0-095806228105",
+  "multiverse_ids": [
+    420734
+  ],
+  "tcgplayer_id": 124680,
+  "cardmarket_id": 293613,
+  "name": "Waste Not",
+  "lang": "en",
+  "released_at": "2016-11-11",
+  "uri": "https://api.scryfall.com/cards/2f5500a2-c6d6-40d7-b586-59b854733160",
+  "scryfall_uri": "https://scryfall.com/card/c16/117/waste-not?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/f/2f5500a2-c6d6-40d7-b586-59b854733160.jpg?1562393909",
+    "normal": "https://cards.scryfall.io/normal/front/2/f/2f5500a2-c6d6-40d7-b586-59b854733160.jpg?1562393909",
+    "large": "https://cards.scryfall.io/large/front/2/f/2f5500a2-c6d6-40d7-b586-59b854733160.jpg?1562393909",
+    "png": "https://cards.scryfall.io/png/front/2/f/2f5500a2-c6d6-40d7-b586-59b854733160.png?1562393909",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/f/2f5500a2-c6d6-40d7-b586-59b854733160.jpg?1562393909",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/f/2f5500a2-c6d6-40d7-b586-59b854733160.jpg?1562393909"
+  },
+  "mana_cost": "{1}{B}",
+  "cmc": 2.0,
+  "type_line": "Enchantment",
+  "oracle_text": "Whenever an opponent discards a creature card, create a 2/2 black Zombie creature token.\nWhenever an opponent discards a land card, add {B}{B}.\nWhenever an opponent discards a noncreature, nonland card, draw a card.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "2f5500a2-c6d6-40d7-b586-59b854733160",
+      "component": "combo_piece",
+      "name": "Waste Not",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/2f5500a2-c6d6-40d7-b586-59b854733160"
+    },
+    {
+      "object": "related_card",
+      "id": "6b0a71ed-f693-4228-9077-93c62d057ef9",
+      "component": "token",
+      "name": "Zombie",
+      "type_line": "Token Creature \u2014 Zombie",
+      "uri": "https://api.scryfall.com/cards/6b0a71ed-f693-4228-9077-93c62d057ef9"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "3e0d713a-b5cb-4287-81b9-a57d4dcaf415",
+  "set": "c16",
+  "set_name": "Commander 2016",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/3e0d713a-b5cb-4287-81b9-a57d4dcaf415",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac16&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/c16?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2f5500a2-c6d6-40d7-b586-59b854733160/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A00fdcc19-88ed-46c3-91f0-095806228105&unique=prints",
+  "collector_number": "117",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Matt Stewart",
+  "artist_ids": [
+    "20871267-2d8a-41d5-b03a-be3d557c5734"
+  ],
+  "illustration_id": "8f41b049-3977-49d2-8fe6-39aa995843bd",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1242,
+  "penny_rank": 2355,
+  "prices": {
+    "usd": "7.72",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "7.11",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420734&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWaste%2BNot",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWaste%2BNot",
+    "edhrec": "https://edhrec.com/route/?cc=Waste+Not"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F124680%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=293613&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Waste+Not&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

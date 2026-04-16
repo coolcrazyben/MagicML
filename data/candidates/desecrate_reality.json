@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Not of This World",
+    "type_line": "Kindred Instant \u2014 Eldrazi",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Scour from Existence",
+    "type_line": "Instant",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  }
+]

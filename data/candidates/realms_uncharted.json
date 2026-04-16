@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Beast Within",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Heroic Intervention",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Deadly Rollick",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Assassin's Trophy",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{B}{G}",
+    "color_identity": [
+      "B",
+      "G"
+    ]
+  },
+  {
+    "name": "Deadly Dispute",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Fell the Profane // Fell Mire",
+    "type_line": "Instant // Land",
+    "mana_value": 4.0,
+    "mana_cost": "",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Harrow",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Infernal Grasp",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Inspiring Call",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Withering Torment",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{B}",
+    "color_identity": [
+      "B"
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "name": "Mana Geyser",
+    "type_line": "Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Chandra's Ignition",
+    "type_line": "Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "All Is Dust",
+    "type_line": "Kindred Sorcery \u2014 Eldrazi",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Wandering Archaic // Explore the Vastlands",
+    "type_line": "Creature \u2014 Avatar // Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "",
+    "color_identity": []
+  },
+  {
+    "name": "Brass's Bounty",
+    "type_line": "Sorcery",
+    "mana_value": 7.0,
+    "mana_cost": "{6}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Reforge the Soul",
+    "type_line": "Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Overpowering Attack",
+    "type_line": "Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Hit the Mother Lode",
+    "type_line": "Sorcery",
+    "mana_value": 7.0,
+    "mana_cost": "{4}{R}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Rousing Refrain",
+    "type_line": "Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Inspired Tinkering",
+    "type_line": "Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "{4}{R}",
+    "color_identity": [
+      "R"
+    ]
+  }
+]

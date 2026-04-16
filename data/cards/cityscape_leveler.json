@@ -1,0 +1,148 @@
+{
+  "object": "card",
+  "id": "67a87278-4c82-4056-8354-253d86b0ef3d",
+  "oracle_id": "d4d65797-2b92-4265-9169-133120c86c7f",
+  "multiverse_ids": [
+    583814
+  ],
+  "mtgo_id": 105090,
+  "arena_id": 82718,
+  "tcgplayer_id": 452750,
+  "cardmarket_id": 683445,
+  "name": "Cityscape Leveler",
+  "lang": "en",
+  "released_at": "2022-11-18",
+  "uri": "https://api.scryfall.com/cards/67a87278-4c82-4056-8354-253d86b0ef3d",
+  "scryfall_uri": "https://scryfall.com/card/bro/233/cityscape-leveler?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/7/67a87278-4c82-4056-8354-253d86b0ef3d.jpg?1674421950",
+    "normal": "https://cards.scryfall.io/normal/front/6/7/67a87278-4c82-4056-8354-253d86b0ef3d.jpg?1674421950",
+    "large": "https://cards.scryfall.io/large/front/6/7/67a87278-4c82-4056-8354-253d86b0ef3d.jpg?1674421950",
+    "png": "https://cards.scryfall.io/png/front/6/7/67a87278-4c82-4056-8354-253d86b0ef3d.png?1674421950",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/7/67a87278-4c82-4056-8354-253d86b0ef3d.jpg?1674421950",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/7/67a87278-4c82-4056-8354-253d86b0ef3d.jpg?1674421950"
+  },
+  "mana_cost": "{8}",
+  "cmc": 8.0,
+  "type_line": "Artifact Creature \u2014 Construct",
+  "oracle_text": "Trample\nWhen you cast this spell and whenever this creature attacks, destroy up to one target nonland permanent. Its controller creates a tapped Powerstone token.\nUnearth {8}",
+  "power": "8",
+  "toughness": "8",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "Unearth",
+    "Trample"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "d45fe4b6-aeaf-4f84-b660-c7b482ed8512",
+      "component": "token",
+      "name": "Powerstone",
+      "type_line": "Token Artifact \u2014 Powerstone",
+      "uri": "https://api.scryfall.com/cards/d45fe4b6-aeaf-4f84-b660-c7b482ed8512"
+    },
+    {
+      "object": "related_card",
+      "id": "35d2bcd1-3ed3-4b99-9bb6-d0fa0a9f2ea1",
+      "component": "combo_piece",
+      "name": "Cityscape Leveler",
+      "type_line": "Artifact Creature \u2014 Construct",
+      "uri": "https://api.scryfall.com/cards/35d2bcd1-3ed3-4b99-9bb6-d0fa0a9f2ea1"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4219a14e-6701-4ddd-a185-21dc054ab19b",
+  "set": "bro",
+  "set_name": "The Brothers' War",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/4219a14e-6701-4ddd-a185-21dc054ab19b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abro&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/bro?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/67a87278-4c82-4056-8354-253d86b0ef3d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad4d65797-2b92-4265-9169-133120c86c7f&unique=prints",
+  "collector_number": "233",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Leon Tukker",
+  "artist_ids": [
+    "669b8b90-758d-4f9e-b4f7-98cd6742eb97"
+  ],
+  "illustration_id": "4a6f687b-05cd-4d86-861c-fbce8c7b0139",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2159,
+  "preview": {
+    "source": "Kiwo",
+    "source_uri": "https://twitter.com/Kiwion/status/1587873607581159428",
+    "previewed_at": "2022-11-02"
+  },
+  "prices": {
+    "usd": "13.85",
+    "usd_foil": "15.29",
+    "usd_etched": null,
+    "eur": "9.63",
+    "eur_foil": "10.27",
+    "tix": "1.86"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=583814&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCityscape%2BLeveler",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCityscape%2BLeveler",
+    "edhrec": "https://edhrec.com/route/?cc=Cityscape+Leveler"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F452750%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=683445&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/105090?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

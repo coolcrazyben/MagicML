@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Warping Wail",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{C}",
+    "color_identity": []
+  },
+  {
+    "name": "Kozilek's Command",
+    "type_line": "Kindred Instant \u2014 Eldrazi",
+    "mana_value": 2.0,
+    "mana_cost": "{X}{C}{C}",
+    "color_identity": []
+  },
+  {
+    "name": "Eldrazi Confluence",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{C}{C}",
+    "color_identity": []
+  },
+  {
+    "name": "Energybending",
+    "type_line": "Instant \u2014 Lesson",
+    "mana_value": 2.0,
+    "mana_cost": "{2}",
+    "color_identity": []
+  },
+  {
+    "name": "Spatial Contortion",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{C}",
+    "color_identity": []
+  }
+]

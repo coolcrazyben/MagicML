@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Kozilek, Butcher of Truth",
+    "type_line": "Legendary Creature \u2014 Eldrazi",
+    "mana_value": 10.0,
+    "mana_cost": "{10}",
+    "color_identity": []
+  },
+  {
+    "name": "Artisan of Kozilek",
+    "type_line": "Creature \u2014 Eldrazi",
+    "mana_value": 9.0,
+    "mana_cost": "{9}",
+    "color_identity": []
+  },
+  {
+    "name": "Ulamog, the Ceaseless Hunger",
+    "type_line": "Legendary Creature \u2014 Eldrazi",
+    "mana_value": 10.0,
+    "mana_cost": "{10}",
+    "color_identity": []
+  },
+  {
+    "name": "Ulamog, the Infinite Gyre",
+    "type_line": "Legendary Creature \u2014 Eldrazi",
+    "mana_value": 11.0,
+    "mana_cost": "{11}",
+    "color_identity": []
+  },
+  {
+    "name": "Kozilek, the Great Distortion",
+    "type_line": "Legendary Creature \u2014 Eldrazi",
+    "mana_value": 10.0,
+    "mana_cost": "{8}{C}{C}",
+    "color_identity": []
+  },
+  {
+    "name": "Ulamog, the Defiler",
+    "type_line": "Legendary Creature \u2014 Eldrazi",
+    "mana_value": 10.0,
+    "mana_cost": "{10}",
+    "color_identity": []
+  },
+  {
+    "name": "Void Winnower",
+    "type_line": "Creature \u2014 Eldrazi",
+    "mana_value": 9.0,
+    "mana_cost": "{9}",
+    "color_identity": []
+  },
+  {
+    "name": "Summon: Bahamut",
+    "type_line": "Enchantment Creature \u2014 Saga Dragon",
+    "mana_value": 9.0,
+    "mana_cost": "{9}",
+    "color_identity": []
+  },
+  {
+    "name": "Metalwork Colossus",
+    "type_line": "Artifact Creature \u2014 Construct",
+    "mana_value": 11.0,
+    "mana_cost": "{11}",
+    "color_identity": []
+  },
+  {
+    "name": "Triplicate Titan",
+    "type_line": "Artifact Creature \u2014 Golem",
+    "mana_value": 9.0,
+    "mana_cost": "{9}",
+    "color_identity": []
+  }
+]

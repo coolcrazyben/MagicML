@@ -1,0 +1,150 @@
+{
+  "object": "card",
+  "id": "302f0dc1-88ab-4961-b78c-fbe7980dca18",
+  "oracle_id": "63a509ea-cedc-40e9-b4e8-0ff4fc356485",
+  "multiverse_ids": [
+    686074
+  ],
+  "mtgo_id": 135878,
+  "tcgplayer_id": 610094,
+  "cardmarket_id": 805845,
+  "name": "Wrenn and Seven",
+  "lang": "en",
+  "released_at": "2025-01-24",
+  "uri": "https://api.scryfall.com/cards/302f0dc1-88ab-4961-b78c-fbe7980dca18",
+  "scryfall_uri": "https://scryfall.com/card/inr/226/wrenn-and-seven?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/0/302f0dc1-88ab-4961-b78c-fbe7980dca18.jpg?1736468462",
+    "normal": "https://cards.scryfall.io/normal/front/3/0/302f0dc1-88ab-4961-b78c-fbe7980dca18.jpg?1736468462",
+    "large": "https://cards.scryfall.io/large/front/3/0/302f0dc1-88ab-4961-b78c-fbe7980dca18.jpg?1736468462",
+    "png": "https://cards.scryfall.io/png/front/3/0/302f0dc1-88ab-4961-b78c-fbe7980dca18.png?1736468462",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/0/302f0dc1-88ab-4961-b78c-fbe7980dca18.jpg?1736468462",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/0/302f0dc1-88ab-4961-b78c-fbe7980dca18.jpg?1736468462"
+  },
+  "mana_cost": "{3}{G}{G}",
+  "cmc": 5.0,
+  "type_line": "Legendary Planeswalker \u2014 Wrenn",
+  "oracle_text": "+1: Reveal the top four cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard.\n0: Put any number of land cards from your hand onto the battlefield tapped.\n\u22123: Create a green Treefolk creature token with reach and \"This token's power and toughness are each equal to the number of lands you control.\"\n\u22128: Return all permanent cards from your graveyard to your hand. You get an emblem with \"You have no maximum hand size.\"",
+  "loyalty": "5",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "26981595-edf3-4f22-b2f0-fe0052408f8c",
+      "component": "token",
+      "name": "Treefolk",
+      "type_line": "Token Creature \u2014 Treefolk",
+      "uri": "https://api.scryfall.com/cards/26981595-edf3-4f22-b2f0-fe0052408f8c"
+    },
+    {
+      "object": "related_card",
+      "id": "302f0dc1-88ab-4961-b78c-fbe7980dca18",
+      "component": "combo_piece",
+      "name": "Wrenn and Seven",
+      "type_line": "Legendary Planeswalker \u2014 Wrenn",
+      "uri": "https://api.scryfall.com/cards/302f0dc1-88ab-4961-b78c-fbe7980dca18"
+    },
+    {
+      "object": "related_card",
+      "id": "09890a52-06f6-4f43-954c-64af3578abe3",
+      "component": "combo_piece",
+      "name": "Wrenn and Seven Emblem",
+      "type_line": "Emblem",
+      "uri": "https://api.scryfall.com/cards/09890a52-06f6-4f43-954c-64af3578abe3"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "b9618c8c-9f31-4b42-9798-2991893c27bf",
+  "set": "inr",
+  "set_name": "Innistrad Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/b9618c8c-9f31-4b42-9798-2991893c27bf",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ainr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/inr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/302f0dc1-88ab-4961-b78c-fbe7980dca18/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A63a509ea-cedc-40e9-b4e8-0ff4fc356485&unique=prints",
+  "collector_number": "226",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Heonhwa",
+  "artist_ids": [
+    "ce415f9e-8a20-4d64-bcba-2b1b7e94012e"
+  ],
+  "illustration_id": "01136fd5-2446-420c-b0b4-fef9c99939e0",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2262,
+  "penny_rank": 4577,
+  "prices": {
+    "usd": "3.90",
+    "usd_foil": "4.14",
+    "usd_etched": null,
+    "eur": "1.50",
+    "eur_foil": "1.92",
+    "tix": "0.22"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=686074&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWrenn%2Band%2BSeven",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWrenn%2Band%2BSeven",
+    "edhrec": "https://edhrec.com/route/?cc=Wrenn+and+Seven"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F610094%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=805845&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/135878?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

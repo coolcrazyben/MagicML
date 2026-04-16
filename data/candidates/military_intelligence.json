@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Rhystic Study",
+    "type_line": "Enchantment",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Mystic Remora",
+    "type_line": "Enchantment",
+    "mana_value": 1.0,
+    "mana_cost": "{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Propaganda",
+    "type_line": "Enchantment",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Curiosity",
+    "type_line": "Enchantment \u2014 Aura",
+    "mana_value": 1.0,
+    "mana_cost": "{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Wizard Class",
+    "type_line": "Enchantment \u2014 Class",
+    "mana_value": 1.0,
+    "mana_cost": "{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Aqueous Form",
+    "type_line": "Enchantment \u2014 Aura",
+    "mana_value": 1.0,
+    "mana_cost": "{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Imprisoned in the Moon",
+    "type_line": "Enchantment \u2014 Aura",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Training Grounds",
+    "type_line": "Enchantment",
+    "mana_value": 1.0,
+    "mana_cost": "{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Mirrormade",
+    "type_line": "Enchantment",
+    "mana_value": 3.0,
+    "mana_cost": "{1}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Amphibian Downpour",
+    "type_line": "Enchantment \u2014 Aura",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  }
+]

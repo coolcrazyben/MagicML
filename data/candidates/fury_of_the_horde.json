@@ -1,0 +1,88 @@
+[
+  {
+    "name": "All Is Dust",
+    "type_line": "Kindred Sorcery \u2014 Eldrazi",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Brass's Bounty",
+    "type_line": "Sorcery",
+    "mana_value": 7.0,
+    "mana_cost": "{6}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Full Throttle",
+    "type_line": "Sorcery",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Hit the Mother Lode",
+    "type_line": "Sorcery",
+    "mana_value": 7.0,
+    "mana_cost": "{4}{R}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Call Forth the Tempest",
+    "type_line": "Sorcery",
+    "mana_value": 8.0,
+    "mana_cost": "{5}{R}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Insurrection",
+    "type_line": "Sorcery",
+    "mana_value": 8.0,
+    "mana_cost": "{5}{R}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Mob Rule",
+    "type_line": "Sorcery",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Reckless Endeavor",
+    "type_line": "Sorcery",
+    "mana_value": 7.0,
+    "mana_cost": "{5}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Star of Extinction",
+    "type_line": "Sorcery",
+    "mana_value": 7.0,
+    "mana_cost": "{5}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Calamity of the Titans",
+    "type_line": "Sorcery",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{C}{C}",
+    "color_identity": []
+  }
+]

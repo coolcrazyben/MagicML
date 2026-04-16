@@ -1,0 +1,88 @@
+[
+  {
+    "name": "Solemn Simulacrum",
+    "type_line": "Artifact Creature \u2014 Golem",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Roaming Throne",
+    "type_line": "Artifact Creature \u2014 Golem",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Beast Whisperer",
+    "type_line": "Creature \u2014 Elf Druid",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Mirkwood Bats",
+    "type_line": "Creature \u2014 Bat",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Pitiless Plunderer",
+    "type_line": "Creature \u2014 Human Pirate",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Gray Merchant of Asphodel",
+    "type_line": "Creature \u2014 Zombie",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Syr Konrad, the Grim",
+    "type_line": "Legendary Creature \u2014 Human Knight",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Seedborn Muse",
+    "type_line": "Creature \u2014 Spirit",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Rampaging Baloths",
+    "type_line": "Creature \u2014 Beast",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Toski, Bearer of Secrets",
+    "type_line": "Legendary Creature \u2014 Squirrel",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{G}",
+    "color_identity": [
+      "G"
+    ]
+  }
+]

@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "82c5272d-df5b-4c21-9bff-4d6245b8d2a6",
+  "oracle_id": "a5236bf7-c84f-4c64-bf6b-3a89c05e161a",
+  "multiverse_ids": [
+    135261
+  ],
+  "mtgo_id": 27504,
+  "mtgo_foil_id": 27505,
+  "tcgplayer_id": 15068,
+  "cardmarket_id": 16236,
+  "name": "Cephalid Constable",
+  "lang": "en",
+  "released_at": "2007-07-13",
+  "uri": "https://api.scryfall.com/cards/82c5272d-df5b-4c21-9bff-4d6245b8d2a6",
+  "scryfall_uri": "https://scryfall.com/card/10e/72/cephalid-constable?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/2/82c5272d-df5b-4c21-9bff-4d6245b8d2a6.jpg?1562550743",
+    "normal": "https://cards.scryfall.io/normal/front/8/2/82c5272d-df5b-4c21-9bff-4d6245b8d2a6.jpg?1562550743",
+    "large": "https://cards.scryfall.io/large/front/8/2/82c5272d-df5b-4c21-9bff-4d6245b8d2a6.jpg?1562550743",
+    "png": "https://cards.scryfall.io/png/front/8/2/82c5272d-df5b-4c21-9bff-4d6245b8d2a6.png?1562550743",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/2/82c5272d-df5b-4c21-9bff-4d6245b8d2a6.jpg?1562550743",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/2/82c5272d-df5b-4c21-9bff-4d6245b8d2a6.jpg?1562550743"
+  },
+  "mana_cost": "{1}{U}{U}",
+  "cmc": 3.0,
+  "type_line": "Creature \u2014 Octopus Wizard",
+  "oracle_text": "Whenever this creature deals combat damage to a player, return up to that many target permanents that player controls to their owner's hand.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "a66a6124-0d81-488d-b080-91f5ba7fbad0",
+  "set": "10e",
+  "set_name": "Tenth Edition",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/a66a6124-0d81-488d-b080-91f5ba7fbad0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A10e&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/10e?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/82c5272d-df5b-4c21-9bff-4d6245b8d2a6/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa5236bf7-c84f-4c64-bf6b-3a89c05e161a&unique=prints",
+  "collector_number": "72",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Cephalids don't police people. They police loyalties.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Alan Pollack",
+  "artist_ids": [
+    "70c20ea3-5ad6-4082-a337-6e994ae5828e"
+  ],
+  "illustration_id": "8a8c5787-efc7-4964-b9ee-f8a68ad7d3ee",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 12090,
+  "penny_rank": 6667,
+  "prices": {
+    "usd": "5.09",
+    "usd_foil": "12.00",
+    "usd_etched": null,
+    "eur": "2.61",
+    "eur_foil": "6.85",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135261&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCephalid%2BConstable",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCephalid%2BConstable",
+    "edhrec": "https://edhrec.com/route/?cc=Cephalid+Constable"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F15068%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=16236&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/27504?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

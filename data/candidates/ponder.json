@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Preordain",
+    "type_line": "Sorcery",
+    "mana_value": 1.0,
+    "mana_cost": "{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Gitaxian Probe",
+    "type_line": "Sorcery",
+    "mana_value": 1.0,
+    "mana_cost": "{U/P}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Serum Visions",
+    "type_line": "Sorcery",
+    "mana_value": 1.0,
+    "mana_cost": "{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Curse of the Swine",
+    "type_line": "Sorcery",
+    "mana_value": 2.0,
+    "mana_cost": "{X}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Finale of Revelation",
+    "type_line": "Sorcery",
+    "mana_value": 2.0,
+    "mana_cost": "{X}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Enter the Enigma",
+    "type_line": "Sorcery",
+    "mana_value": 1.0,
+    "mana_cost": "{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Maddening Cacophony",
+    "type_line": "Sorcery",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Chart a Course",
+    "type_line": "Sorcery",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Personal Tutor",
+    "type_line": "Sorcery",
+    "mana_value": 1.0,
+    "mana_cost": "{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Contentious Plan",
+    "type_line": "Sorcery",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{U}",
+    "color_identity": [
+      "U"
+    ]
+  }
+]

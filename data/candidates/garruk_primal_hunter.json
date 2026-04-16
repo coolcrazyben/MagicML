@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Ugin, the Ineffable",
+    "type_line": "Legendary Planeswalker \u2014 Ugin",
+    "mana_value": 6.0,
+    "mana_cost": "{6}",
+    "color_identity": []
+  },
+  {
+    "name": "Nissa, Who Shakes the World",
+    "type_line": "Legendary Planeswalker \u2014 Nissa",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Karn, the Great Creator",
+    "type_line": "Legendary Planeswalker \u2014 Karn",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "The Aetherspark",
+    "type_line": "Legendary Artifact Planeswalker \u2014 Equipment",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Wrenn and Seven",
+    "type_line": "Legendary Planeswalker \u2014 Wrenn",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Freyalise, Llanowar's Fury",
+    "type_line": "Legendary Planeswalker \u2014 Freyalise",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Vivien Reid",
+    "type_line": "Legendary Planeswalker \u2014 Vivien",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Nissa, Vital Force",
+    "type_line": "Legendary Planeswalker \u2014 Nissa",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Karn, Living Legacy",
+    "type_line": "Legendary Planeswalker \u2014 Karn",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Karn, Scion of Urza",
+    "type_line": "Legendary Planeswalker \u2014 Karn",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  }
+]

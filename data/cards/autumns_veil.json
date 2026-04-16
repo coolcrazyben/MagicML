@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "b911fee0-c30b-4d68-a9e2-61c40ece68b0",
+  "oracle_id": "03f5946b-e000-4b39-a49f-1c31668b51bd",
+  "multiverse_ids": [
+    241990
+  ],
+  "mtgo_id": 41317,
+  "mtgo_foil_id": 41318,
+  "tcgplayer_id": 47710,
+  "cardmarket_id": 247997,
+  "name": "Autumn's Veil",
+  "lang": "en",
+  "released_at": "2011-07-15",
+  "uri": "https://api.scryfall.com/cards/b911fee0-c30b-4d68-a9e2-61c40ece68b0",
+  "scryfall_uri": "https://scryfall.com/card/m12/164/autumns-veil?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/9/b911fee0-c30b-4d68-a9e2-61c40ece68b0.jpg?1562657125",
+    "normal": "https://cards.scryfall.io/normal/front/b/9/b911fee0-c30b-4d68-a9e2-61c40ece68b0.jpg?1562657125",
+    "large": "https://cards.scryfall.io/large/front/b/9/b911fee0-c30b-4d68-a9e2-61c40ece68b0.jpg?1562657125",
+    "png": "https://cards.scryfall.io/png/front/b/9/b911fee0-c30b-4d68-a9e2-61c40ece68b0.png?1562657125",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/9/b911fee0-c30b-4d68-a9e2-61c40ece68b0.jpg?1562657125",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/9/b911fee0-c30b-4d68-a9e2-61c40ece68b0.jpg?1562657125"
+  },
+  "mana_cost": "{G}",
+  "cmc": 1.0,
+  "type_line": "Instant",
+  "oracle_text": "Spells you control can't be countered by blue or black spells this turn, and creatures you control can't be the targets of blue or black spells this turn.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5cdd2643-229c-4441-a62a-c34e4b531e1c",
+  "set": "m12",
+  "set_name": "Magic 2012",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/5cdd2643-229c-4441-a62a-c34e4b531e1c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am12&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/m12?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b911fee0-c30b-4d68-a9e2-61c40ece68b0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A03f5946b-e000-4b39-a49f-1c31668b51bd&unique=prints",
+  "collector_number": "164",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "The rustling of leaves and a passing shadow are a dryad's only trace.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kekai Kotaki",
+  "artist_ids": [
+    "4b771085-c049-4308-930d-ec9665f803a4"
+  ],
+  "illustration_id": "62764047-1581-433f-9946-b4e25738abc5",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3100,
+  "penny_rank": 2358,
+  "prices": {
+    "usd": "0.61",
+    "usd_foil": "9.83",
+    "usd_etched": null,
+    "eur": "0.50",
+    "eur_foil": "4.33",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=241990&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAutumn%2527s%2BVeil",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAutumn%2527s%2BVeil",
+    "edhrec": "https://edhrec.com/route/?cc=Autumn%27s+Veil"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F47710%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=247997&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/41317?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

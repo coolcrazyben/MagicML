@@ -1,0 +1,150 @@
+{
+  "object": "card",
+  "id": "79ba5c35-6e5c-406a-b95f-844d5ec296ab",
+  "oracle_id": "1cae5752-b4af-4a8f-8c8c-2493e163083b",
+  "multiverse_ids": [
+    633157
+  ],
+  "mtgo_id": 117298,
+  "tcgplayer_id": 512238,
+  "cardmarket_id": 730150,
+  "name": "Alela, Cunning Conqueror",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/79ba5c35-6e5c-406a-b95f-844d5ec296ab",
+  "scryfall_uri": "https://scryfall.com/card/woc/3/alela-cunning-conqueror?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/9/79ba5c35-6e5c-406a-b95f-844d5ec296ab.jpg?1692933638",
+    "normal": "https://cards.scryfall.io/normal/front/7/9/79ba5c35-6e5c-406a-b95f-844d5ec296ab.jpg?1692933638",
+    "large": "https://cards.scryfall.io/large/front/7/9/79ba5c35-6e5c-406a-b95f-844d5ec296ab.jpg?1692933638",
+    "png": "https://cards.scryfall.io/png/front/7/9/79ba5c35-6e5c-406a-b95f-844d5ec296ab.png?1692933638",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/9/79ba5c35-6e5c-406a-b95f-844d5ec296ab.jpg?1692933638",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/9/79ba5c35-6e5c-406a-b95f-844d5ec296ab.jpg?1692933638"
+  },
+  "mana_cost": "{2}{U}{B}",
+  "cmc": 4.0,
+  "type_line": "Legendary Creature \u2014 Faerie Warlock",
+  "oracle_text": "Flying\nWhenever you cast your first spell during each opponent's turn, create a 1/1 black Faerie Rogue creature token with flying.\nWhenever one or more Faeries you control deal combat damage to a player, goad target creature that player controls.",
+  "power": "2",
+  "toughness": "4",
+  "colors": [
+    "B",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "U"
+  ],
+  "keywords": [
+    "Flying",
+    "Goad"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "8ec9571f-17c0-4f16-adb5-8805d4b72591",
+      "component": "combo_piece",
+      "name": "Alela, Cunning Conqueror",
+      "type_line": "Legendary Creature \u2014 Faerie Warlock",
+      "uri": "https://api.scryfall.com/cards/8ec9571f-17c0-4f16-adb5-8805d4b72591"
+    },
+    {
+      "object": "related_card",
+      "id": "d680c3f1-a3c0-4f38-8958-2402612c8dd1",
+      "component": "token",
+      "name": "Faerie Rogue",
+      "type_line": "Token Creature \u2014 Faerie Rogue",
+      "uri": "https://api.scryfall.com/cards/d680c3f1-a3c0-4f38-8958-2402612c8dd1"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "51c0814a-2db2-4182-9aac-77340e9a540d",
+  "set": "woc",
+  "set_name": "Wilds of Eldraine Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/51c0814a-2db2-4182-9aac-77340e9a540d",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awoc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/woc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/79ba5c35-6e5c-406a-b95f-844d5ec296ab/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1cae5752-b4af-4a8f-8c8c-2493e163083b&unique=prints",
+  "collector_number": "3",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Livia Prima",
+  "artist_ids": [
+    "0f41e561-bc26-4d85-aab6-66c384e01b74"
+  ],
+  "illustration_id": "097bb00b-0799-4781-93d6-325c35f613f1",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 3385,
+  "prices": {
+    "usd": "15.14",
+    "usd_foil": "16.82",
+    "usd_etched": null,
+    "eur": "11.30",
+    "eur_foil": "12.00",
+    "tix": "0.75"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=633157&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAlela%252C%2BCunning%2BConqueror",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAlela%252C%2BCunning%2BConqueror",
+    "edhrec": "https://edhrec.com/route/?cc=Alela%2C+Cunning+Conqueror"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F512238%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=730150&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/117298?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

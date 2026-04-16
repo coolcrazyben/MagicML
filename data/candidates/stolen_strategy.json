@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Purphoros, God of the Forge",
+    "type_line": "Legendary Enchantment Creature \u2014 God",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Warstorm Surge",
+    "type_line": "Enchantment",
+    "mana_value": 6.0,
+    "mana_cost": "{5}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Fiery Emancipation",
+    "type_line": "Enchantment",
+    "mana_value": 6.0,
+    "mana_cost": "{3}{R}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Enduring Courage",
+    "type_line": "Enchantment Creature \u2014 Dog Glimmer",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "All Will Be One",
+    "type_line": "Enchantment",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Sneak Attack",
+    "type_line": "Enchantment",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Gratuitous Violence",
+    "type_line": "Enchantment",
+    "mana_value": 5.0,
+    "mana_cost": "{2}{R}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Echoes of Eternity",
+    "type_line": "Kindred Enchantment \u2014 Eldrazi",
+    "mana_value": 6.0,
+    "mana_cost": "{3}{C}{C}{C}",
+    "color_identity": []
+  },
+  {
+    "name": "Rain of Riches",
+    "type_line": "Enchantment",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Urabrask // The Great Work",
+    "type_line": "Legendary Creature \u2014 Phyrexian Praetor // Enchantment \u2014 Saga",
+    "mana_value": 4.0,
+    "mana_cost": "",
+    "color_identity": [
+      "R"
+    ]
+  }
+]

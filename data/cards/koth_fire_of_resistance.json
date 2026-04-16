@@ -1,0 +1,149 @@
+{
+  "object": "card",
+  "id": "6528e012-4091-4722-b706-c51772676167",
+  "oracle_id": "2c75b870-263b-41ab-9ece-6e3845bc3d8d",
+  "multiverse_ids": [
+    602668
+  ],
+  "mtgo_id": 106491,
+  "arena_id": 83838,
+  "tcgplayer_id": 475509,
+  "cardmarket_id": 689735,
+  "name": "Koth, Fire of Resistance",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/6528e012-4091-4722-b706-c51772676167",
+  "scryfall_uri": "https://scryfall.com/card/one/138/koth-fire-of-resistance?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/5/6528e012-4091-4722-b706-c51772676167.jpg?1675957094",
+    "normal": "https://cards.scryfall.io/normal/front/6/5/6528e012-4091-4722-b706-c51772676167.jpg?1675957094",
+    "large": "https://cards.scryfall.io/large/front/6/5/6528e012-4091-4722-b706-c51772676167.jpg?1675957094",
+    "png": "https://cards.scryfall.io/png/front/6/5/6528e012-4091-4722-b706-c51772676167.png?1675957094",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/5/6528e012-4091-4722-b706-c51772676167.jpg?1675957094",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/5/6528e012-4091-4722-b706-c51772676167.jpg?1675957094"
+  },
+  "mana_cost": "{2}{R}{R}",
+  "cmc": 4.0,
+  "type_line": "Legendary Planeswalker \u2014 Koth",
+  "oracle_text": "+2: Search your library for a basic Mountain card, reveal it, put it into your hand, then shuffle.\n\u22123: Koth deals damage to target creature equal to the number of Mountains you control.\n\u22127: You get an emblem with \"Whenever a Mountain you control enters, this emblem deals 4 damage to any target.\"",
+  "loyalty": "4",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "e92c8570-0f6d-4a49-b166-38a5d788a3f0",
+      "component": "combo_piece",
+      "name": "Koth, Fire of Resistance",
+      "type_line": "Legendary Planeswalker \u2014 Koth",
+      "uri": "https://api.scryfall.com/cards/e92c8570-0f6d-4a49-b166-38a5d788a3f0"
+    },
+    {
+      "object": "related_card",
+      "id": "4746f904-67f3-450d-93f6-172b3fd50057",
+      "component": "combo_piece",
+      "name": "Koth, Fire of Resistance Emblem",
+      "type_line": "Emblem",
+      "uri": "https://api.scryfall.com/cards/4746f904-67f3-450d-93f6-172b3fd50057"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6528e012-4091-4722-b706-c51772676167/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2c75b870-263b-41ab-9ece-6e3845bc3d8d&unique=prints",
+  "collector_number": "138",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Eric Wilkerson",
+  "artist_ids": [
+    "525ec49d-a7c8-4ddc-96aa-58cf5ad5e937"
+  ],
+  "illustration_id": "b3c51cec-07d6-4ee3-9494-899c22707d18",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3841,
+  "penny_rank": 2142,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.twitch.tv/videos/1678101037",
+    "previewed_at": "2022-12-13"
+  },
+  "prices": {
+    "usd": "0.36",
+    "usd_foil": "0.44",
+    "usd_etched": null,
+    "eur": "0.34",
+    "eur_foil": "0.59",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602668&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKoth%252C%2BFire%2Bof%2BResistance",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKoth%252C%2BFire%2Bof%2BResistance",
+    "edhrec": "https://edhrec.com/route/?cc=Koth%2C+Fire+of+Resistance"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F475509%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=689735&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106491?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

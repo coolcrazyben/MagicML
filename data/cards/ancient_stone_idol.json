@@ -1,0 +1,140 @@
+{
+  "object": "card",
+  "id": "333f6334-f027-4bec-95d7-7af80508c4ca",
+  "oracle_id": "5f981cca-5cd9-49e4-ab1a-bbbf6fc7e737",
+  "multiverse_ids": [
+    650316
+  ],
+  "mtgo_id": 122592,
+  "tcgplayer_id": 535579,
+  "cardmarket_id": 753501,
+  "name": "Ancient Stone Idol",
+  "lang": "en",
+  "released_at": "2024-02-09",
+  "uri": "https://api.scryfall.com/cards/333f6334-f027-4bec-95d7-7af80508c4ca",
+  "scryfall_uri": "https://scryfall.com/card/mkc/222/ancient-stone-idol?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/3/333f6334-f027-4bec-95d7-7af80508c4ca.jpg?1706241036",
+    "normal": "https://cards.scryfall.io/normal/front/3/3/333f6334-f027-4bec-95d7-7af80508c4ca.jpg?1706241036",
+    "large": "https://cards.scryfall.io/large/front/3/3/333f6334-f027-4bec-95d7-7af80508c4ca.jpg?1706241036",
+    "png": "https://cards.scryfall.io/png/front/3/3/333f6334-f027-4bec-95d7-7af80508c4ca.png?1706241036",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/3/333f6334-f027-4bec-95d7-7af80508c4ca.jpg?1706241036",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/3/333f6334-f027-4bec-95d7-7af80508c4ca.jpg?1706241036"
+  },
+  "mana_cost": "{10}",
+  "cmc": 10.0,
+  "type_line": "Artifact Creature \u2014 Golem",
+  "oracle_text": "Flash\nThis spell costs {1} less to cast for each attacking creature.\nTrample\nWhen this creature dies, create a 6/12 colorless Construct artifact creature token with trample.",
+  "power": "12",
+  "toughness": "12",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "Trample",
+    "Flash"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "333f6334-f027-4bec-95d7-7af80508c4ca",
+      "component": "combo_piece",
+      "name": "Ancient Stone Idol",
+      "type_line": "Artifact Creature \u2014 Golem",
+      "uri": "https://api.scryfall.com/cards/333f6334-f027-4bec-95d7-7af80508c4ca"
+    },
+    {
+      "object": "related_card",
+      "id": "6627cf40-5f2d-4f5c-8511-5e6db8b56ebb",
+      "component": "token",
+      "name": "Construct",
+      "type_line": "Token Artifact Creature \u2014 Construct",
+      "uri": "https://api.scryfall.com/cards/6627cf40-5f2d-4f5c-8511-5e6db8b56ebb"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "286c37ca-ba65-4d3e-8c5d-d1878d88fd95",
+  "set": "mkc",
+  "set_name": "Murders at Karlov Manor Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/286c37ca-ba65-4d3e-8c5d-d1878d88fd95",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mkc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/333f6334-f027-4bec-95d7-7af80508c4ca/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5f981cca-5cd9-49e4-ab1a-bbbf6fc7e737&unique=prints",
+  "collector_number": "222",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Josh Hass",
+  "artist_ids": [
+    "8fa1fdf0-96d6-46f4-a7ff-b1c0257c3735"
+  ],
+  "illustration_id": "a6c95c24-c0c6-4384-a5cf-82402bd517da",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2481,
+  "prices": {
+    "usd": "0.51",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.44",
+    "eur_foil": null,
+    "tix": "0.62"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=650316&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAncient%2BStone%2BIdol",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAncient%2BStone%2BIdol",
+    "edhrec": "https://edhrec.com/route/?cc=Ancient+Stone+Idol"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F535579%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=753501&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/122592?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

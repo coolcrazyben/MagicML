@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "e175bba4-c131-48f4-8e31-16ec07a12e59",
+  "oracle_id": "ea9709b6-4c37-4d5a-b04d-cd4c42e4f9dd",
+  "multiverse_ids": [
+    658552
+  ],
+  "mtgo_id": 124675,
+  "tcgplayer_id": 545466,
+  "cardmarket_id": 764944,
+  "name": "Propaganda",
+  "lang": "en",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/e175bba4-c131-48f4-8e31-16ec07a12e59",
+  "scryfall_uri": "https://scryfall.com/card/otc/108/propaganda?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/1/e175bba4-c131-48f4-8e31-16ec07a12e59.jpg?1712354188",
+    "normal": "https://cards.scryfall.io/normal/front/e/1/e175bba4-c131-48f4-8e31-16ec07a12e59.jpg?1712354188",
+    "large": "https://cards.scryfall.io/large/front/e/1/e175bba4-c131-48f4-8e31-16ec07a12e59.jpg?1712354188",
+    "png": "https://cards.scryfall.io/png/front/e/1/e175bba4-c131-48f4-8e31-16ec07a12e59.png?1712354188",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/1/e175bba4-c131-48f4-8e31-16ec07a12e59.jpg?1712354188",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/1/e175bba4-c131-48f4-8e31-16ec07a12e59.jpg?1712354188"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3.0,
+  "type_line": "Enchantment",
+  "oracle_text": "Creatures can't attack you unless their controller pays {2} for each creature they control that's attacking you.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set": "otc",
+  "set_name": "Outlaws of Thunder Junction Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e175bba4-c131-48f4-8e31-16ec07a12e59/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aea9709b6-4c37-4d5a-b04d-cd4c42e4f9dd&unique=prints",
+  "collector_number": "108",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"The cost of your opposition will be extracted from your wits.\"\n\u2014Nekusar, the Mindrazer",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Clint Cearley",
+  "artist_ids": [
+    "03b75350-d5a0-4e3a-b3b4-8d4a5554385b"
+  ],
+  "illustration_id": "eb9fa125-8e3c-4959-bdc9-77cd4d2e8dbb",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 120,
+  "prices": {
+    "usd": "3.43",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "2.88",
+    "eur_foil": null,
+    "tix": "1.44"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=658552&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPropaganda",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPropaganda",
+    "edhrec": "https://edhrec.com/route/?cc=Propaganda"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F545466%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=764944&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/124675?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

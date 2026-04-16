@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Gray Merchant of Asphodel",
+    "type_line": "Creature \u2014 Zombie",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Syr Konrad, the Grim",
+    "type_line": "Legendary Creature \u2014 Human Knight",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Avenger of Zendikar",
+    "type_line": "Creature \u2014 Elemental",
+    "mana_value": 7.0,
+    "mana_cost": "{5}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Seedborn Muse",
+    "type_line": "Creature \u2014 Spirit",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Rampaging Baloths",
+    "type_line": "Creature \u2014 Beast",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Psychosis Crawler",
+    "type_line": "Artifact Creature \u2014 Phyrexian Horror",
+    "mana_value": 5.0,
+    "mana_cost": "{5}",
+    "color_identity": []
+  },
+  {
+    "name": "Ohran Frostfang",
+    "type_line": "Snow Creature \u2014 Snake",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Massacre Wurm",
+    "type_line": "Creature \u2014 Phyrexian Wurm",
+    "mana_value": 6.0,
+    "mana_cost": "{3}{B}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Disciple of Freyalise // Garden of Freyalise",
+    "type_line": "Creature \u2014 Elf Druid // Land",
+    "mana_value": 6.0,
+    "mana_cost": "",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Sheoldred, Whispering One",
+    "type_line": "Legendary Creature \u2014 Phyrexian Praetor",
+    "mana_value": 7.0,
+    "mana_cost": "{5}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  }
+]

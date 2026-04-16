@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "5af237ad-9294-47f5-a338-f9ca4fce3e70",
+  "oracle_id": "65481ae1-54b2-44d2-91e1-20cd486386da",
+  "multiverse_ids": [
+    676025
+  ],
+  "mtgo_id": 130927,
+  "tcgplayer_id": 579059,
+  "cardmarket_id": 788775,
+  "name": "Ob Nixilis Reignited",
+  "lang": "en",
+  "released_at": "2024-09-27",
+  "uri": "https://api.scryfall.com/cards/5af237ad-9294-47f5-a338-f9ca4fce3e70",
+  "scryfall_uri": "https://scryfall.com/card/dsc/152/ob-nixilis-reignited?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/a/5af237ad-9294-47f5-a338-f9ca4fce3e70.jpg?1726284879",
+    "normal": "https://cards.scryfall.io/normal/front/5/a/5af237ad-9294-47f5-a338-f9ca4fce3e70.jpg?1726284879",
+    "large": "https://cards.scryfall.io/large/front/5/a/5af237ad-9294-47f5-a338-f9ca4fce3e70.jpg?1726284879",
+    "png": "https://cards.scryfall.io/png/front/5/a/5af237ad-9294-47f5-a338-f9ca4fce3e70.png?1726284879",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/a/5af237ad-9294-47f5-a338-f9ca4fce3e70.jpg?1726284879",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/a/5af237ad-9294-47f5-a338-f9ca4fce3e70.jpg?1726284879"
+  },
+  "mana_cost": "{3}{B}{B}",
+  "cmc": 5.0,
+  "type_line": "Legendary Planeswalker \u2014 Nixilis",
+  "oracle_text": "+1: You draw a card and you lose 1 life.\n\u22123: Destroy target creature.\n\u22128: Target opponent gets an emblem with \"Whenever a player draws a card, you lose 2 life.\"",
+  "loyalty": "5",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "5af237ad-9294-47f5-a338-f9ca4fce3e70",
+      "component": "combo_piece",
+      "name": "Ob Nixilis Reignited",
+      "type_line": "Legendary Planeswalker \u2014 Nixilis",
+      "uri": "https://api.scryfall.com/cards/5af237ad-9294-47f5-a338-f9ca4fce3e70"
+    },
+    {
+      "object": "related_card",
+      "id": "e817a5d7-0d65-4f23-be3d-74838764765c",
+      "component": "combo_piece",
+      "name": "Ob Nixilis Reignited Emblem",
+      "type_line": "Emblem \u2014 Nixilis",
+      "uri": "https://api.scryfall.com/cards/e817a5d7-0d65-4f23-be3d-74838764765c"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4c822528-83c3-42c7-8708-dd1d37166819",
+  "set": "dsc",
+  "set_name": "Duskmourn: House of Horror Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/4c822528-83c3-42c7-8708-dd1d37166819",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adsc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dsc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5af237ad-9294-47f5-a338-f9ca4fce3e70/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A65481ae1-54b2-44d2-91e1-20cd486386da&unique=prints",
+  "collector_number": "152",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Rahn",
+  "artist_ids": [
+    "7742047e-0f80-4c0f-a530-d07460165e86"
+  ],
+  "illustration_id": "878e7444-f137-4ed8-b8e8-0b7302fffa4e",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 4019,
+  "penny_rank": 547,
+  "prices": {
+    "usd": "0.37",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.25",
+    "eur_foil": null,
+    "tix": "0.08"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=676025&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DOb%2BNixilis%2BReignited",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DOb%2BNixilis%2BReignited",
+    "edhrec": "https://edhrec.com/route/?cc=Ob+Nixilis+Reignited"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F579059%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=788775&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/130927?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

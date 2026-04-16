@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "30c94b1b-35be-4c98-b279-80d95b28201e",
+  "oracle_id": "e1bce9c3-300c-4a9d-abe0-a1f02d3a1105",
+  "multiverse_ids": [
+    651950
+  ],
+  "mtgo_id": 123234,
+  "tcgplayer_id": 534922,
+  "cardmarket_id": 753090,
+  "name": "Underrealm Lich",
+  "lang": "en",
+  "released_at": "2024-02-23",
+  "uri": "https://api.scryfall.com/cards/30c94b1b-35be-4c98-b279-80d95b28201e",
+  "scryfall_uri": "https://scryfall.com/card/clu/215/underrealm-lich?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/0/30c94b1b-35be-4c98-b279-80d95b28201e.jpg?1706240191",
+    "normal": "https://cards.scryfall.io/normal/front/3/0/30c94b1b-35be-4c98-b279-80d95b28201e.jpg?1706240191",
+    "large": "https://cards.scryfall.io/large/front/3/0/30c94b1b-35be-4c98-b279-80d95b28201e.jpg?1706240191",
+    "png": "https://cards.scryfall.io/png/front/3/0/30c94b1b-35be-4c98-b279-80d95b28201e.png?1706240191",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/0/30c94b1b-35be-4c98-b279-80d95b28201e.jpg?1706240191",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/0/30c94b1b-35be-4c98-b279-80d95b28201e.jpg?1706240191"
+  },
+  "mana_cost": "{3}{B}{G}",
+  "cmc": 5.0,
+  "type_line": "Creature \u2014 Zombie Elf Shaman",
+  "oracle_text": "If you would draw a card, instead look at the top three cards of your library, then put one into your hand and the rest into your graveyard.\nPay 4 life: This creature gains indestructible until end of turn. Tap it.",
+  "power": "4",
+  "toughness": "3",
+  "colors": [
+    "B",
+    "G"
+  ],
+  "color_identity": [
+    "B",
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d4bfabcf-a859-43a4-9d8a-665533c8b174",
+  "set": "clu",
+  "set_name": "Ravnica: Clue Edition",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d4bfabcf-a859-43a4-9d8a-665533c8b174",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aclu&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/clu?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/30c94b1b-35be-4c98-b279-80d95b28201e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae1bce9c3-300c-4a9d-abe0-a1f02d3a1105&unique=prints",
+  "collector_number": "215",
+  "digital": false,
+  "rarity": "mythic",
+  "watermark": "golgari",
+  "flavor_text": "\"You've strayed, overworlder.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Anna Steinbauer",
+  "artist_ids": [
+    "3516496c-c279-4b56-8239-720683d03ae0"
+  ],
+  "illustration_id": "8f8877fa-ebf4-4fd0-9c14-307f25d13c7a",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2787,
+  "penny_rank": 12850,
+  "prices": {
+    "usd": "6.27",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "5.85",
+    "eur_foil": null,
+    "tix": "0.12"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=651950&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DUnderrealm%2BLich",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DUnderrealm%2BLich",
+    "edhrec": "https://edhrec.com/route/?cc=Underrealm+Lich"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F534922%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=753090&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/123234?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

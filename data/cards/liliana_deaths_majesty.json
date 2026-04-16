@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "b63ae119-f91e-4d0d-8bbd-65350a4d47c4",
+  "oracle_id": "7fca595e-1902-40fd-a359-622caa612b6a",
+  "multiverse_ids": [
+    539382
+  ],
+  "mtgo_id": 93658,
+  "tcgplayer_id": 248781,
+  "cardmarket_id": 575414,
+  "name": "Liliana, Death's Majesty",
+  "lang": "en",
+  "released_at": "2021-09-24",
+  "uri": "https://api.scryfall.com/cards/b63ae119-f91e-4d0d-8bbd-65350a4d47c4",
+  "scryfall_uri": "https://scryfall.com/card/mic/121/liliana-deaths-majesty?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/6/b63ae119-f91e-4d0d-8bbd-65350a4d47c4.jpg?1637633118",
+    "normal": "https://cards.scryfall.io/normal/front/b/6/b63ae119-f91e-4d0d-8bbd-65350a4d47c4.jpg?1637633118",
+    "large": "https://cards.scryfall.io/large/front/b/6/b63ae119-f91e-4d0d-8bbd-65350a4d47c4.jpg?1637633118",
+    "png": "https://cards.scryfall.io/png/front/b/6/b63ae119-f91e-4d0d-8bbd-65350a4d47c4.png?1637633118",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/6/b63ae119-f91e-4d0d-8bbd-65350a4d47c4.jpg?1637633118",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/6/b63ae119-f91e-4d0d-8bbd-65350a4d47c4.jpg?1637633118"
+  },
+  "mana_cost": "{3}{B}{B}",
+  "cmc": 5.0,
+  "type_line": "Legendary Planeswalker \u2014 Liliana",
+  "oracle_text": "+1: Create a 2/2 black Zombie creature token. Mill two cards.\n\u22123: Return target creature card from your graveyard to the battlefield. That creature is a black Zombie in addition to its other colors and types.\n\u22127: Destroy all non-Zombie creatures.",
+  "loyalty": "5",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Mill"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "b63ae119-f91e-4d0d-8bbd-65350a4d47c4",
+      "component": "combo_piece",
+      "name": "Liliana, Death's Majesty",
+      "type_line": "Legendary Planeswalker \u2014 Liliana",
+      "uri": "https://api.scryfall.com/cards/b63ae119-f91e-4d0d-8bbd-65350a4d47c4"
+    },
+    {
+      "object": "related_card",
+      "id": "3d13fb9e-6906-47d3-b22d-c8817b2403b3",
+      "component": "token",
+      "name": "Zombie",
+      "type_line": "Token Creature \u2014 Zombie",
+      "uri": "https://api.scryfall.com/cards/3d13fb9e-6906-47d3-b22d-c8817b2403b3"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7f9a4deb-715e-47d2-afac-3843ef92f39b",
+  "set": "mic",
+  "set_name": "Midnight Hunt Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/7f9a4deb-715e-47d2-afac-3843ef92f39b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amic&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mic?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b63ae119-f91e-4d0d-8bbd-65350a4d47c4/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7fca595e-1902-40fd-a359-622caa612b6a&unique=prints",
+  "collector_number": "121",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Rallis",
+  "artist_ids": [
+    "a8e7b854-b15a-421a-b66d-6e68187ae285"
+  ],
+  "illustration_id": "87886efe-29de-4e30-b06e-e21d599786e2",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1933,
+  "penny_rank": 2500,
+  "prices": {
+    "usd": "0.42",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.87",
+    "eur_foil": null,
+    "tix": "0.47"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=539382&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLiliana%252C%2BDeath%2527s%2BMajesty",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLiliana%252C%2BDeath%2527s%2BMajesty",
+    "edhrec": "https://edhrec.com/route/?cc=Liliana%2C+Death%27s+Majesty"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F248781%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=575414&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/93658?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

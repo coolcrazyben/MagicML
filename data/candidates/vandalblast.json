@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Reanimate",
+    "type_line": "Sorcery",
+    "mana_value": 1.0,
+    "mana_cost": "{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Demonic Tutor",
+    "type_line": "Sorcery",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Feed the Swarm",
+    "type_line": "Sorcery",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Faithless Looting",
+    "type_line": "Sorcery",
+    "mana_value": 1.0,
+    "mana_cost": "{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Night's Whisper",
+    "type_line": "Sorcery",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Sign in Blood",
+    "type_line": "Sorcery",
+    "mana_value": 2.0,
+    "mana_cost": "{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Gamble",
+    "type_line": "Sorcery",
+    "mana_value": 1.0,
+    "mana_cost": "{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Diabolic Intent",
+    "type_line": "Sorcery",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Exsanguinate",
+    "type_line": "Sorcery",
+    "mana_value": 2.0,
+    "mana_cost": "{X}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Imperial Seal",
+    "type_line": "Sorcery",
+    "mana_value": 1.0,
+    "mana_cost": "{B}",
+    "color_identity": [
+      "B"
+    ]
+  }
+]

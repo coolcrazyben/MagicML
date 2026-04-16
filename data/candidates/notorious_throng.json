@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Windfall",
+    "type_line": "Sorcery",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Fabricate",
+    "type_line": "Sorcery",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Distant Melody",
+    "type_line": "Sorcery",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Tezzeret's Gambit",
+    "type_line": "Sorcery",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{U/P}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Solve the Equation",
+    "type_line": "Sorcery",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Thoughtcast",
+    "type_line": "Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "{4}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Irenicus's Vile Duplication",
+    "type_line": "Sorcery",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Rite of Replication",
+    "type_line": "Sorcery",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Raise the Palisade",
+    "type_line": "Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "{4}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "L\u00f3rien Revealed",
+    "type_line": "Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  }
+]

@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "3c429c40-2389-41e5-8681-4bb274e25eba",
+  "oracle_id": "74d3277a-38e5-4732-afed-084a56148f20",
+  "multiverse_ids": [
+    571390
+  ],
+  "mtgo_id": 101598,
+  "tcgplayer_id": 276715,
+  "cardmarket_id": 664858,
+  "name": "Mana Drain",
+  "lang": "en",
+  "released_at": "2022-07-08",
+  "uri": "https://api.scryfall.com/cards/3c429c40-2389-41e5-8681-4bb274e25eba",
+  "scryfall_uri": "https://scryfall.com/card/2x2/57/mana-drain?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/c/3c429c40-2389-41e5-8681-4bb274e25eba.jpg?1762813208",
+    "normal": "https://cards.scryfall.io/normal/front/3/c/3c429c40-2389-41e5-8681-4bb274e25eba.jpg?1762813208",
+    "large": "https://cards.scryfall.io/large/front/3/c/3c429c40-2389-41e5-8681-4bb274e25eba.jpg?1762813208",
+    "png": "https://cards.scryfall.io/png/front/3/c/3c429c40-2389-41e5-8681-4bb274e25eba.png?1762813208",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/c/3c429c40-2389-41e5-8681-4bb274e25eba.jpg?1762813208",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/c/3c429c40-2389-41e5-8681-4bb274e25eba.jpg?1762813208"
+  },
+  "mana_cost": "{U}{U}",
+  "cmc": 2.0,
+  "type_line": "Instant",
+  "oracle_text": "Counter target spell. At the beginning of your next main phase, add an amount of {C} equal to that spell's mana value.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "banned",
+    "timeless": "legal",
+    "gladiator": "banned",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "banned",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "banned",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "banned",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "5a645837-b050-449f-ac90-1e7ccbf45031",
+  "set": "2x2",
+  "set_name": "Double Masters 2022",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/5a645837-b050-449f-ac90-1e7ccbf45031",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A2x2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/2x2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3c429c40-2389-41e5-8681-4bb274e25eba/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A74d3277a-38e5-4732-afed-084a56148f20&unique=prints",
+  "collector_number": "57",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "Enthusiasm is no match for preparation.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Raymond Swanland",
+  "artist_ids": [
+    "e956bacc-077d-4c12-b6bc-ba798b718af9"
+  ],
+  "illustration_id": "ee852820-be35-4eed-96fc-a4d821f21b73",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 114,
+  "preview": {
+    "source": "CovertGoBlue",
+    "source_uri": "https://twitter.com/covertgoblue/status/1539331265064730624",
+    "previewed_at": "2022-06-21"
+  },
+  "prices": {
+    "usd": "51.63",
+    "usd_foil": "53.55",
+    "usd_etched": null,
+    "eur": "43.19",
+    "eur_foil": "49.03",
+    "tix": "4.14"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=571390&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMana%2BDrain",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMana%2BDrain",
+    "edhrec": "https://edhrec.com/route/?cc=Mana+Drain"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F276715%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=664858&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/101598?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

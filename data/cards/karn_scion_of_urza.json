@@ -1,0 +1,139 @@
+{
+  "object": "card",
+  "id": "07a3d9e8-8597-498b-869c-cff79e0df516",
+  "oracle_id": "060209fa-4b7d-4e08-bf8b-8759bba5641b",
+  "multiverse_ids": [
+    442889
+  ],
+  "mtgo_id": 67467,
+  "arena_id": 67106,
+  "tcgplayer_id": 162259,
+  "cardmarket_id": 319811,
+  "name": "Karn, Scion of Urza",
+  "lang": "en",
+  "released_at": "2018-04-27",
+  "uri": "https://api.scryfall.com/cards/07a3d9e8-8597-498b-869c-cff79e0df516",
+  "scryfall_uri": "https://scryfall.com/card/dom/1/karn-scion-of-urza?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/7/07a3d9e8-8597-498b-869c-cff79e0df516.jpg?1562730952",
+    "normal": "https://cards.scryfall.io/normal/front/0/7/07a3d9e8-8597-498b-869c-cff79e0df516.jpg?1562730952",
+    "large": "https://cards.scryfall.io/large/front/0/7/07a3d9e8-8597-498b-869c-cff79e0df516.jpg?1562730952",
+    "png": "https://cards.scryfall.io/png/front/0/7/07a3d9e8-8597-498b-869c-cff79e0df516.png?1562730952",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/7/07a3d9e8-8597-498b-869c-cff79e0df516.jpg?1562730952",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/7/07a3d9e8-8597-498b-869c-cff79e0df516.jpg?1562730952"
+  },
+  "mana_cost": "{4}",
+  "cmc": 4.0,
+  "type_line": "Legendary Planeswalker \u2014 Karn",
+  "oracle_text": "+1: Reveal the top two cards of your library. An opponent chooses one of them. Put that card into your hand and exile the other with a silver counter on it.\n\u22121: Put a card you own with a silver counter on it from exile into your hand.\n\u22122: Create a 0/0 colorless Construct artifact creature token with \"This token gets +1/+1 for each artifact you control.\"",
+  "loyalty": "5",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "07a3d9e8-8597-498b-869c-cff79e0df516",
+      "component": "combo_piece",
+      "name": "Karn, Scion of Urza",
+      "type_line": "Legendary Planeswalker \u2014 Karn",
+      "uri": "https://api.scryfall.com/cards/07a3d9e8-8597-498b-869c-cff79e0df516"
+    },
+    {
+      "object": "related_card",
+      "id": "c5eafa38-5333-4ef2-9661-08074c580a32",
+      "component": "token",
+      "name": "Construct",
+      "type_line": "Token Artifact Creature \u2014 Construct",
+      "uri": "https://api.scryfall.com/cards/c5eafa38-5333-4ef2-9661-08074c580a32"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "be1daba3-51c9-4e7e-9212-36e68addc26c",
+  "set": "dom",
+  "set_name": "Dominaria",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/be1daba3-51c9-4e7e-9212-36e68addc26c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adom&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dom?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/07a3d9e8-8597-498b-869c-cff79e0df516/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A060209fa-4b7d-4e08-bf8b-8759bba5641b&unique=prints",
+  "collector_number": "1",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chase Stone",
+  "artist_ids": [
+    "2d753f61-5f5b-468e-97ea-8e0fdd347340"
+  ],
+  "illustration_id": "792b699f-87ea-4608-aac5-e6d5e96feacb",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 5160,
+  "prices": {
+    "usd": "3.92",
+    "usd_foil": "6.87",
+    "usd_etched": null,
+    "eur": "3.83",
+    "eur_foil": "6.08",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442889&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKarn%252C%2BScion%2Bof%2BUrza",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKarn%252C%2BScion%2Bof%2BUrza",
+    "edhrec": "https://edhrec.com/route/?cc=Karn%2C+Scion+of+Urza"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F162259%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=319811&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/67467?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

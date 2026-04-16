@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Counterspell",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "An Offer You Can't Refuse",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Cyclonic Rift",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Negate",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Arcane Denial",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Brainstorm",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Swan Song",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Fierce Guardianship",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Frantic Search",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Mana Drain",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  }
+]

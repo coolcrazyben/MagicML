@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "dc922e89-c816-476a-82c3-3c6b9fd196a9",
+  "oracle_id": "d06eedb4-bd5a-4864-9505-a570a745d165",
+  "multiverse_ids": [
+    532501
+  ],
+  "tcgplayer_id": 243884,
+  "cardmarket_id": 572287,
+  "name": "Apex of Power",
+  "lang": "en",
+  "released_at": "2021-07-23",
+  "uri": "https://api.scryfall.com/cards/dc922e89-c816-476a-82c3-3c6b9fd196a9",
+  "scryfall_uri": "https://scryfall.com/card/afc/114/apex-of-power?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/c/dc922e89-c816-476a-82c3-3c6b9fd196a9.jpg?1631586913",
+    "normal": "https://cards.scryfall.io/normal/front/d/c/dc922e89-c816-476a-82c3-3c6b9fd196a9.jpg?1631586913",
+    "large": "https://cards.scryfall.io/large/front/d/c/dc922e89-c816-476a-82c3-3c6b9fd196a9.jpg?1631586913",
+    "png": "https://cards.scryfall.io/png/front/d/c/dc922e89-c816-476a-82c3-3c6b9fd196a9.png?1631586913",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/c/dc922e89-c816-476a-82c3-3c6b9fd196a9.jpg?1631586913",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/c/dc922e89-c816-476a-82c3-3c6b9fd196a9.jpg?1631586913"
+  },
+  "mana_cost": "{7}{R}{R}{R}",
+  "cmc": 10.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Exile the top seven cards of your library. Until end of turn, you may cast spells from among them.\nIf this spell was cast from your hand, add ten mana of any one color.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "db1b46f9-893c-4623-9465-985ff6e4472c",
+  "set": "afc",
+  "set_name": "Forgotten Realms Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/db1b46f9-893c-4623-9465-985ff6e4472c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aafc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/afc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/dc922e89-c816-476a-82c3-3c6b9fd196a9/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad06eedb4-bd5a-4864-9505-a570a745d165&unique=prints",
+  "collector_number": "114",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "\"As I desire, so it shall be.\"\n\u2014Nicol Bolas",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Svetlin Velinov",
+  "artist_ids": [
+    "ffd063ae-c097-4f26-b2e6-b1e2137708bc"
+  ],
+  "illustration_id": "c1e5b908-7837-4096-8476-7599fe174b66",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 4495,
+  "penny_rank": 6208,
+  "prices": {
+    "usd": "0.63",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.54",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=532501&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DApex%2Bof%2BPower",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DApex%2Bof%2BPower",
+    "edhrec": "https://edhrec.com/route/?cc=Apex+of+Power"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F243884%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=572287&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Apex+of+Power&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

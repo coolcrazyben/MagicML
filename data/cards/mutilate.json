@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "04587192-e5a6-46f6-98b5-3b349d618880",
+  "oracle_id": "698e79ec-c2bc-4973-a095-f3c57b50e39c",
+  "multiverse_ids": [
+    393909
+  ],
+  "tcgplayer_id": 93723,
+  "cardmarket_id": 270059,
+  "name": "Mutilate",
+  "lang": "en",
+  "released_at": "2014-12-05",
+  "uri": "https://api.scryfall.com/cards/04587192-e5a6-46f6-98b5-3b349d618880",
+  "scryfall_uri": "https://scryfall.com/card/gvl/55/mutilate?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/4/04587192-e5a6-46f6-98b5-3b349d618880.jpg?1562896094",
+    "normal": "https://cards.scryfall.io/normal/front/0/4/04587192-e5a6-46f6-98b5-3b349d618880.jpg?1562896094",
+    "large": "https://cards.scryfall.io/large/front/0/4/04587192-e5a6-46f6-98b5-3b349d618880.jpg?1562896094",
+    "png": "https://cards.scryfall.io/png/front/0/4/04587192-e5a6-46f6-98b5-3b349d618880.png?1562896094",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/4/04587192-e5a6-46f6-98b5-3b349d618880.jpg?1562896094",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/4/04587192-e5a6-46f6-98b5-3b349d618880.jpg?1562896094"
+  },
+  "mana_cost": "{2}{B}{B}",
+  "cmc": 4.0,
+  "type_line": "Sorcery",
+  "oracle_text": "All creatures get -1/-1 until end of turn for each Swamp you control.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "db352daa-9827-44ca-ba19-511969a97689",
+  "set": "gvl",
+  "set_name": "Duel Decks Anthology: Garruk vs. Liliana",
+  "set_type": "duel_deck",
+  "set_uri": "https://api.scryfall.com/sets/db352daa-9827-44ca-ba19-511969a97689",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Agvl&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/gvl?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/04587192-e5a6-46f6-98b5-3b349d618880/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A698e79ec-c2bc-4973-a095-f3c57b50e39c&unique=prints",
+  "collector_number": "55",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Liliana developed a fondness for the moment when roaring becomes squealing.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Zoltan Boros & Gabor Szikszai",
+  "artist_ids": [
+    "1885e6cb-c827-4896-994e-3d0a027d602f",
+    "44c3877f-8771-43dc-9e40-f4c765f59d2e"
+  ],
+  "illustration_id": "5c65e52b-239a-4281-9d90-128cb13c559e",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2195,
+  "penny_rank": 2207,
+  "prices": {
+    "usd": "1.84",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "2.41",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=393909&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMutilate",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMutilate",
+    "edhrec": "https://edhrec.com/route/?cc=Mutilate"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F93723%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=270059&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mutilate&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

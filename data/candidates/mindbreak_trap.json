@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Fierce Guardianship",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Frantic Search",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Deadly Rollick",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Sink into Stupor // Soporific Springs",
+    "type_line": "Instant // Land",
+    "mana_value": 3.0,
+    "mana_cost": "",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Force of Will",
+    "type_line": "Instant",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Fell the Profane // Fell Mire",
+    "type_line": "Instant // Land",
+    "mana_value": 4.0,
+    "mana_cost": "",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Force of Negation",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{1}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Withering Torment",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Aetherize",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Ghostly Flicker",
+    "type_line": "Instant",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{U}",
+    "color_identity": [
+      "U"
+    ]
+  }
+]

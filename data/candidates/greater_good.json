@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Garruk's Uprising",
+    "type_line": "Enchantment",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Rhythm of the Wild",
+    "type_line": "Enchantment",
+    "mana_value": 3.0,
+    "mana_cost": "{1}{R}{G}",
+    "color_identity": [
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Doubling Season",
+    "type_line": "Enchantment",
+    "mana_value": 5.0,
+    "mana_cost": "{4}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Dryad of the Ilysian Grove",
+    "type_line": "Enchantment Creature \u2014 Nymph Dryad",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Guardian Project",
+    "type_line": "Enchantment",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Branching Evolution",
+    "type_line": "Enchantment",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Parallel Lives",
+    "type_line": "Enchantment",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Unnatural Growth",
+    "type_line": "Enchantment",
+    "mana_value": 5.0,
+    "mana_cost": "{1}{G}{G}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Enduring Vitality",
+    "type_line": "Enchantment Creature \u2014 Elk Glimmer",
+    "mana_value": 3.0,
+    "mana_cost": "{1}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun",
+    "type_line": "Legendary Enchantment // Legendary Land",
+    "mana_value": 3.0,
+    "mana_cost": "",
+    "color_identity": [
+      "G"
+    ]
+  }
+]

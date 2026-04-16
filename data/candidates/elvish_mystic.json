@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Birds of Paradise",
+    "type_line": "Creature \u2014 Bird",
+    "mana_value": 1.0,
+    "mana_cost": "{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Llanowar Elves",
+    "type_line": "Creature \u2014 Elf Druid",
+    "mana_value": 1.0,
+    "mana_cost": "{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Sakura-Tribe Elder",
+    "type_line": "Creature \u2014 Snake Shaman",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Blood Artist",
+    "type_line": "Creature \u2014 Vampire",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Delighted Halfling",
+    "type_line": "Creature \u2014 Halfling Citizen",
+    "mana_value": 1.0,
+    "mana_cost": "{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Fyndhorn Elves",
+    "type_line": "Creature \u2014 Elf Druid",
+    "mana_value": 1.0,
+    "mana_cost": "{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Ornithopter of Paradise",
+    "type_line": "Artifact Creature \u2014 Thopter",
+    "mana_value": 2.0,
+    "mana_cost": "{2}",
+    "color_identity": []
+  },
+  {
+    "name": "Zulaport Cutthroat",
+    "type_line": "Creature \u2014 Human Rogue Ally",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Orcish Bowmasters",
+    "type_line": "Creature \u2014 Orc Archer",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Viscera Seer",
+    "type_line": "Creature \u2014 Vampire Wizard",
+    "mana_value": 1.0,
+    "mana_cost": "{B}",
+    "color_identity": [
+      "B"
+    ]
+  }
+]

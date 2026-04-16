@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Rishkar's Expertise",
+    "type_line": "Sorcery",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Skyshroud Claim",
+    "type_line": "Sorcery",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Harmonize",
+    "type_line": "Sorcery",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Shamanic Revelation",
+    "type_line": "Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Tempt with Discovery",
+    "type_line": "Sorcery",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Splendid Reclamation",
+    "type_line": "Sorcery",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Migration Path",
+    "type_line": "Sorcery",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Explosive Vegetation",
+    "type_line": "Sorcery",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Wandering Archaic // Explore the Vastlands",
+    "type_line": "Creature \u2014 Avatar // Sorcery",
+    "mana_value": 5.0,
+    "mana_cost": "",
+    "color_identity": []
+  },
+  {
+    "name": "Scapeshift",
+    "type_line": "Sorcery",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  }
+]

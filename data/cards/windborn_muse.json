@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "3ce8b722-7bc0-4053-8627-7846f9d17eda",
+  "oracle_id": "75e09ac6-d789-4c4d-9aca-845d68f3899f",
+  "multiverse_ids": [
+    650186
+  ],
+  "mtgo_id": 122324,
+  "tcgplayer_id": 535568,
+  "cardmarket_id": 753421,
+  "name": "Windborn Muse",
+  "lang": "en",
+  "released_at": "2024-02-09",
+  "uri": "https://api.scryfall.com/cards/3ce8b722-7bc0-4053-8627-7846f9d17eda",
+  "scryfall_uri": "https://scryfall.com/card/mkc/92/windborn-muse?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/c/3ce8b722-7bc0-4053-8627-7846f9d17eda.jpg?1706240660",
+    "normal": "https://cards.scryfall.io/normal/front/3/c/3ce8b722-7bc0-4053-8627-7846f9d17eda.jpg?1706240660",
+    "large": "https://cards.scryfall.io/large/front/3/c/3ce8b722-7bc0-4053-8627-7846f9d17eda.jpg?1706240660",
+    "png": "https://cards.scryfall.io/png/front/3/c/3ce8b722-7bc0-4053-8627-7846f9d17eda.png?1706240660",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/c/3ce8b722-7bc0-4053-8627-7846f9d17eda.jpg?1706240660",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/c/3ce8b722-7bc0-4053-8627-7846f9d17eda.jpg?1706240660"
+  },
+  "mana_cost": "{3}{W}",
+  "cmc": 4.0,
+  "type_line": "Creature \u2014 Spirit",
+  "oracle_text": "Flying\nCreatures can't attack you unless their controller pays {2} for each creature they control that's attacking you.",
+  "power": "2",
+  "toughness": "3",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "286c37ca-ba65-4d3e-8c5d-d1878d88fd95",
+  "set": "mkc",
+  "set_name": "Murders at Karlov Manor Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/286c37ca-ba65-4d3e-8c5d-d1878d88fd95",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mkc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3ce8b722-7bc0-4053-8627-7846f9d17eda/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A75e09ac6-d789-4c4d-9aca-845d68f3899f&unique=prints",
+  "collector_number": "92",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Her voice is justice, clear and relentless.\"\n\u2014Akroma, angelic avenger",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Adam Rex",
+  "artist_ids": [
+    "445bd2fb-4a70-4599-87a4-83cf5979fc56"
+  ],
+  "illustration_id": "aa38e38b-3c96-4106-b44b-1de05ca82252",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 996,
+  "penny_rank": 7816,
+  "prices": {
+    "usd": "0.44",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.33",
+    "eur_foil": null,
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=650186&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWindborn%2BMuse",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWindborn%2BMuse",
+    "edhrec": "https://edhrec.com/route/?cc=Windborn+Muse"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F535568%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=753421&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/122324?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

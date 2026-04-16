@@ -1,0 +1,153 @@
+{
+  "object": "card",
+  "id": "ea430b17-2014-4b8e-b53f-43bcfc06f7cd",
+  "oracle_id": "57276db8-9d8d-4587-ae88-dfdc44343f17",
+  "multiverse_ids": [],
+  "resource_id": "4758D86CA7DF0B2ACCD2C1291F820FC9D352FA9367EB33D3CB6B45EBA96DC620",
+  "mtgo_id": 141207,
+  "tcgplayer_id": 633131,
+  "cardmarket_id": 826604,
+  "name": "The Fire Crystal",
+  "lang": "en",
+  "released_at": "2025-06-13",
+  "uri": "https://api.scryfall.com/cards/ea430b17-2014-4b8e-b53f-43bcfc06f7cd",
+  "scryfall_uri": "https://scryfall.com/card/fin/135/the-fire-crystal?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/a/ea430b17-2014-4b8e-b53f-43bcfc06f7cd.jpg?1748706272",
+    "normal": "https://cards.scryfall.io/normal/front/e/a/ea430b17-2014-4b8e-b53f-43bcfc06f7cd.jpg?1748706272",
+    "large": "https://cards.scryfall.io/large/front/e/a/ea430b17-2014-4b8e-b53f-43bcfc06f7cd.jpg?1748706272",
+    "png": "https://cards.scryfall.io/png/front/e/a/ea430b17-2014-4b8e-b53f-43bcfc06f7cd.png?1748706272",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/a/ea430b17-2014-4b8e-b53f-43bcfc06f7cd.jpg?1748706272",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/a/ea430b17-2014-4b8e-b53f-43bcfc06f7cd.jpg?1748706272"
+  },
+  "mana_cost": "{2}{R}{R}",
+  "cmc": 4.0,
+  "type_line": "Legendary Artifact",
+  "oracle_text": "Red spells you cast cost {1} less to cast.\nCreatures you control have haste.\n{4}{R}{R}, {T}: Create a token that's a copy of target creature you control. Sacrifice it at the beginning of the next end step.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "58306c68-5de8-48f4-9ce5-ea69792af58c",
+      "component": "combo_piece",
+      "name": "The Fire Crystal",
+      "type_line": "Legendary Artifact",
+      "uri": "https://api.scryfall.com/cards/58306c68-5de8-48f4-9ce5-ea69792af58c"
+    },
+    {
+      "object": "related_card",
+      "id": "81c9d442-d7d5-4911-b0b9-c3206faeab1d",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/81c9d442-d7d5-4911-b0b9-c3206faeab1d"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7beb4b7-e1ff-4d35-ab07-5700f17ea1ea",
+  "set": "fin",
+  "set_name": "Final Fantasy",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/d7beb4b7-e1ff-4d35-ab07-5700f17ea1ea",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afin&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/fin?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ea430b17-2014-4b8e-b53f-43bcfc06f7cd/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A57276db8-9d8d-4587-ae88-dfdc44343f17&unique=prints",
+  "collector_number": "135",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Warriors of Light...Only you can restore hope to the world, for yours is the light that can balance out the darkness...\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Pablo Mendoza",
+  "artist_ids": [
+    "57f8d135-42e9-46e2-bb00-eff941b3152b"
+  ],
+  "illustration_id": "7396490d-a53c-41e0-a347-de28374e200c",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "promo_types": [
+    "ffiii",
+    "universesbeyond"
+  ],
+  "edhrec_rank": 1185,
+  "penny_rank": 10267,
+  "preview": {
+    "source": "Collider",
+    "source_uri": "https://collider.com/magic-the-gathering-final-fantasy-crystal-card-images/",
+    "previewed_at": "2025-05-20"
+  },
+  "prices": {
+    "usd": "5.95",
+    "usd_foil": "5.77",
+    "usd_etched": null,
+    "eur": "3.62",
+    "eur_foil": "4.04",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThe%2BFire%2BCrystal",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThe%2BFire%2BCrystal",
+    "edhrec": "https://edhrec.com/route/?cc=The+Fire+Crystal"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F633131%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=826604&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/141207?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

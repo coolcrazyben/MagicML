@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Jace, Wielder of Mysteries",
+    "type_line": "Legendary Planeswalker \u2014 Jace",
+    "mana_value": 4.0,
+    "mana_cost": "{1}{U}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Tezzeret, Cruel Captain",
+    "type_line": "Legendary Planeswalker \u2014 Tezzeret",
+    "mana_value": 3.0,
+    "mana_cost": "{3}",
+    "color_identity": []
+  },
+  {
+    "name": "Karn, the Great Creator",
+    "type_line": "Legendary Planeswalker \u2014 Karn",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Teferi, Master of Time",
+    "type_line": "Legendary Planeswalker \u2014 Teferi",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Liliana of the Dark Realms",
+    "type_line": "Legendary Planeswalker \u2014 Liliana",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "The Aetherspark",
+    "type_line": "Legendary Artifact Planeswalker \u2014 Equipment",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Ashiok, Dream Render",
+    "type_line": "Legendary Planeswalker \u2014 Ashiok",
+    "mana_value": 3.0,
+    "mana_cost": "{1}{U/B}{U/B}",
+    "color_identity": [
+      "B",
+      "U"
+    ]
+  },
+  {
+    "name": "Liliana of the Veil",
+    "type_line": "Legendary Planeswalker \u2014 Liliana",
+    "mana_value": 3.0,
+    "mana_cost": "{1}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Jace, the Mind Sculptor",
+    "type_line": "Legendary Planeswalker \u2014 Jace",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Jace Beleren",
+    "type_line": "Legendary Planeswalker \u2014 Jace",
+    "mana_value": 3.0,
+    "mana_cost": "{1}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  }
+]

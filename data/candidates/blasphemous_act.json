@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Last March of the Ents",
+    "type_line": "Sorcery",
+    "mana_value": 8.0,
+    "mana_cost": "{6}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Ezuri's Predation",
+    "type_line": "Sorcery",
+    "mana_value": 8.0,
+    "mana_cost": "{5}{G}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Call Forth the Tempest",
+    "type_line": "Sorcery",
+    "mana_value": 8.0,
+    "mana_cost": "{5}{R}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Insurrection",
+    "type_line": "Sorcery",
+    "mana_value": 8.0,
+    "mana_cost": "{5}{R}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Reshape the Earth",
+    "type_line": "Sorcery",
+    "mana_value": 9.0,
+    "mana_cost": "{6}{G}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Apex of Power",
+    "type_line": "Sorcery",
+    "mana_value": 10.0,
+    "mana_cost": "{7}{R}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Praetor's Counsel",
+    "type_line": "Sorcery",
+    "mana_value": 8.0,
+    "mana_cost": "{5}{G}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Dance with Calamity",
+    "type_line": "Sorcery",
+    "mana_value": 8.0,
+    "mana_cost": "{7}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Majestic Genesis",
+    "type_line": "Sorcery",
+    "mana_value": 8.0,
+    "mana_cost": "{6}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Warp World",
+    "type_line": "Sorcery",
+    "mana_value": 8.0,
+    "mana_cost": "{5}{R}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  }
+]

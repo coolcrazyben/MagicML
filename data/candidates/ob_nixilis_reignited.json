@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Liliana, Dreadhorde General",
+    "type_line": "Legendary Planeswalker \u2014 Liliana",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Ugin, the Ineffable",
+    "type_line": "Legendary Planeswalker \u2014 Ugin",
+    "mana_value": 6.0,
+    "mana_cost": "{6}",
+    "color_identity": []
+  },
+  {
+    "name": "Vraska, Betrayal's Sting",
+    "type_line": "Legendary Planeswalker \u2014 Vraska",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{B}{B/P}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Karn, the Great Creator",
+    "type_line": "Legendary Planeswalker \u2014 Karn",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Liliana, Death's Majesty",
+    "type_line": "Legendary Planeswalker \u2014 Liliana",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Liliana of the Dark Realms",
+    "type_line": "Legendary Planeswalker \u2014 Liliana",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "The Aetherspark",
+    "type_line": "Legendary Artifact Planeswalker \u2014 Equipment",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Professor Onyx",
+    "type_line": "Legendary Planeswalker \u2014 Liliana",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Tevesh Szat, Doom of Fools",
+    "type_line": "Legendary Planeswalker \u2014 Szat",
+    "mana_value": 5.0,
+    "mana_cost": "{4}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Sorin Markov",
+    "type_line": "Legendary Planeswalker \u2014 Sorin",
+    "mana_value": 6.0,
+    "mana_cost": "{3}{B}{B}{B}",
+    "color_identity": [
+      "B"
+    ]
+  }
+]

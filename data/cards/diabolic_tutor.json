@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "d650dd8c-edd8-44e4-ae95-aaaf84557a72",
+  "oracle_id": "14589b6b-1814-46f9-a364-83cc15dacac2",
+  "multiverse_ids": [
+    430273
+  ],
+  "tcgplayer_id": 132015,
+  "cardmarket_id": 298001,
+  "name": "Diabolic Tutor",
+  "lang": "en",
+  "released_at": "2017-06-09",
+  "uri": "https://api.scryfall.com/cards/d650dd8c-edd8-44e4-ae95-aaaf84557a72",
+  "scryfall_uri": "https://scryfall.com/card/cma/54/diabolic-tutor?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/6/d650dd8c-edd8-44e4-ae95-aaaf84557a72.jpg?1592672628",
+    "normal": "https://cards.scryfall.io/normal/front/d/6/d650dd8c-edd8-44e4-ae95-aaaf84557a72.jpg?1592672628",
+    "large": "https://cards.scryfall.io/large/front/d/6/d650dd8c-edd8-44e4-ae95-aaaf84557a72.jpg?1592672628",
+    "png": "https://cards.scryfall.io/png/front/d/6/d650dd8c-edd8-44e4-ae95-aaaf84557a72.png?1592672628",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/6/d650dd8c-edd8-44e4-ae95-aaaf84557a72.jpg?1592672628",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/6/d650dd8c-edd8-44e4-ae95-aaaf84557a72.jpg?1592672628"
+  },
+  "mana_cost": "{2}{B}{B}",
+  "cmc": 4.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Search your library for a card, put that card into your hand, then shuffle.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "fd4d8463-0156-4c60-a40e-778762bb90e4",
+  "set": "cma",
+  "set_name": "Commander Anthology",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/fd4d8463-0156-4c60-a40e-778762bb90e4",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acma&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cma?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d650dd8c-edd8-44e4-ae95-aaaf84557a72/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A14589b6b-1814-46f9-a364-83cc15dacac2&unique=prints",
+  "collector_number": "54",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "The wise always keep an ear open to the whispers of power.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Greg Staples",
+  "artist_ids": [
+    "93d65564-bf00-447b-8406-e2031f03b6b1"
+  ],
+  "illustration_id": "127d6193-cb04-4a82-b624-09fbfc40f9dd",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 445,
+  "penny_rank": 2389,
+  "prices": {
+    "usd": "2.04",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "1.16",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430273&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDiabolic%2BTutor",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDiabolic%2BTutor",
+    "edhrec": "https://edhrec.com/route/?cc=Diabolic+Tutor"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F132015%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=298001&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Diabolic+Tutor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

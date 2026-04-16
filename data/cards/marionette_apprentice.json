@@ -1,0 +1,151 @@
+{
+  "object": "card",
+  "id": "d16f8670-f038-400a-83e7-a53a7f8c47ac",
+  "oracle_id": "726d9d2c-736a-4852-9938-a0f50d8fd89f",
+  "multiverse_ids": [
+    662252
+  ],
+  "mtgo_id": 126217,
+  "arena_id": 90949,
+  "tcgplayer_id": 552635,
+  "cardmarket_id": 771525,
+  "name": "Marionette Apprentice",
+  "lang": "en",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/d16f8670-f038-400a-83e7-a53a7f8c47ac",
+  "scryfall_uri": "https://scryfall.com/card/mh3/100/marionette-apprentice?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/1/d16f8670-f038-400a-83e7-a53a7f8c47ac.jpg?1717012013",
+    "normal": "https://cards.scryfall.io/normal/front/d/1/d16f8670-f038-400a-83e7-a53a7f8c47ac.jpg?1717012013",
+    "large": "https://cards.scryfall.io/large/front/d/1/d16f8670-f038-400a-83e7-a53a7f8c47ac.jpg?1717012013",
+    "png": "https://cards.scryfall.io/png/front/d/1/d16f8670-f038-400a-83e7-a53a7f8c47ac.png?1717012013",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/1/d16f8670-f038-400a-83e7-a53a7f8c47ac.jpg?1717012013",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/1/d16f8670-f038-400a-83e7-a53a7f8c47ac.jpg?1717012013"
+  },
+  "mana_cost": "{1}{B}",
+  "cmc": 2.0,
+  "type_line": "Creature \u2014 Human Artificer",
+  "oracle_text": "Fabricate 1 (When this creature enters, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.)\nWhenever another creature or artifact you control is put into a graveyard from the battlefield, each opponent loses 1 life.",
+  "power": "1",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Fabricate"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "22b5a3dd-0b5a-434e-afee-a83b0279fd15",
+      "component": "combo_piece",
+      "name": "Marionette Apprentice",
+      "type_line": "Creature \u2014 Human Artificer",
+      "uri": "https://api.scryfall.com/cards/22b5a3dd-0b5a-434e-afee-a83b0279fd15"
+    },
+    {
+      "object": "related_card",
+      "id": "23165814-3eb8-4d94-b9c8-ecc798afe7a0",
+      "component": "token",
+      "name": "Servo",
+      "type_line": "Token Artifact Creature \u2014 Servo",
+      "uri": "https://api.scryfall.com/cards/23165814-3eb8-4d94-b9c8-ecc798afe7a0"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d16f8670-f038-400a-83e7-a53a7f8c47ac/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A726d9d2c-736a-4852-9938-a0f50d8fd89f&unique=prints",
+  "collector_number": "100",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"Ah! Yes! I got its leg to twitch!\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Steve Ellis",
+  "artist_ids": [
+    "39d8411c-2187-426c-8ad3-d4f688b22db1"
+  ],
+  "illustration_id": "d5e33ffe-ef4f-412c-a924-8a4c919d2598",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 573,
+  "preview": {
+    "source": "anzidmtg",
+    "source_uri": "https://twitter.com/anzidmtg/status/1793433566237605979",
+    "previewed_at": "2024-05-22"
+  },
+  "prices": {
+    "usd": "1.12",
+    "usd_foil": "1.36",
+    "usd_etched": null,
+    "eur": "1.16",
+    "eur_foil": "1.34",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=662252&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMarionette%2BApprentice",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMarionette%2BApprentice",
+    "edhrec": "https://edhrec.com/route/?cc=Marionette+Apprentice"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F552635%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=771525&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/126217?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

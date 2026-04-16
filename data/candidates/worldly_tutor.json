@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Swords to Plowshares",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{W}",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Path to Exile",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{W}",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Counterspell",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Heroic Intervention",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Dark Ritual",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "An Offer You Can't Refuse",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Cyclonic Rift",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Negate",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Arcane Denial",
+    "type_line": "Instant",
+    "mana_value": 2.0,
+    "mana_cost": "{1}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Brainstorm",
+    "type_line": "Instant",
+    "mana_value": 1.0,
+    "mana_cost": "{U}",
+    "color_identity": [
+      "U"
+    ]
+  }
+]

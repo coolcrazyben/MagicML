@@ -1,0 +1,56 @@
+[2026-04-15T13:26:16.707589] bennie-bracks-zoologist_10000.txt: ValueError: No confirmed combos - no speed data possible.
+Traceback (most recent call last):
+  File "C:\Users\pfpee\Magic ML\data_pipeline.py", line 971, in main
+    n_swaps = HeadlessOptimizer(deck_file, db_path=DB_PATH).run(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pfpee\Magic ML\data_pipeline.py", line 806, in run
+    raise ValueError("No confirmed combos - no speed data possible.")
+ValueError: No confirmed combos - no speed data possible.
+
+[2026-04-15T13:26:17.411609] zacama-primal-calamity_10001.txt: ValueError: No confirmed combos - no speed data possible.
+Traceback (most recent call last):
+  File "C:\Users\pfpee\Magic ML\data_pipeline.py", line 971, in main
+    n_swaps = HeadlessOptimizer(deck_file, db_path=DB_PATH).run(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pfpee\Magic ML\data_pipeline.py", line 806, in run
+    raise ValueError("No confirmed combos - no speed data possible.")
+ValueError: No confirmed combos - no speed data possible.
+
+[2026-04-15T21:12:58.850727] ragavan-nimble-pilferer_2.txt: ValueError: No confirmed combos - no speed data possible.
+Traceback (most recent call last):
+  File "C:\Users\pfpee\Magic ML\data_pipeline.py", line 964, in main
+    for local_idx, deck_file in enumerate(to_process):
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pfpee\Magic ML\data_pipeline.py", line 799, in run
+    if not matched:
+        ^^^^^^^^^^^^
+ValueError: No confirmed combos - no speed data possible.
+
+[2026-04-15T21:18:38.447697] ragavan-nimble-pilferer_2.txt: ValueError: No confirmed combos - no speed data possible.
+Traceback (most recent call last):
+  File "c:\Users\pfpee\Magic ML\data_pipeline.py", line 981, in main
+    n_swaps = HeadlessOptimizer(deck_file, db_path=DB_PATH).run(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\pfpee\Magic ML\data_pipeline.py", line 800, in run
+    raise ValueError("No confirmed combos - no speed data possible.")
+ValueError: No confirmed combos - no speed data possible.
+
+[2026-04-15T21:25:32.626803] azusa-lost-but-seeking_4.txt: ValueError: No confirmed combos - no speed data possible.
+Traceback (most recent call last):
+  File "c:\Users\pfpee\Magic ML\data_pipeline.py", line 981, in main
+    n_swaps = HeadlessOptimizer(deck_file, db_path=DB_PATH).run(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\pfpee\Magic ML\data_pipeline.py", line 800, in run
+    raise ValueError("No confirmed combos - no speed data possible.")
+ValueError: No confirmed combos - no speed data possible.
+
+[2026-04-15T21:34:28.923477] azusa-lost-but-seeking_4.txt: ValueError: No confirmed combos - no speed data possible.
+Traceback (most recent call last):
+  File "C:\Users\pfpee\Magic ML\data_pipeline.py", line 964, in main
+    for local_idx, deck_file in enumerate(to_process):
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pfpee\Magic ML\data_pipeline.py", line 799, in run
+    if not matched:
+        ^^^^^^^^^^^^
+ValueError: No confirmed combos - no speed data possible.
+

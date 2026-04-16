@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Summon: Bahamut",
+    "type_line": "Enchantment Creature \u2014 Saga Dragon",
+    "mana_value": 9.0,
+    "mana_cost": "{9}",
+    "color_identity": []
+  },
+  {
+    "name": "Super State",
+    "type_line": "Legendary Enchantment \u2014 Aura",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  }
+]

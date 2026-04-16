@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "b7717617-706a-4338-a207-dd8c08feb1c3",
+  "oracle_id": "97a85a3e-258e-49b7-8ebe-7efee808da7a",
+  "multiverse_ids": [
+    567243
+  ],
+  "mtgo_id": 101452,
+  "tcgplayer_id": 273663,
+  "cardmarket_id": 661379,
+  "name": "Nalfeshnee",
+  "lang": "en",
+  "released_at": "2022-06-10",
+  "uri": "https://api.scryfall.com/cards/b7717617-706a-4338-a207-dd8c08feb1c3",
+  "scryfall_uri": "https://scryfall.com/card/clb/678/nalfeshnee?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/7/b7717617-706a-4338-a207-dd8c08feb1c3.jpg?1674140963",
+    "normal": "https://cards.scryfall.io/normal/front/b/7/b7717617-706a-4338-a207-dd8c08feb1c3.jpg?1674140963",
+    "large": "https://cards.scryfall.io/large/front/b/7/b7717617-706a-4338-a207-dd8c08feb1c3.jpg?1674140963",
+    "png": "https://cards.scryfall.io/png/front/b/7/b7717617-706a-4338-a207-dd8c08feb1c3.png?1674140963",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/7/b7717617-706a-4338-a207-dd8c08feb1c3.jpg?1674140963",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/7/b7717617-706a-4338-a207-dd8c08feb1c3.jpg?1674140963"
+  },
+  "mana_cost": "{5}{R}",
+  "cmc": 6.0,
+  "type_line": "Creature \u2014 Beast Demon",
+  "oracle_text": "Flying\nWhenever you cast a spell from exile, copy it. You may choose new targets for the copy. If it's a permanent spell, the copy gains haste and \"At the beginning of the end step, sacrifice this permanent.\" (A copy of a permanent spell becomes a token.)",
+  "power": "4",
+  "toughness": "6",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "51d7dc49-7116-489b-a719-7b293a513cdc",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/51d7dc49-7116-489b-a719-7b293a513cdc"
+    },
+    {
+      "object": "related_card",
+      "id": "b7717617-706a-4338-a207-dd8c08feb1c3",
+      "component": "combo_piece",
+      "name": "Nalfeshnee",
+      "type_line": "Creature \u2014 Beast Demon",
+      "uri": "https://api.scryfall.com/cards/b7717617-706a-4338-a207-dd8c08feb1c3"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set": "clb",
+  "set_name": "Commander Legends: Battle for Baldur's Gate",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aclb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/clb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b7717617-706a-4338-a207-dd8c08feb1c3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A97a85a3e-258e-49b7-8ebe-7efee808da7a&unique=prints",
+  "collector_number": "678",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Sam White",
+  "artist_ids": [
+    "66756146-32f8-4513-9aae-75a8e5117585"
+  ],
+  "illustration_id": "73112d47-4457-4c4a-9612-2b9b6ff26123",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2485,
+  "prices": {
+    "usd": "9.95",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "8.87",
+    "eur_foil": null,
+    "tix": "2.23"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=567243&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNalfeshnee",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNalfeshnee",
+    "edhrec": "https://edhrec.com/route/?cc=Nalfeshnee"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F273663%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=661379&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/101452?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

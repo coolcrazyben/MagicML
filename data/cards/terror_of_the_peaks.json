@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "904ff94a-4db4-44a6-8593-89c32905b3fc",
+  "oracle_id": "f8e17f4f-080d-4bba-bd05-ca27e94ccecc",
+  "multiverse_ids": [
+    655090
+  ],
+  "mtgo_id": 124209,
+  "arena_id": 90495,
+  "tcgplayer_id": 544402,
+  "cardmarket_id": 763941,
+  "name": "Terror of the Peaks",
+  "lang": "en",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/904ff94a-4db4-44a6-8593-89c32905b3fc",
+  "scryfall_uri": "https://scryfall.com/card/otj/149/terror-of-the-peaks?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/0/904ff94a-4db4-44a6-8593-89c32905b3fc.jpg?1712355862",
+    "normal": "https://cards.scryfall.io/normal/front/9/0/904ff94a-4db4-44a6-8593-89c32905b3fc.jpg?1712355862",
+    "large": "https://cards.scryfall.io/large/front/9/0/904ff94a-4db4-44a6-8593-89c32905b3fc.jpg?1712355862",
+    "png": "https://cards.scryfall.io/png/front/9/0/904ff94a-4db4-44a6-8593-89c32905b3fc.png?1712355862",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/0/904ff94a-4db4-44a6-8593-89c32905b3fc.jpg?1712355862",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/0/904ff94a-4db4-44a6-8593-89c32905b3fc.jpg?1712355862"
+  },
+  "mana_cost": "{3}{R}{R}",
+  "cmc": 5.0,
+  "type_line": "Creature \u2014 Dragon",
+  "oracle_text": "Flying\nSpells your opponents cast that target this creature cost an additional 3 life to cast.\nWhenever another creature you control enters, this creature deals damage equal to that creature's power to any target.",
+  "power": "5",
+  "toughness": "4",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "55a85ebe-644e-4bef-8be8-5290408be3d1",
+  "set": "otj",
+  "set_name": "Outlaws of Thunder Junction",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/55a85ebe-644e-4bef-8be8-5290408be3d1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotj&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otj?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/904ff94a-4db4-44a6-8593-89c32905b3fc/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af8e17f4f-080d-4bba-bd05-ca27e94ccecc&unique=prints",
+  "collector_number": "149",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Joshua Raphael",
+  "artist_ids": [
+    "553b2a73-780f-414b-b2d7-3b7888821082"
+  ],
+  "illustration_id": "dcc8fa99-f457-474c-af23-d254c70fa8d1",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 510,
+  "preview": {
+    "source": "Press Start",
+    "source_uri": "https://press-start.com.au/news/2024/03/28/here-are-two-exclusive-magic-the-gathering-outlaws-of-thunder-junction-card-previews/",
+    "previewed_at": "2024-03-27"
+  },
+  "prices": {
+    "usd": "28.67",
+    "usd_foil": "30.08",
+    "usd_etched": null,
+    "eur": "26.19",
+    "eur_foil": "30.67",
+    "tix": "0.14"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=655090&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTerror%2Bof%2Bthe%2BPeaks",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTerror%2Bof%2Bthe%2BPeaks",
+    "edhrec": "https://edhrec.com/route/?cc=Terror+of+the+Peaks"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544402%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=763941&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/124209?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

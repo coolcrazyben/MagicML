@@ -1,0 +1,164 @@
+{
+  "object": "card",
+  "id": "21e34888-f57c-4f5d-bb5c-b82be980d145",
+  "oracle_id": "b012cec9-2aff-4dfb-8db1-61e830c33926",
+  "multiverse_ids": [
+    563086
+  ],
+  "tcgplayer_id": 273026,
+  "cardmarket_id": 660740,
+  "name": "Two-Handed Axe // Sweeping Cleave",
+  "lang": "en",
+  "released_at": "2022-06-10",
+  "uri": "https://api.scryfall.com/cards/21e34888-f57c-4f5d-bb5c-b82be980d145",
+  "scryfall_uri": "https://scryfall.com/card/clb/203/two-handed-axe-sweeping-cleave?utm_source=api",
+  "layout": "adventure",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/1/21e34888-f57c-4f5d-bb5c-b82be980d145.jpg?1674136811",
+    "normal": "https://cards.scryfall.io/normal/front/2/1/21e34888-f57c-4f5d-bb5c-b82be980d145.jpg?1674136811",
+    "large": "https://cards.scryfall.io/large/front/2/1/21e34888-f57c-4f5d-bb5c-b82be980d145.jpg?1674136811",
+    "png": "https://cards.scryfall.io/png/front/2/1/21e34888-f57c-4f5d-bb5c-b82be980d145.png?1674136811",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/1/21e34888-f57c-4f5d-bb5c-b82be980d145.jpg?1674136811",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/1/21e34888-f57c-4f5d-bb5c-b82be980d145.jpg?1674136811"
+  },
+  "mana_cost": "{2}{R} // {1}{R}",
+  "cmc": 3.0,
+  "type_line": "Artifact \u2014 Equipment // Instant \u2014 Adventure",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Equip"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Two-Handed Axe",
+      "mana_cost": "{2}{R}",
+      "type_line": "Artifact \u2014 Equipment",
+      "oracle_text": "Whenever equipped creature attacks, double its power until end of turn.\nEquip {1}{R}",
+      "artist": "Milivoj \u0106eran",
+      "artist_id": "1eced451-4da5-42bc-b49d-70c41246581f",
+      "illustration_id": "c9d032d1-47f1-4580-93dd-dc2131ed00b1"
+    },
+    {
+      "object": "card_face",
+      "name": "Sweeping Cleave",
+      "mana_cost": "{1}{R}",
+      "type_line": "Instant \u2014 Adventure",
+      "oracle_text": "Target creature you control gains double strike until end of turn. (Then exile this card. You may cast the artifact later from exile.)",
+      "artist": "Milivoj \u0106eran",
+      "artist_id": "1eced451-4da5-42bc-b49d-70c41246581f"
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "fcf4c7fb-7859-4c11-8552-6817f5119d2e",
+      "component": "combo_piece",
+      "name": "On an Adventure",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/fcf4c7fb-7859-4c11-8552-6817f5119d2e"
+    },
+    {
+      "object": "related_card",
+      "id": "21e34888-f57c-4f5d-bb5c-b82be980d145",
+      "component": "combo_piece",
+      "name": "Two-Handed Axe // Sweeping Cleave",
+      "type_line": "Artifact \u2014 Equipment // Instant \u2014 Adventure",
+      "uri": "https://api.scryfall.com/cards/21e34888-f57c-4f5d-bb5c-b82be980d145"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set": "clb",
+  "set_name": "Commander Legends: Battle for Baldur's Gate",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aclb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/clb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/21e34888-f57c-4f5d-bb5c-b82be980d145/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab012cec9-2aff-4dfb-8db1-61e830c33926&unique=prints",
+  "collector_number": "203",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Milivoj \u0106eran",
+  "artist_ids": [
+    "1eced451-4da5-42bc-b49d-70c41246581f"
+  ],
+  "illustration_id": "c9d032d1-47f1-4580-93dd-dc2131ed00b1",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2175,
+  "preview": {
+    "source": "MagicBlogTK",
+    "source_uri": "https://www.youtube.com/watch?v=-7SnJwQY2dQ",
+    "previewed_at": "2022-05-20"
+  },
+  "prices": {
+    "usd": "1.68",
+    "usd_foil": "8.55",
+    "usd_etched": null,
+    "eur": "1.40",
+    "eur_foil": "1.60",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=563086&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTwo-Handed%2BAxe%2B%252F%252F%2BSweeping%2BCleave",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTwo-Handed%2BAxe%2B%252F%252F%2BSweeping%2BCleave",
+    "edhrec": "https://edhrec.com/route/?cc=Two-Handed+Axe"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F273026%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=660740&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Two-Handed+Axe&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

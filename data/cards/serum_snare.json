@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "d326bff1-5370-4817-8370-6da87a061058",
+  "oracle_id": "fbc7350c-d392-44bf-92f7-8dd4743a73b4",
+  "multiverse_ids": [
+    602598
+  ],
+  "mtgo_id": 106351,
+  "arena_id": 83768,
+  "tcgplayer_id": 478965,
+  "cardmarket_id": 694312,
+  "name": "Serum Snare",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/d326bff1-5370-4817-8370-6da87a061058",
+  "scryfall_uri": "https://scryfall.com/card/one/68/serum-snare?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/3/d326bff1-5370-4817-8370-6da87a061058.jpg?1675956988",
+    "normal": "https://cards.scryfall.io/normal/front/d/3/d326bff1-5370-4817-8370-6da87a061058.jpg?1675956988",
+    "large": "https://cards.scryfall.io/large/front/d/3/d326bff1-5370-4817-8370-6da87a061058.jpg?1675956988",
+    "png": "https://cards.scryfall.io/png/front/d/3/d326bff1-5370-4817-8370-6da87a061058.png?1675956988",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/3/d326bff1-5370-4817-8370-6da87a061058.jpg?1675956988",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/3/d326bff1-5370-4817-8370-6da87a061058.jpg?1675956988"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2.0,
+  "type_line": "Instant",
+  "oracle_text": "Return target nonland permanent to its owner's hand. If that permanent had mana value 3 or less, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Proliferate"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d326bff1-5370-4817-8370-6da87a061058/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afbc7350c-d392-44bf-92f7-8dd4743a73b4&unique=prints",
+  "collector_number": "68",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"I bring a message from the Autonomous Furn\u2014argh!\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lauren K. Cannon",
+  "artist_ids": [
+    "6424e3e4-03bc-4187-a3dd-7d85267bad46"
+  ],
+  "illustration_id": "cceacfc2-28ae-4b71-ae77-fda86bdeb6ba",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 4234,
+  "penny_rank": 4955,
+  "prices": {
+    "usd": "0.33",
+    "usd_foil": "0.31",
+    "usd_etched": null,
+    "eur": "0.17",
+    "eur_foil": "0.29",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602598&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSerum%2BSnare",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSerum%2BSnare",
+    "edhrec": "https://edhrec.com/route/?cc=Serum+Snare"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F478965%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=694312&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106351?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

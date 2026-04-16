@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "42ce2d7f-5924-47c0-b5ed-dacf9f9617a0",
+  "oracle_id": "55f3c721-e13a-406e-bc8e-d6cdc91ac477",
+  "multiverse_ids": [
+    679879
+  ],
+  "mtgo_id": 133300,
+  "arena_id": 93850,
+  "tcgplayer_id": 591298,
+  "cardmarket_id": 797025,
+  "name": "Authority of the Consuls",
+  "lang": "en",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/42ce2d7f-5924-47c0-b5ed-dacf9f9617a0",
+  "scryfall_uri": "https://scryfall.com/card/fdn/137/authority-of-the-consuls?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/2/42ce2d7f-5924-47c0-b5ed-dacf9f9617a0.jpg?1730489114",
+    "normal": "https://cards.scryfall.io/normal/front/4/2/42ce2d7f-5924-47c0-b5ed-dacf9f9617a0.jpg?1730489114",
+    "large": "https://cards.scryfall.io/large/front/4/2/42ce2d7f-5924-47c0-b5ed-dacf9f9617a0.jpg?1730489114",
+    "png": "https://cards.scryfall.io/png/front/4/2/42ce2d7f-5924-47c0-b5ed-dacf9f9617a0.png?1730489114",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/2/42ce2d7f-5924-47c0-b5ed-dacf9f9617a0.jpg?1730489114",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/2/42ce2d7f-5924-47c0-b5ed-dacf9f9617a0.jpg?1730489114"
+  },
+  "mana_cost": "{W}",
+  "cmc": 1.0,
+  "type_line": "Enchantment",
+  "oracle_text": "Creatures your opponents control enter tapped.\nWhenever a creature an opponent controls enters, you gain 1 life.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+  "set": "fdn",
+  "set_name": "Foundations",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afdn&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/fdn?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/42ce2d7f-5924-47c0-b5ed-dacf9f9617a0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A55f3c721-e13a-406e-bc8e-d6cdc91ac477&unique=prints",
+  "collector_number": "137",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Citizens are free to do as they wish, within the confines of the Consulate's laws.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lake Hurwitz",
+  "artist_ids": [
+    "3677c64b-55e6-4a0d-a952-bdbb05531220"
+  ],
+  "illustration_id": "5b88e603-7446-4163-99a3-b992c6a96363",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "enchantment"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 387,
+  "penny_rank": 2694,
+  "prices": {
+    "usd": "3.81",
+    "usd_foil": "5.41",
+    "usd_etched": null,
+    "eur": "4.52",
+    "eur_foil": "5.99",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=679879&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAuthority%2Bof%2Bthe%2BConsuls",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAuthority%2Bof%2Bthe%2BConsuls",
+    "edhrec": "https://edhrec.com/route/?cc=Authority+of+the+Consuls"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F591298%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=797025&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/133300?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

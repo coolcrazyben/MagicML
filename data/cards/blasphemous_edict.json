@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "11040ecd-3153-4029-b42b-1441bc51ec34",
+  "oracle_id": "6cf50e21-0f60-4e9a-b910-ebe1bad2a29e",
+  "multiverse_ids": [
+    679134
+  ],
+  "mtgo_id": 133682,
+  "arena_id": 93770,
+  "tcgplayer_id": 591770,
+  "cardmarket_id": 797055,
+  "name": "Blasphemous Edict",
+  "lang": "en",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/11040ecd-3153-4029-b42b-1441bc51ec34",
+  "scryfall_uri": "https://scryfall.com/card/fdn/57/blasphemous-edict?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/1/11040ecd-3153-4029-b42b-1441bc51ec34.jpg?1730488798",
+    "normal": "https://cards.scryfall.io/normal/front/1/1/11040ecd-3153-4029-b42b-1441bc51ec34.jpg?1730488798",
+    "large": "https://cards.scryfall.io/large/front/1/1/11040ecd-3153-4029-b42b-1441bc51ec34.jpg?1730488798",
+    "png": "https://cards.scryfall.io/png/front/1/1/11040ecd-3153-4029-b42b-1441bc51ec34.png?1730488798",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/1/11040ecd-3153-4029-b42b-1441bc51ec34.jpg?1730488798",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/1/11040ecd-3153-4029-b42b-1441bc51ec34.jpg?1730488798"
+  },
+  "mana_cost": "{3}{B}{B}",
+  "cmc": 5.0,
+  "type_line": "Sorcery",
+  "oracle_text": "You may pay {B} rather than pay this spell's mana cost if there are thirteen or more creatures on the battlefield.\nEach player sacrifices thirteen creatures of their choice.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+  "set": "fdn",
+  "set_name": "Foundations",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afdn&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/fdn?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/11040ecd-3153-4029-b42b-1441bc51ec34/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6cf50e21-0f60-4e9a-b910-ebe1bad2a29e&unique=prints",
+  "collector_number": "57",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"A demonic pact is all fun and games until the bill comes due.\"\n\u2014Liliana Vess",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Andrew Mar",
+  "artist_ids": [
+    "adad79bf-cd52-456a-b170-740ed8bff0fc"
+  ],
+  "illustration_id": "f0443b74-a85a-4ef6-9098-426c8e15cf9c",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 551,
+  "penny_rank": 9621,
+  "preview": {
+    "source": "Variety",
+    "source_uri": "https://variety.com/2024/gaming/news/magic-the-gathering-foundations-mtg-spoilers-zimone-paradox-sculptor-blasphemous-edict-1236195390/",
+    "previewed_at": "2024-10-30"
+  },
+  "prices": {
+    "usd": "3.33",
+    "usd_foil": "6.40",
+    "usd_etched": null,
+    "eur": "5.80",
+    "eur_foil": "6.47",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=679134&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBlasphemous%2BEdict",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBlasphemous%2BEdict",
+    "edhrec": "https://edhrec.com/route/?cc=Blasphemous+Edict"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F591770%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=797055&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/133682?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

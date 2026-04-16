@@ -1,0 +1,151 @@
+{
+  "object": "card",
+  "id": "928036c9-11b8-493e-b9f2-8fbd3487cd19",
+  "oracle_id": "3a310554-3f69-4158-bb94-9d6965c7125a",
+  "multiverse_ids": [
+    563168
+  ],
+  "mtgo_id": 100608,
+  "tcgplayer_id": 267049,
+  "cardmarket_id": 650835,
+  "name": "Minsc & Boo, Timeless Heroes",
+  "lang": "en",
+  "released_at": "2022-06-10",
+  "uri": "https://api.scryfall.com/cards/928036c9-11b8-493e-b9f2-8fbd3487cd19",
+  "scryfall_uri": "https://scryfall.com/card/clb/285/minsc-&-boo-timeless-heroes?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/2/928036c9-11b8-493e-b9f2-8fbd3487cd19.jpg?1763472862",
+    "normal": "https://cards.scryfall.io/normal/front/9/2/928036c9-11b8-493e-b9f2-8fbd3487cd19.jpg?1763472862",
+    "large": "https://cards.scryfall.io/large/front/9/2/928036c9-11b8-493e-b9f2-8fbd3487cd19.jpg?1763472862",
+    "png": "https://cards.scryfall.io/png/front/9/2/928036c9-11b8-493e-b9f2-8fbd3487cd19.png?1763472862",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/2/928036c9-11b8-493e-b9f2-8fbd3487cd19.jpg?1763472862",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/2/928036c9-11b8-493e-b9f2-8fbd3487cd19.jpg?1763472862"
+  },
+  "mana_cost": "{2}{R}{G}",
+  "cmc": 4.0,
+  "type_line": "Legendary Planeswalker \u2014 Minsc",
+  "oracle_text": "When Minsc & Boo enters and at the beginning of your upkeep, you may create Boo, a legendary 1/1 red Hamster creature token with trample and haste.\n+1: Put three +1/+1 counters on up to one target creature with trample or haste.\n\u22122: Sacrifice a creature. When you do, Minsc & Boo deals X damage to any target, where X is that creature's power. If the sacrificed creature was a Hamster, draw X cards.\nMinsc & Boo, Timeless Heroes can be your commander.",
+  "loyalty": "3",
+  "colors": [
+    "G",
+    "R"
+  ],
+  "color_identity": [
+    "G",
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "e308b016-5611-450c-a2ea-906647d1b7e3",
+      "component": "combo_piece",
+      "name": "Minsc & Boo, Timeless Heroes",
+      "type_line": "Legendary Planeswalker \u2014 Minsc",
+      "uri": "https://api.scryfall.com/cards/e308b016-5611-450c-a2ea-906647d1b7e3"
+    },
+    {
+      "object": "related_card",
+      "id": "0d0475e9-68ae-4553-a5ef-650091e04967",
+      "component": "token",
+      "name": "Boo",
+      "type_line": "Token Legendary Creature \u2014 Hamster",
+      "uri": "https://api.scryfall.com/cards/0d0475e9-68ae-4553-a5ef-650091e04967"
+    },
+    {
+      "object": "related_card",
+      "id": "b2e28dd8-77f0-40b1-ad03-0d5671d41f0e",
+      "component": "combo_piece",
+      "name": "A-Minsc & Boo, Timeless Heroes",
+      "type_line": "Legendary Planeswalker \u2014 Minsc",
+      "uri": "https://api.scryfall.com/cards/b2e28dd8-77f0-40b1-ad03-0d5671d41f0e"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "restricted",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set": "clb",
+  "set_name": "Commander Legends: Battle for Baldur's Gate",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aclb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/clb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/928036c9-11b8-493e-b9f2-8fbd3487cd19/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3a310554-3f69-4158-bb94-9d6965c7125a&unique=prints",
+  "collector_number": "285",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Andreas Zafiratos",
+  "artist_ids": [
+    "e2f13a9a-57c5-40de-81d4-3b0723899cdf"
+  ],
+  "illustration_id": "cc8b8555-dd38-4dbe-b32d-4ed7f8f27cee",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3597,
+  "prices": {
+    "usd": "3.57",
+    "usd_foil": "4.73",
+    "usd_etched": null,
+    "eur": "4.43",
+    "eur_foil": "6.24",
+    "tix": "4.20"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=563168&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMinsc%2B%2526%2BBoo%252C%2BTimeless%2BHeroes",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMinsc%2B%2526%2BBoo%252C%2BTimeless%2BHeroes",
+    "edhrec": "https://edhrec.com/route/?cc=Minsc+%26+Boo%2C+Timeless+Heroes"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F267049%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=650835&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/100608?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

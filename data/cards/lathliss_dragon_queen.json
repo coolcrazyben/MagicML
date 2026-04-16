@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "0cb48015-627b-49cd-8dc3-d446e82b8172",
+  "oracle_id": "15fef45d-f1a9-49b2-abaa-fe77bb9d1afd",
+  "multiverse_ids": [
+    696375
+  ],
+  "mtgo_id": 138375,
+  "tcgplayer_id": 624935,
+  "cardmarket_id": 819299,
+  "name": "Lathliss, Dragon Queen",
+  "lang": "en",
+  "released_at": "2025-04-11",
+  "uri": "https://api.scryfall.com/cards/0cb48015-627b-49cd-8dc3-d446e82b8172",
+  "scryfall_uri": "https://scryfall.com/card/tdc/219/lathliss-dragon-queen?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/c/0cb48015-627b-49cd-8dc3-d446e82b8172.jpg?1743206700",
+    "normal": "https://cards.scryfall.io/normal/front/0/c/0cb48015-627b-49cd-8dc3-d446e82b8172.jpg?1743206700",
+    "large": "https://cards.scryfall.io/large/front/0/c/0cb48015-627b-49cd-8dc3-d446e82b8172.jpg?1743206700",
+    "png": "https://cards.scryfall.io/png/front/0/c/0cb48015-627b-49cd-8dc3-d446e82b8172.png?1743206700",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/c/0cb48015-627b-49cd-8dc3-d446e82b8172.jpg?1743206700",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/c/0cb48015-627b-49cd-8dc3-d446e82b8172.jpg?1743206700"
+  },
+  "mana_cost": "{4}{R}{R}",
+  "cmc": 6.0,
+  "type_line": "Legendary Creature \u2014 Dragon",
+  "oracle_text": "Flying\nWhenever another nontoken Dragon you control enters, create a 5/5 red Dragon creature token with flying.\n{1}{R}: Dragons you control get +1/+0 until end of turn.",
+  "power": "6",
+  "toughness": "6",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "0cb48015-627b-49cd-8dc3-d446e82b8172",
+      "component": "combo_piece",
+      "name": "Lathliss, Dragon Queen",
+      "type_line": "Legendary Creature \u2014 Dragon",
+      "uri": "https://api.scryfall.com/cards/0cb48015-627b-49cd-8dc3-d446e82b8172"
+    },
+    {
+      "object": "related_card",
+      "id": "a9f4584c-fd86-4370-a85b-a989d20f3925",
+      "component": "token",
+      "name": "Dragon",
+      "type_line": "Token Creature \u2014 Dragon",
+      "uri": "https://api.scryfall.com/cards/a9f4584c-fd86-4370-a85b-a989d20f3925"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "bca9779c-0a0b-4ac1-8794-f3fc25549cf4",
+  "set": "tdc",
+  "set_name": "Tarkir: Dragonstorm Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/bca9779c-0a0b-4ac1-8794-f3fc25549cf4",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atdc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tdc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0cb48015-627b-49cd-8dc3-d446e82b8172/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A15fef45d-f1a9-49b2-abaa-fe77bb9d1afd&unique=prints",
+  "collector_number": "219",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Alex Konstad",
+  "artist_ids": [
+    "58b2a57c-50ca-4047-b4e7-efb28cb22851"
+  ],
+  "illustration_id": "81d46a79-6cc8-4ba5-8a11-cca6dc0179fd",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1038,
+  "penny_rank": 4019,
+  "prices": {
+    "usd": "0.41",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.74",
+    "eur_foil": null,
+    "tix": "0.07"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=696375&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLathliss%252C%2BDragon%2BQueen",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLathliss%252C%2BDragon%2BQueen",
+    "edhrec": "https://edhrec.com/route/?cc=Lathliss%2C+Dragon+Queen"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F624935%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=819299&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/138375?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

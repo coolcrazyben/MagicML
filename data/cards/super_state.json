@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "a6a39919-a521-4e96-a47a-e09ac4d783bf",
+  "oracle_id": "ab2dfe99-bd77-44d7-92be-81643ea901f0",
+  "multiverse_ids": [],
+  "tcgplayer_id": 643700,
+  "cardmarket_id": 832238,
+  "name": "Super State",
+  "lang": "en",
+  "released_at": "2025-07-14",
+  "uri": "https://api.scryfall.com/cards/a6a39919-a521-4e96-a47a-e09ac4d783bf",
+  "scryfall_uri": "https://scryfall.com/card/sld/2081/super-state?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/6/a6a39919-a521-4e96-a47a-e09ac4d783bf.jpg?1752535681",
+    "normal": "https://cards.scryfall.io/normal/front/a/6/a6a39919-a521-4e96-a47a-e09ac4d783bf.jpg?1752535681",
+    "large": "https://cards.scryfall.io/large/front/a/6/a6a39919-a521-4e96-a47a-e09ac4d783bf.jpg?1752535681",
+    "png": "https://cards.scryfall.io/png/front/a/6/a6a39919-a521-4e96-a47a-e09ac4d783bf.png?1752535681",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/6/a6a39919-a521-4e96-a47a-e09ac4d783bf.jpg?1752535681",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/6/a6a39919-a521-4e96-a47a-e09ac4d783bf.jpg?1752535681"
+  },
+  "mana_cost": "{7}",
+  "cmc": 7.0,
+  "type_line": "Legendary Enchantment \u2014 Aura",
+  "oracle_text": "Enchant creature you control\nEnchanted creature has base power and toughness 9/9 and has flying, first strike, trample, and haste.\nWhenever enchanted creature deals combat damage to an opponent, it deals that much damage to each other opponent.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+    "First strike",
+    "Trample",
+    "Enchant"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "set_type": "box",
+  "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a6a39919-a521-4e96-a47a-e09ac4d783bf/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aab2dfe99-bd77-44d7-92be-81643ea901f0&unique=prints",
+  "collector_number": "2081",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Tracy Yardley",
+  "artist_ids": [
+    "edf9f414-303f-4ad6-a6d8-06181bd00b9a"
+  ],
+  "illustration_id": "354d3b4e-b228-459e-93bf-a801d9858f7b",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "inverted",
+    "legendary"
+  ],
+  "security_stamp": "triangle",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "universesbeyond"
+  ],
+  "edhrec_rank": 3117,
+  "preview": {
+    "source": "Variety",
+    "source_uri": "https://variety.com/2025/gaming/news/magic-the-gathering-sonic-the-hedgehog-secret-lair-cards-1236441713/",
+    "previewed_at": "2025-06-27"
+  },
+  "prices": {
+    "usd": "17.00",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "9.51",
+    "eur_foil": "10.07",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSuper%2BState",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSuper%2BState",
+    "edhrec": "https://edhrec.com/route/?cc=Super+State"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F643700%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=832238&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Super+State&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

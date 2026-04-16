@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "4ef0b4dc-5a15-4de6-9c27-0e21148c0797",
+  "oracle_id": "173e86f4-17f3-44f5-8073-78e7e2e12c4a",
+  "multiverse_ids": [
+    658600
+  ],
+  "mtgo_id": 124771,
+  "tcgplayer_id": 545104,
+  "cardmarket_id": 764762,
+  "name": "Bitter Reunion",
+  "lang": "en",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/4ef0b4dc-5a15-4de6-9c27-0e21148c0797",
+  "scryfall_uri": "https://scryfall.com/card/otc/156/bitter-reunion?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/e/4ef0b4dc-5a15-4de6-9c27-0e21148c0797.jpg?1712354382",
+    "normal": "https://cards.scryfall.io/normal/front/4/e/4ef0b4dc-5a15-4de6-9c27-0e21148c0797.jpg?1712354382",
+    "large": "https://cards.scryfall.io/large/front/4/e/4ef0b4dc-5a15-4de6-9c27-0e21148c0797.jpg?1712354382",
+    "png": "https://cards.scryfall.io/png/front/4/e/4ef0b4dc-5a15-4de6-9c27-0e21148c0797.png?1712354382",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/e/4ef0b4dc-5a15-4de6-9c27-0e21148c0797.jpg?1712354382",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/e/4ef0b4dc-5a15-4de6-9c27-0e21148c0797.jpg?1712354382"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2.0,
+  "type_line": "Enchantment",
+  "oracle_text": "When this enchantment enters, you may discard a card. If you do, draw two cards.\n{1}, Sacrifice this enchantment: Creatures you control gain haste until end of turn.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set": "otc",
+  "set_name": "Outlaws of Thunder Junction Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4ef0b4dc-5a15-4de6-9c27-0e21148c0797/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A173e86f4-17f3-44f5-8073-78e7e2e12c4a&unique=prints",
+  "collector_number": "156",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "The peace summit proved the grudge between Urza and Mishra could end only in blood.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jake Murray",
+  "artist_ids": [
+    "be53e4e1-ab31-494a-b154-e00ee97eb463"
+  ],
+  "illustration_id": "cb6101e4-c196-4874-9c23-a1dd4f7dd3cb",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2630,
+  "penny_rank": 1108,
+  "prices": {
+    "usd": "0.44",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.78",
+    "eur_foil": null,
+    "tix": "0.35"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=658600&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBitter%2BReunion",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBitter%2BReunion",
+    "edhrec": "https://edhrec.com/route/?cc=Bitter+Reunion"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F545104%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=764762&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/124771?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

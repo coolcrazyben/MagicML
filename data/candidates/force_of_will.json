@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Deadly Rollick",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{B}",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Return of the Wildspeaker",
+    "type_line": "Instant",
+    "mana_value": 5.0,
+    "mana_cost": "{4}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Akroma's Will",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{W}",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Fell the Profane // Fell Mire",
+    "type_line": "Instant // Land",
+    "mana_value": 4.0,
+    "mana_cost": "",
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Aetherize",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Mindbreak Trap",
+    "type_line": "Instant \u2014 Trap",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Second Harvest",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Fact or Fiction",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Clever Concealment",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{W}{W}",
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Flare of Fortitude",
+    "type_line": "Instant",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{W}{W}",
+    "color_identity": [
+      "W"
+    ]
+  }
+]

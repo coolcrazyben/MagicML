@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Chandra, Torch of Defiance",
+    "type_line": "Legendary Planeswalker \u2014 Chandra",
+    "mana_value": 4.0,
+    "mana_cost": "{2}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Tezzeret, Cruel Captain",
+    "type_line": "Legendary Planeswalker \u2014 Tezzeret",
+    "mana_value": 3.0,
+    "mana_cost": "{3}",
+    "color_identity": []
+  },
+  {
+    "name": "Daretti, Scrap Savant",
+    "type_line": "Legendary Planeswalker \u2014 Daretti",
+    "mana_value": 4.0,
+    "mana_cost": "{3}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Karn, the Great Creator",
+    "type_line": "Legendary Planeswalker \u2014 Karn",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "The Aetherspark",
+    "type_line": "Legendary Artifact Planeswalker \u2014 Equipment",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Jeska, Thrice Reborn",
+    "type_line": "Legendary Planeswalker \u2014 Jeska",
+    "mana_value": 3.0,
+    "mana_cost": "{2}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Karn, Living Legacy",
+    "type_line": "Legendary Planeswalker \u2014 Karn",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Karn, Scion of Urza",
+    "type_line": "Legendary Planeswalker \u2014 Karn",
+    "mana_value": 4.0,
+    "mana_cost": "{4}",
+    "color_identity": []
+  },
+  {
+    "name": "Sarkhan the Masterless",
+    "type_line": "Legendary Planeswalker \u2014 Sarkhan",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Chandra, Acolyte of Flame",
+    "type_line": "Legendary Planeswalker \u2014 Chandra",
+    "mana_value": 3.0,
+    "mana_cost": "{1}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  }
+]

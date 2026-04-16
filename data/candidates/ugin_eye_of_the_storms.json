@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Ugin, the Ineffable",
+    "type_line": "Legendary Planeswalker \u2014 Ugin",
+    "mana_value": 6.0,
+    "mana_cost": "{6}",
+    "color_identity": []
+  },
+  {
+    "name": "Ugin, the Spirit Dragon",
+    "type_line": "Legendary Planeswalker \u2014 Ugin",
+    "mana_value": 8.0,
+    "mana_cost": "{8}",
+    "color_identity": []
+  },
+  {
+    "name": "Karn Liberated",
+    "type_line": "Legendary Planeswalker \u2014 Karn",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  }
+]

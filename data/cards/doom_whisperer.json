@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "e8aabcaf-0968-402f-bc9f-289756e4d4b7",
+  "oracle_id": "4a01db2e-cd43-4b1a-a480-169018f82501",
+  "multiverse_ids": [
+    650222
+  ],
+  "mtgo_id": 122396,
+  "tcgplayer_id": 535732,
+  "cardmarket_id": 753437,
+  "name": "Doom Whisperer",
+  "lang": "en",
+  "released_at": "2024-02-09",
+  "uri": "https://api.scryfall.com/cards/e8aabcaf-0968-402f-bc9f-289756e4d4b7",
+  "scryfall_uri": "https://scryfall.com/card/mkc/128/doom-whisperer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/8/e8aabcaf-0968-402f-bc9f-289756e4d4b7.jpg?1706240763",
+    "normal": "https://cards.scryfall.io/normal/front/e/8/e8aabcaf-0968-402f-bc9f-289756e4d4b7.jpg?1706240763",
+    "large": "https://cards.scryfall.io/large/front/e/8/e8aabcaf-0968-402f-bc9f-289756e4d4b7.jpg?1706240763",
+    "png": "https://cards.scryfall.io/png/front/e/8/e8aabcaf-0968-402f-bc9f-289756e4d4b7.png?1706240763",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/8/e8aabcaf-0968-402f-bc9f-289756e4d4b7.jpg?1706240763",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/8/e8aabcaf-0968-402f-bc9f-289756e4d4b7.jpg?1706240763"
+  },
+  "mana_cost": "{3}{B}{B}",
+  "cmc": 5.0,
+  "type_line": "Creature \u2014 Nightmare Demon",
+  "oracle_text": "Flying, trample\nPay 2 life: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",
+  "power": "6",
+  "toughness": "6",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Flying",
+    "Surveil",
+    "Trample"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "286c37ca-ba65-4d3e-8c5d-d1878d88fd95",
+  "set": "mkc",
+  "set_name": "Murders at Karlov Manor Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/286c37ca-ba65-4d3e-8c5d-d1878d88fd95",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mkc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e8aabcaf-0968-402f-bc9f-289756e4d4b7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4a01db2e-cd43-4b1a-a480-169018f82501&unique=prints",
+  "collector_number": "128",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "The sound of every twisted secret tempts you to hear another.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Vincent Proce",
+  "artist_ids": [
+    "d82b1138-76d3-49f7-9d8c-bc2e2d3e0b0a"
+  ],
+  "illustration_id": "279a3419-5e4e-47df-8ae5-5c4daf0d9015",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1777,
+  "penny_rank": 2939,
+  "prices": {
+    "usd": "5.43",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "3.43",
+    "eur_foil": null,
+    "tix": "0.48"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=650222&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDoom%2BWhisperer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDoom%2BWhisperer",
+    "edhrec": "https://edhrec.com/route/?cc=Doom+Whisperer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F535732%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=753437&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/122396?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

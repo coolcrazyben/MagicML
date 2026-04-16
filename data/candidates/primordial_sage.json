@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Etali, Primal Storm",
+    "type_line": "Legendary Creature \u2014 Elder Dinosaur",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Avenger of Zendikar",
+    "type_line": "Creature \u2014 Elemental",
+    "mana_value": 7.0,
+    "mana_cost": "{5}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Hullbreaker Horror",
+    "type_line": "Creature \u2014 Kraken Horror",
+    "mana_value": 7.0,
+    "mana_cost": "{5}{U}{U}",
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Seedborn Muse",
+    "type_line": "Creature \u2014 Spirit",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Rampaging Baloths",
+    "type_line": "Creature \u2014 Beast",
+    "mana_value": 6.0,
+    "mana_cost": "{4}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Goldspan Dragon",
+    "type_line": "Creature \u2014 Dragon",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Tatyova, Benthic Druid",
+    "type_line": "Legendary Creature \u2014 Merfolk Druid",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{G}{U}",
+    "color_identity": [
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Psychosis Crawler",
+    "type_line": "Artifact Creature \u2014 Phyrexian Horror",
+    "mana_value": 5.0,
+    "mana_cost": "{5}",
+    "color_identity": []
+  },
+  {
+    "name": "Ohran Frostfang",
+    "type_line": "Snow Creature \u2014 Snake",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Terror of the Peaks",
+    "type_line": "Creature \u2014 Dragon",
+    "mana_value": 5.0,
+    "mana_cost": "{3}{R}{R}",
+    "color_identity": [
+      "R"
+    ]
+  }
+]

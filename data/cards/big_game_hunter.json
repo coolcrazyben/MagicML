@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "2cec1014-375c-4877-95e3-093d24c02bc8",
+  "oracle_id": "ab55834f-c935-4773-89c6-bec9712284eb",
+  "multiverse_ids": [
+    509467
+  ],
+  "mtgo_id": 86567,
+  "tcgplayer_id": 233883,
+  "cardmarket_id": 543906,
+  "name": "Big Game Hunter",
+  "lang": "en",
+  "released_at": "2021-03-19",
+  "uri": "https://api.scryfall.com/cards/2cec1014-375c-4877-95e3-093d24c02bc8",
+  "scryfall_uri": "https://scryfall.com/card/tsr/102/big-game-hunter?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/c/2cec1014-375c-4877-95e3-093d24c02bc8.jpg?1619395072",
+    "normal": "https://cards.scryfall.io/normal/front/2/c/2cec1014-375c-4877-95e3-093d24c02bc8.jpg?1619395072",
+    "large": "https://cards.scryfall.io/large/front/2/c/2cec1014-375c-4877-95e3-093d24c02bc8.jpg?1619395072",
+    "png": "https://cards.scryfall.io/png/front/2/c/2cec1014-375c-4877-95e3-093d24c02bc8.png?1619395072",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/c/2cec1014-375c-4877-95e3-093d24c02bc8.jpg?1619395072",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/c/2cec1014-375c-4877-95e3-093d24c02bc8.jpg?1619395072"
+  },
+  "mana_cost": "{1}{B}{B}",
+  "cmc": 3.0,
+  "type_line": "Creature \u2014 Human Rebel Assassin",
+  "oracle_text": "When this creature enters, destroy target creature with power 4 or greater. It can't be regenerated.\nMadness {B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Madness"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "11e90d1b-0502-43e6-b056-e24836523c13",
+  "set": "tsr",
+  "set_name": "Time Spiral Remastered",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/11e90d1b-0502-43e6-b056-e24836523c13",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atsr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tsr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2cec1014-375c-4877-95e3-093d24c02bc8/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aab55834f-c935-4773-89c6-bec9712284eb&unique=prints",
+  "collector_number": "102",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Carl Critchlow",
+  "artist_ids": [
+    "17948f16-611a-44b8-8d10-9895a0bdfff1"
+  ],
+  "illustration_id": "3e8552cb-ca0d-4329-9d5a-cf7148a88cb2",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3728,
+  "penny_rank": 5402,
+  "preview": {
+    "source": "Face to Face Games",
+    "source_uri": "https://magic.facetofacegames.com/exclusive-time-spiral-remastered-spoilers/",
+    "previewed_at": "2021-03-01"
+  },
+  "prices": {
+    "usd": "0.43",
+    "usd_foil": "5.99",
+    "usd_etched": null,
+    "eur": "0.26",
+    "eur_foil": "2.34",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=509467&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBig%2BGame%2BHunter",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBig%2BGame%2BHunter",
+    "edhrec": "https://edhrec.com/route/?cc=Big+Game+Hunter"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F233883%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=543906&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/86567?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

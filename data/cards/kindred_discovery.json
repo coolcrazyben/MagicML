@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "8d264ad1-10a3-41ba-9740-48f2c07a0ec3",
+  "oracle_id": "005ee549-1bf5-478f-bc3f-3e791bd7eecf",
+  "multiverse_ids": [
+    640455
+  ],
+  "mtgo_id": 118718,
+  "tcgplayer_id": 526081,
+  "cardmarket_id": 743512,
+  "name": "Kindred Discovery",
+  "lang": "en",
+  "released_at": "2023-11-17",
+  "uri": "https://api.scryfall.com/cards/8d264ad1-10a3-41ba-9740-48f2c07a0ec3",
+  "scryfall_uri": "https://scryfall.com/card/lcc/159/kindred-discovery?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/d/8d264ad1-10a3-41ba-9740-48f2c07a0ec3.jpg?1698988160",
+    "normal": "https://cards.scryfall.io/normal/front/8/d/8d264ad1-10a3-41ba-9740-48f2c07a0ec3.jpg?1698988160",
+    "large": "https://cards.scryfall.io/large/front/8/d/8d264ad1-10a3-41ba-9740-48f2c07a0ec3.jpg?1698988160",
+    "png": "https://cards.scryfall.io/png/front/8/d/8d264ad1-10a3-41ba-9740-48f2c07a0ec3.png?1698988160",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/d/8d264ad1-10a3-41ba-9740-48f2c07a0ec3.jpg?1698988160",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/d/8d264ad1-10a3-41ba-9740-48f2c07a0ec3.jpg?1698988160"
+  },
+  "mana_cost": "{3}{U}{U}",
+  "cmc": 5.0,
+  "type_line": "Enchantment",
+  "oracle_text": "As this enchantment enters, choose a creature type.\nWhenever a creature you control of the chosen type enters or attacks, draw a card.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d253edc3-5bc7-4cf1-9446-a8540dedffa5",
+  "set": "lcc",
+  "set_name": "The Lost Caverns of Ixalan Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d253edc3-5bc7-4cf1-9446-a8540dedffa5",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Alcc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/lcc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8d264ad1-10a3-41ba-9740-48f2c07a0ec3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A005ee549-1bf5-478f-bc3f-3e791bd7eecf&unique=prints",
+  "collector_number": "159",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Few things are truly \"lost\" at sea.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lake Hurwitz",
+  "artist_ids": [
+    "3677c64b-55e6-4a0d-a952-bdbb05531220"
+  ],
+  "illustration_id": "1644b5bf-1939-4259-902b-00abfb717ef7",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 338,
+  "prices": {
+    "usd": "13.68",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "11.35",
+    "eur_foil": null,
+    "tix": "1.95"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=640455&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKindred%2BDiscovery",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKindred%2BDiscovery",
+    "edhrec": "https://edhrec.com/route/?cc=Kindred+Discovery"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F526081%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=743512&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/118718?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

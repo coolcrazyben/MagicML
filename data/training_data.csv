@@ -1,0 +1,371 @@
+cmc,is_creature,is_instant,is_sorcery,is_artifact,is_enchantment,produces_mana,draws_cards,is_tutor,has_flash,color_count,cmc_delta,type_match,edhrec_rank,is_free_spell,removed_card,added_card,speed_improvement
+3.0,0,0,0,0,0,0,1,0,0,1,-1.0,1,857.0,0,"Jace, Wielder of Mysteries","Narset, Parter of Veils",0.0
+5.0,0,0,0,0,0,0,0,0,0,1,1.0,1,934.0,0,"Jace, Wielder of Mysteries","Elspeth, Storm Slayer",0.0
+3.0,0,0,0,0,0,0,1,0,0,2,-1.0,1,1098.0,0,"Jace, Wielder of Mysteries","Teferi, Time Raveler",0.0
+5.0,0,0,0,0,0,0,0,1,0,1,1.0,1,1526.0,0,"Jace, Wielder of Mysteries","Nissa, Who Shakes the World",0.0
+5.0,0,0,0,0,0,0,0,1,0,1,1.0,1,1588.0,0,"Jace, Wielder of Mysteries",Tezzeret the Seeker,0.04
+3.0,0,0,0,0,0,0,0,1,0,0,-1.0,1,1694.0,0,"Jace, Wielder of Mysteries","Tezzeret, Cruel Captain",0.04
+3.0,0,0,0,0,0,0,0,0,0,2,-1.0,1,1836.0,0,"Jace, Wielder of Mysteries","Grist, the Hunger Tide",0.0
+3.0,0,0,0,0,0,0,0,0,0,2,-1.0,1,1856.0,0,"Jace, Wielder of Mysteries","Oko, Thief of Crowns",0.0
+4.0,0,0,0,0,0,0,0,0,0,0,0.0,1,1885.0,0,"Jace, Wielder of Mysteries","Karn, the Great Creator",0.0
+5.0,0,0,0,0,0,0,1,0,0,1,1.0,1,1895.0,0,"Jace, Wielder of Mysteries","Garruk, Primal Hunter",0.0
+2.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,16.0,0,Breach,Counterspell,0.0
+3.0,0,1,0,0,0,0,0,0,0,1,0.0,1,24.0,0,Breach,Beast Within,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,32.0,0,Breach,Heroic Intervention,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,50.0,0,Breach,Cyclonic Rift,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,53.0,0,Breach,Negate,0.0
+3.0,0,1,0,0,0,0,0,0,0,1,0.0,1,55.0,0,Breach,Generous Gift,0.0
+2.0,0,1,0,0,0,0,1,0,0,1,-1.0,1,56.0,0,Breach,Arcane Denial,0.0
+3.0,0,1,0,0,0,0,0,0,0,1,0.0,1,78.0,1,Breach,Fierce Guardianship,0.0
+3.0,0,1,0,0,0,0,0,0,0,1,0.0,1,100.0,0,Breach,Teferi's Protection,0.0
+3.0,0,1,0,0,0,0,1,0,0,1,0.0,1,112.0,0,Breach,Frantic Search,0.0
+4.0,1,0,0,1,0,0,1,1,0,0,1.0,1,36.0,0,Spellseeker,Solemn Simulacrum,0.0
+3.0,1,0,0,0,0,0,0,0,0,1,0.0,1,99.0,0,Spellseeker,Eternal Witness,0.0
+2.0,1,0,0,0,0,0,0,1,0,1,-1.0,1,107.0,0,Spellseeker,Sakura-Tribe Elder,0.0
+4.0,1,0,0,1,0,0,0,0,0,0,1.0,1,128.0,0,Spellseeker,Roaming Throne,0.0
+2.0,1,0,0,0,0,0,0,0,0,1,-1.0,1,144.0,0,Spellseeker,Blood Artist,0.0
+3.0,1,0,0,0,0,0,0,0,0,1,0.0,1,177.0,0,Spellseeker,Tireless Provisioner,0.0
+4.0,1,0,0,0,0,0,1,0,0,1,1.0,1,198.0,0,Spellseeker,Beast Whisperer,0.0
+4.0,1,0,0,0,0,0,0,0,0,1,1.0,1,223.0,0,Spellseeker,Mirkwood Bats,0.0
+2.0,1,0,0,1,0,0,0,0,0,0,-1.0,1,224.0,0,Spellseeker,Ornithopter of Paradise,0.0
+3.0,1,0,0,0,0,0,0,0,0,1,0.0,1,225.0,0,Spellseeker,Scute Swarm,0.0
+1.0,1,0,0,0,0,0,0,0,0,1,0.0,1,33.0,0,Esper Sentinel,Birds of Paradise,0.0
+1.0,1,0,0,0,0,1,0,0,0,1,0.0,1,62.0,0,Esper Sentinel,Llanowar Elves,0.0
+2.0,1,0,0,0,0,0,0,1,0,1,1.0,1,107.0,0,Esper Sentinel,Sakura-Tribe Elder,0.0
+1.0,1,0,0,0,0,1,0,0,0,1,0.0,1,109.0,0,Esper Sentinel,Elvish Mystic,0.0
+2.0,1,0,0,0,0,0,0,0,0,1,1.0,1,144.0,0,Esper Sentinel,Blood Artist,0.0
+1.0,1,0,0,0,0,1,0,0,0,1,0.0,1,157.0,0,Esper Sentinel,Delighted Halfling,0.0
+1.0,1,0,0,0,0,1,0,0,0,1,0.0,1,212.0,0,Esper Sentinel,Fyndhorn Elves,0.0
+2.0,1,0,0,1,0,0,0,0,0,0,1.0,1,224.0,0,Esper Sentinel,Ornithopter of Paradise,0.0
+2.0,1,0,0,0,0,0,0,0,0,1,1.0,1,243.0,0,Esper Sentinel,Zulaport Cutthroat,0.0
+2.0,1,0,0,0,0,0,0,0,0,1,1.0,1,248.0,0,Esper Sentinel,Grand Abolisher,0.0
+4.0,1,0,0,1,0,0,1,1,0,0,1.0,1,36.0,0,Aven Mindcensor,Solemn Simulacrum,0.0
+3.0,1,0,0,0,0,0,0,0,0,1,0.0,1,99.0,0,Aven Mindcensor,Eternal Witness,0.0
+2.0,1,0,0,0,0,0,0,1,0,1,-1.0,1,107.0,0,Aven Mindcensor,Sakura-Tribe Elder,0.0
+4.0,1,0,0,1,0,0,0,0,0,0,1.0,1,128.0,0,Aven Mindcensor,Roaming Throne,0.0
+2.0,1,0,0,0,0,0,0,0,0,1,-1.0,1,144.0,0,Aven Mindcensor,Blood Artist,0.0
+3.0,1,0,0,0,0,0,0,0,0,1,0.0,1,177.0,0,Aven Mindcensor,Tireless Provisioner,0.0
+4.0,1,0,0,0,0,0,1,0,0,1,1.0,1,198.0,0,Aven Mindcensor,Beast Whisperer,0.0
+4.0,1,0,0,0,0,0,0,0,0,1,1.0,1,223.0,0,Aven Mindcensor,Mirkwood Bats,0.0
+2.0,1,0,0,1,0,0,0,0,0,0,-1.0,1,224.0,0,Aven Mindcensor,Ornithopter of Paradise,0.0
+3.0,1,0,0,0,0,0,0,0,0,1,0.0,1,225.0,0,Aven Mindcensor,Scute Swarm,0.0
+1.0,1,0,0,0,0,0,0,0,0,1,-1.0,1,33.0,0,Drannith Magistrate,Birds of Paradise,0.0
+1.0,1,0,0,0,0,1,0,0,0,1,-1.0,1,62.0,0,Drannith Magistrate,Llanowar Elves,0.0
+1.0,1,0,0,1,0,0,1,0,0,1,-1.0,1,75.0,0,Drannith Magistrate,Esper Sentinel,0.0
+3.0,1,0,0,0,0,0,0,0,0,1,1.0,1,99.0,0,Drannith Magistrate,Eternal Witness,0.0
+2.0,1,0,0,0,0,0,0,1,0,1,0.0,1,107.0,0,Drannith Magistrate,Sakura-Tribe Elder,0.0
+1.0,1,0,0,0,0,1,0,0,0,1,-1.0,1,109.0,0,Drannith Magistrate,Elvish Mystic,0.0
+2.0,1,0,0,0,0,0,0,0,0,1,0.0,1,144.0,0,Drannith Magistrate,Blood Artist,0.0
+1.0,1,0,0,0,0,1,0,0,0,1,-1.0,1,157.0,0,Drannith Magistrate,Delighted Halfling,0.0
+3.0,1,0,0,0,0,0,0,0,0,1,1.0,1,177.0,0,Drannith Magistrate,Tireless Provisioner,0.0
+1.0,1,0,0,0,0,1,0,0,0,1,-1.0,1,212.0,0,Drannith Magistrate,Fyndhorn Elves,0.0
+4.0,1,0,0,1,0,0,1,1,0,0,0.0,1,36.0,0,Notion Thief,Solemn Simulacrum,0.0
+3.0,1,0,0,0,0,0,0,0,0,1,-1.0,1,99.0,0,Notion Thief,Eternal Witness,0.0
+4.0,1,0,0,1,0,0,0,0,0,0,0.0,1,128.0,0,Notion Thief,Roaming Throne,0.0
+3.0,1,0,0,0,0,0,0,0,0,1,-1.0,1,177.0,0,Notion Thief,Tireless Provisioner,0.0
+4.0,1,0,0,0,0,0,1,0,0,1,0.0,1,198.0,0,Notion Thief,Beast Whisperer,0.0
+4.0,1,0,0,0,0,0,0,0,0,1,0.0,1,223.0,0,Notion Thief,Mirkwood Bats,0.0
+3.0,1,0,0,0,0,0,0,0,0,1,-1.0,1,225.0,0,Notion Thief,Scute Swarm,0.0
+4.0,1,0,0,0,0,0,0,0,0,1,0.0,1,233.0,0,Notion Thief,Pitiless Plunderer,0.0
+5.0,1,0,0,0,0,0,0,0,0,1,1.0,1,242.0,0,Notion Thief,Gray Merchant of Asphodel,0.0
+5.0,1,0,0,0,0,0,0,0,0,1,1.0,1,247.0,0,Notion Thief,"Syr Konrad, the Grim",0.0
+4.0,1,0,0,1,0,0,1,1,0,0,1.0,1,36.0,0,Whirlpool Warrior,Solemn Simulacrum,0.0
+3.0,1,0,0,0,0,0,0,0,0,1,0.0,1,99.0,0,Whirlpool Warrior,Eternal Witness,0.0
+2.0,1,0,0,0,0,0,0,1,0,1,-1.0,1,107.0,0,Whirlpool Warrior,Sakura-Tribe Elder,0.0
+4.0,1,0,0,1,0,0,0,0,0,0,1.0,1,128.0,0,Whirlpool Warrior,Roaming Throne,0.0
+2.0,1,0,0,0,0,0,0,0,0,1,-1.0,1,144.0,0,Whirlpool Warrior,Blood Artist,0.0
+3.0,1,0,0,0,0,0,0,0,0,1,0.0,1,177.0,0,Whirlpool Warrior,Tireless Provisioner,0.0
+4.0,1,0,0,0,0,0,1,0,0,1,1.0,1,198.0,0,Whirlpool Warrior,Beast Whisperer,0.0
+4.0,1,0,0,0,0,0,0,0,0,1,1.0,1,223.0,0,Whirlpool Warrior,Mirkwood Bats,0.0
+2.0,1,0,0,1,0,0,0,0,0,0,-1.0,1,224.0,0,Whirlpool Warrior,Ornithopter of Paradise,0.0
+3.0,1,0,0,0,0,0,0,0,0,1,0.0,1,225.0,0,Whirlpool Warrior,Scute Swarm,0.0
+4.0,1,0,0,1,0,0,1,1,0,0,0.0,1,36.0,0,"Thassa, Deep-Dwelling",Solemn Simulacrum,0.0
+3.0,1,0,0,0,0,0,0,0,0,1,-1.0,1,99.0,0,"Thassa, Deep-Dwelling",Eternal Witness,0.0
+4.0,1,0,0,1,0,0,0,0,0,0,0.0,1,128.0,0,"Thassa, Deep-Dwelling",Roaming Throne,0.0
+3.0,1,0,0,0,0,0,0,0,0,1,-1.0,1,177.0,0,"Thassa, Deep-Dwelling",Tireless Provisioner,0.0
+4.0,1,0,0,0,0,0,1,0,0,1,0.0,1,198.0,0,"Thassa, Deep-Dwelling",Beast Whisperer,0.0
+4.0,1,0,0,0,0,0,0,0,0,1,0.0,1,223.0,0,"Thassa, Deep-Dwelling",Mirkwood Bats,0.0
+3.0,1,0,0,0,0,0,0,0,0,1,-1.0,1,225.0,0,"Thassa, Deep-Dwelling",Scute Swarm,0.0
+4.0,1,0,0,0,0,0,0,0,0,1,0.0,1,233.0,0,"Thassa, Deep-Dwelling",Pitiless Plunderer,0.0
+5.0,1,0,0,0,0,0,0,0,0,1,1.0,1,242.0,0,"Thassa, Deep-Dwelling",Gray Merchant of Asphodel,0.0
+5.0,1,0,0,0,0,0,0,0,0,1,1.0,1,247.0,0,"Thassa, Deep-Dwelling","Syr Konrad, the Grim",0.0
+1.0,1,0,0,0,0,0,0,0,0,1,-1.0,1,33.0,0,Gilded Drake,Birds of Paradise,0.0
+1.0,1,0,0,0,0,1,0,0,0,1,-1.0,1,62.0,0,Gilded Drake,Llanowar Elves,0.0
+1.0,1,0,0,1,0,0,1,0,0,1,-1.0,1,75.0,0,Gilded Drake,Esper Sentinel,0.0
+3.0,1,0,0,0,0,0,0,0,0,1,1.0,1,99.0,0,Gilded Drake,Eternal Witness,0.0
+2.0,1,0,0,0,0,0,0,1,0,1,0.0,1,107.0,0,Gilded Drake,Sakura-Tribe Elder,0.0
+1.0,1,0,0,0,0,1,0,0,0,1,-1.0,1,109.0,0,Gilded Drake,Elvish Mystic,0.0
+2.0,1,0,0,0,0,0,0,0,0,1,0.0,1,144.0,0,Gilded Drake,Blood Artist,0.0
+1.0,1,0,0,0,0,1,0,0,0,1,-1.0,1,157.0,0,Gilded Drake,Delighted Halfling,0.0
+3.0,1,0,0,0,0,0,0,0,0,1,1.0,1,177.0,0,Gilded Drake,Tireless Provisioner,0.0
+1.0,1,0,0,0,0,1,0,0,0,1,-1.0,1,212.0,0,Gilded Drake,Fyndhorn Elves,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,0.0,1,11.0,0,Strix Serenade,Swords to Plowshares,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,0.0,1,15.0,0,Strix Serenade,Path to Exile,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,16.0,0,Strix Serenade,Counterspell,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,32.0,0,Strix Serenade,Heroic Intervention,0.0
+1.0,0,1,0,0,0,1,0,0,0,1,0.0,1,34.0,0,Strix Serenade,Dark Ritual,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,0.0,1,37.0,0,Strix Serenade,An Offer You Can't Refuse,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,50.0,0,Strix Serenade,Cyclonic Rift,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,53.0,0,Strix Serenade,Negate,0.0
+2.0,0,1,0,0,0,0,1,0,0,1,1.0,1,56.0,0,Strix Serenade,Arcane Denial,0.0
+1.0,0,1,0,0,0,0,1,0,0,1,0.0,1,69.0,0,Strix Serenade,Brainstorm,0.0
+3.0,0,0,0,0,1,0,1,0,0,1,0.0,1,40.0,0,Necropotence,Rhystic Study,0.0
+4.0,0,0,0,0,1,0,1,0,0,1,1.0,1,59.0,0,Necropotence,Smothering Tithe,0.0
+3.0,0,0,0,0,1,0,1,0,0,1,0.0,1,92.0,0,Necropotence,Garruk's Uprising,0.0
+3.0,0,0,0,0,1,0,1,0,0,1,0.0,1,96.0,0,Necropotence,Phyrexian Arena,0.0
+3.0,0,0,0,0,1,0,0,0,0,1,0.0,1,120.0,0,Necropotence,Propaganda,0.0
+3.0,0,0,0,0,1,0,1,0,0,1,0.0,1,133.0,0,Necropotence,Black Market Connections,0.0
+3.0,0,0,0,0,1,0,0,0,0,1,0.0,1,168.0,0,Necropotence,Ghostly Prison,0.0
+2.0,0,0,0,0,1,0,0,0,0,1,-1.0,1,228.0,0,Necropotence,Animate Dead,0.0
+2.0,0,0,0,0,1,0,1,0,0,1,-1.0,1,255.0,0,Necropotence,Sylvan Library,0.0
+3.0,1,0,0,0,1,0,0,0,0,1,0.0,0,284.0,0,Necropotence,Dryad of the Ilysian Grove,0.0
+3.0,0,0,0,0,1,0,1,0,0,1,1.0,1,40.0,0,Sylvan Library,Rhystic Study,0.0
+3.0,0,0,0,0,1,0,1,0,0,1,1.0,1,92.0,0,Sylvan Library,Garruk's Uprising,0.0
+1.0,0,0,0,0,1,0,1,0,0,1,-1.0,1,94.0,0,Sylvan Library,Mystic Remora,0.0
+3.0,0,0,0,0,1,0,1,0,0,1,1.0,1,96.0,0,Sylvan Library,Phyrexian Arena,0.0
+3.0,0,0,0,0,1,0,0,0,0,1,1.0,1,120.0,0,Sylvan Library,Propaganda,0.0
+3.0,0,0,0,0,1,0,1,0,0,1,1.0,1,133.0,0,Sylvan Library,Black Market Connections,0.0
+3.0,0,0,0,0,1,0,0,0,0,1,1.0,1,168.0,0,Sylvan Library,Ghostly Prison,0.0
+1.0,0,0,0,0,1,0,0,0,0,1,-1.0,1,201.0,0,Sylvan Library,Hardened Scales,0.0
+1.0,0,0,0,0,1,0,0,0,0,1,-1.0,1,203.0,0,Sylvan Library,Wild Growth,0.0
+2.0,0,0,0,0,1,0,0,0,0,1,0.0,1,228.0,0,Sylvan Library,Animate Dead,0.0
+3.0,0,0,0,0,1,0,1,0,0,1,-1.0,1,40.0,0,Smothering Tithe,Rhystic Study,0.0
+3.0,0,0,0,0,1,0,1,0,0,1,-1.0,1,92.0,0,Smothering Tithe,Garruk's Uprising,0.0
+3.0,0,0,0,0,1,0,1,0,0,1,-1.0,1,96.0,0,Smothering Tithe,Phyrexian Arena,0.0
+3.0,0,0,0,0,1,0,0,0,0,1,-1.0,1,120.0,0,Smothering Tithe,Propaganda,0.0
+3.0,0,0,0,0,1,0,1,0,0,1,-1.0,1,133.0,0,Smothering Tithe,Black Market Connections,0.0
+3.0,0,0,0,0,1,0,0,0,0,1,-1.0,1,168.0,0,Smothering Tithe,Ghostly Prison,0.0
+5.0,0,0,0,0,1,0,0,0,0,1,1.0,1,207.0,0,Smothering Tithe,Doubling Season,0.0
+3.0,1,0,0,0,1,0,0,0,0,1,-1.0,0,284.0,0,Smothering Tithe,Dryad of the Ilysian Grove,0.0
+4.0,0,0,0,0,1,0,1,0,0,1,0.0,1,297.0,0,Smothering Tithe,Guardian Project,0.0
+3.0,0,0,0,0,1,0,0,0,0,1,-1.0,1,335.0,0,Smothering Tithe,Bastion of Remembrance,0.0
+4.0,0,0,0,0,1,0,1,0,0,1,1.0,1,59.0,0,Rhystic Study,Smothering Tithe,0.0
+3.0,0,0,0,0,1,0,1,0,0,1,0.0,1,92.0,0,Rhystic Study,Garruk's Uprising,0.0
+3.0,0,0,0,0,1,0,1,0,0,1,0.0,1,96.0,0,Rhystic Study,Phyrexian Arena,0.0
+3.0,0,0,0,0,1,0,0,0,0,1,0.0,1,120.0,0,Rhystic Study,Propaganda,0.0
+3.0,0,0,0,0,1,0,1,0,0,1,0.0,1,133.0,0,Rhystic Study,Black Market Connections,0.0
+3.0,0,0,0,0,1,0,0,0,0,1,0.0,1,168.0,0,Rhystic Study,Ghostly Prison,0.0
+2.0,0,0,0,0,1,0,0,0,0,1,-1.0,1,228.0,0,Rhystic Study,Animate Dead,0.0
+2.0,0,0,0,0,1,0,1,0,0,1,-1.0,1,255.0,0,Rhystic Study,Sylvan Library,0.0
+3.0,1,0,0,0,1,0,0,0,0,1,0.0,0,284.0,0,Rhystic Study,Dryad of the Ilysian Grove,0.0
+4.0,0,0,0,0,1,0,1,0,0,1,1.0,1,297.0,0,Rhystic Study,Guardian Project,0.0
+0.0,0,0,0,0,1,1,1,1,0,0,-1.0,1,119.0,1,Mystic Remora,Urza's Saga,0.04
+1.0,0,0,0,0,1,0,0,0,0,1,0.0,1,201.0,0,Mystic Remora,Hardened Scales,0.0
+1.0,0,0,0,0,1,0,0,0,0,1,0.0,1,203.0,0,Mystic Remora,Wild Growth,0.0
+2.0,0,0,0,0,1,0,0,0,0,1,1.0,1,228.0,0,Mystic Remora,Animate Dead,0.0
+2.0,0,0,0,0,1,0,1,0,0,1,1.0,1,255.0,0,Mystic Remora,Sylvan Library,0.0
+1.0,0,0,0,0,1,0,0,0,0,1,0.0,1,286.0,0,Mystic Remora,Exploration,0.0
+1.0,0,0,0,0,1,0,0,0,0,1,0.0,1,333.0,0,Mystic Remora,Utopia Sprawl,0.0
+1.0,0,0,0,0,1,0,0,0,0,1,0.0,1,387.0,0,Mystic Remora,Authority of the Consuls,0.0
+1.0,0,0,0,0,1,0,0,1,0,1,0.0,1,416.0,0,Mystic Remora,Land Tax,0.0
+2.0,0,0,0,0,1,0,0,0,0,1,1.0,1,468.0,0,Mystic Remora,Blind Obedience,0.0
+4.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,115.0,1,Force of Will,Deadly Rollick,0.0
+5.0,0,1,0,0,0,0,1,0,0,1,0.0,1,174.0,0,Force of Will,Return of the Wildspeaker,0.0
+4.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,204.0,0,Force of Will,Akroma's Will,0.0
+4.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,230.0,0,Force of Will,Fell the Profane // Fell Mire,0.0
+4.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,316.0,0,Force of Will,Aetherize,0.0
+4.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,532.0,0,Force of Will,Mindbreak Trap,0.0
+4.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,589.0,0,Force of Will,Second Harvest,0.0
+4.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,640.0,0,Force of Will,Fact or Fiction,0.0
+4.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,654.0,0,Force of Will,Clever Concealment,0.0
+4.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,754.0,0,Force of Will,Flare of Fortitude,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,16.0,0,Force of Negation,Counterspell,0.0
+3.0,0,1,0,0,0,0,0,0,0,1,0.0,1,24.0,0,Force of Negation,Beast Within,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,32.0,0,Force of Negation,Heroic Intervention,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,50.0,0,Force of Negation,Cyclonic Rift,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,53.0,0,Force of Negation,Negate,0.0
+3.0,0,1,0,0,0,0,0,0,0,1,0.0,1,55.0,0,Force of Negation,Generous Gift,0.0
+2.0,0,1,0,0,0,0,1,0,0,1,-1.0,1,56.0,0,Force of Negation,Arcane Denial,0.0
+3.0,0,1,0,0,0,0,0,0,0,1,0.0,1,78.0,1,Force of Negation,Fierce Guardianship,0.0
+3.0,0,1,0,0,0,0,0,0,0,1,0.0,1,100.0,0,Force of Negation,Teferi's Protection,0.0
+3.0,0,1,0,0,0,0,1,0,0,1,0.0,1,112.0,0,Force of Negation,Frantic Search,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,11.0,0,Mana Drain,Swords to Plowshares,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,15.0,0,Mana Drain,Path to Exile,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,0.0,1,16.0,0,Mana Drain,Counterspell,0.0
+3.0,0,1,0,0,0,0,0,0,0,1,1.0,1,24.0,0,Mana Drain,Beast Within,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,0.0,1,32.0,0,Mana Drain,Heroic Intervention,0.0
+1.0,0,1,0,0,0,1,0,0,0,1,-1.0,1,34.0,0,Mana Drain,Dark Ritual,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,37.0,0,Mana Drain,An Offer You Can't Refuse,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,0.0,1,50.0,0,Mana Drain,Cyclonic Rift,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,0.0,1,53.0,0,Mana Drain,Negate,0.0
+3.0,0,1,0,0,0,0,0,0,0,1,1.0,1,55.0,0,Mana Drain,Generous Gift,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,11.0,0,Counterspell,Swords to Plowshares,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,15.0,0,Counterspell,Path to Exile,0.0
+3.0,0,1,0,0,0,0,0,0,0,1,1.0,1,24.0,0,Counterspell,Beast Within,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,0.0,1,32.0,0,Counterspell,Heroic Intervention,0.0
+1.0,0,1,0,0,0,1,0,0,0,1,-1.0,1,34.0,0,Counterspell,Dark Ritual,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,37.0,0,Counterspell,An Offer You Can't Refuse,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,0.0,1,50.0,0,Counterspell,Cyclonic Rift,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,0.0,1,53.0,0,Counterspell,Negate,0.0
+3.0,0,1,0,0,0,0,0,0,0,1,1.0,1,55.0,0,Counterspell,Generous Gift,0.0
+2.0,0,1,0,0,0,0,1,0,0,1,0.0,1,56.0,0,Counterspell,Arcane Denial,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,0.0,1,11.0,0,Flusterstorm,Swords to Plowshares,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,0.0,1,15.0,0,Flusterstorm,Path to Exile,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,16.0,0,Flusterstorm,Counterspell,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,32.0,0,Flusterstorm,Heroic Intervention,0.0
+1.0,0,1,0,0,0,1,0,0,0,1,0.0,1,34.0,0,Flusterstorm,Dark Ritual,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,0.0,1,37.0,0,Flusterstorm,An Offer You Can't Refuse,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,50.0,0,Flusterstorm,Cyclonic Rift,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,53.0,0,Flusterstorm,Negate,0.0
+2.0,0,1,0,0,0,0,1,0,0,1,1.0,1,56.0,0,Flusterstorm,Arcane Denial,0.0
+1.0,0,1,0,0,0,0,1,0,0,1,0.0,1,69.0,0,Flusterstorm,Brainstorm,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,0.0,1,11.0,0,Swan Song,Swords to Plowshares,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,0.0,1,15.0,0,Swan Song,Path to Exile,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,16.0,0,Swan Song,Counterspell,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,32.0,0,Swan Song,Heroic Intervention,0.0
+1.0,0,1,0,0,0,1,0,0,0,1,0.0,1,34.0,0,Swan Song,Dark Ritual,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,0.0,1,37.0,0,Swan Song,An Offer You Can't Refuse,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,50.0,0,Swan Song,Cyclonic Rift,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,53.0,0,Swan Song,Negate,0.0
+2.0,0,1,0,0,0,0,1,0,0,1,1.0,1,56.0,0,Swan Song,Arcane Denial,0.0
+1.0,0,1,0,0,0,0,1,0,0,1,0.0,1,69.0,0,Swan Song,Brainstorm,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,1.0,1,11.0,0,Pact of Negation,Swords to Plowshares,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,1.0,1,15.0,0,Pact of Negation,Path to Exile,0.0
+1.0,0,1,0,0,0,1,0,0,0,1,1.0,1,34.0,0,Pact of Negation,Dark Ritual,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,1.0,1,37.0,0,Pact of Negation,An Offer You Can't Refuse,0.0
+1.0,0,1,0,0,0,0,1,0,0,1,1.0,1,69.0,0,Pact of Negation,Brainstorm,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,1.0,1,74.0,0,Pact of Negation,Swan Song,0.0
+1.0,0,1,0,0,0,0,0,1,0,1,1.0,1,108.0,0,Pact of Negation,Vampiric Tutor,0.0
+1.0,0,1,0,0,0,0,0,1,0,1,1.0,1,117.0,0,Pact of Negation,Enlightened Tutor,0.0
+1.0,0,1,0,0,0,0,0,1,0,1,1.0,1,140.0,0,Pact of Negation,Mystical Tutor,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,1.0,1,160.0,0,Pact of Negation,Pongify,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,0.0,1,11.0,0,Mental Misstep,Swords to Plowshares,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,0.0,1,15.0,0,Mental Misstep,Path to Exile,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,16.0,0,Mental Misstep,Counterspell,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,32.0,0,Mental Misstep,Heroic Intervention,0.0
+1.0,0,1,0,0,0,1,0,0,0,1,0.0,1,34.0,0,Mental Misstep,Dark Ritual,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,0.0,1,37.0,0,Mental Misstep,An Offer You Can't Refuse,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,50.0,0,Mental Misstep,Cyclonic Rift,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,53.0,0,Mental Misstep,Negate,0.0
+2.0,0,1,0,0,0,0,1,0,0,1,1.0,1,56.0,0,Mental Misstep,Arcane Denial,0.0
+1.0,0,1,0,0,0,0,1,0,0,1,0.0,1,69.0,0,Mental Misstep,Brainstorm,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,16.0,0,Fierce Guardianship,Counterspell,0.0
+3.0,0,1,0,0,0,0,0,0,0,1,0.0,1,24.0,0,Fierce Guardianship,Beast Within,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,32.0,0,Fierce Guardianship,Heroic Intervention,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,50.0,0,Fierce Guardianship,Cyclonic Rift,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,53.0,0,Fierce Guardianship,Negate,0.0
+3.0,0,1,0,0,0,0,0,0,0,1,0.0,1,55.0,0,Fierce Guardianship,Generous Gift,0.0
+2.0,0,1,0,0,0,0,1,0,0,1,-1.0,1,56.0,0,Fierce Guardianship,Arcane Denial,0.0
+3.0,0,1,0,0,0,0,0,0,0,1,0.0,1,100.0,0,Fierce Guardianship,Teferi's Protection,0.0
+3.0,0,1,0,0,0,0,1,0,0,1,0.0,1,112.0,0,Fierce Guardianship,Frantic Search,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,114.0,0,Fierce Guardianship,Mana Drain,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,0.0,1,11.0,0,Spell Pierce,Swords to Plowshares,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,0.0,1,15.0,0,Spell Pierce,Path to Exile,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,16.0,0,Spell Pierce,Counterspell,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,32.0,0,Spell Pierce,Heroic Intervention,0.0
+1.0,0,1,0,0,0,1,0,0,0,1,0.0,1,34.0,0,Spell Pierce,Dark Ritual,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,0.0,1,37.0,0,Spell Pierce,An Offer You Can't Refuse,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,50.0,0,Spell Pierce,Cyclonic Rift,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,53.0,0,Spell Pierce,Negate,0.0
+2.0,0,1,0,0,0,0,1,0,0,1,1.0,1,56.0,0,Spell Pierce,Arcane Denial,0.0
+1.0,0,1,0,0,0,0,1,0,0,1,0.0,1,69.0,0,Spell Pierce,Brainstorm,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,11.0,0,Winds of Rebuke,Swords to Plowshares,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,15.0,0,Winds of Rebuke,Path to Exile,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,0.0,1,16.0,0,Winds of Rebuke,Counterspell,0.0
+3.0,0,1,0,0,0,0,0,0,0,1,1.0,1,24.0,0,Winds of Rebuke,Beast Within,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,0.0,1,32.0,0,Winds of Rebuke,Heroic Intervention,0.0
+1.0,0,1,0,0,0,1,0,0,0,1,-1.0,1,34.0,0,Winds of Rebuke,Dark Ritual,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,-1.0,1,37.0,0,Winds of Rebuke,An Offer You Can't Refuse,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,0.0,1,50.0,0,Winds of Rebuke,Cyclonic Rift,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,0.0,1,53.0,0,Winds of Rebuke,Negate,0.0
+3.0,0,1,0,0,0,0,0,0,0,1,1.0,1,55.0,0,Winds of Rebuke,Generous Gift,0.0
+3.0,0,0,1,0,0,0,0,1,0,1,1.0,1,20.0,0,Demonic Tutor,Cultivate,-0.2
+2.0,0,0,1,0,0,0,0,1,0,1,0.0,1,22.0,0,Demonic Tutor,Farseek,-0.2
+2.0,0,0,1,0,0,0,0,1,0,1,0.0,1,26.0,0,Demonic Tutor,Rampant Growth,-0.2
+2.0,0,0,1,0,0,0,0,1,0,1,0.0,1,30.0,0,Demonic Tutor,Nature's Lore,-0.2
+3.0,0,0,1,0,0,0,0,1,0,1,1.0,1,35.0,0,Demonic Tutor,Kodama's Reach,-0.2
+2.0,0,0,1,0,0,0,0,1,0,1,0.0,1,45.0,0,Demonic Tutor,Three Visits,-0.2
+1.0,0,0,1,0,0,0,0,0,0,1,-1.0,1,57.0,0,Demonic Tutor,Reanimate,-0.2
+3.0,0,0,1,0,0,0,0,0,0,1,1.0,1,66.0,0,Demonic Tutor,Toxic Deluge,-0.2
+2.0,0,0,1,0,0,0,0,0,0,1,0.0,1,89.0,0,Demonic Tutor,Feed the Swarm,-0.2
+3.0,0,0,1,0,0,0,0,0,0,1,1.0,1,129.0,0,Demonic Tutor,Victimize,-0.2
+1.0,0,1,0,0,0,0,0,0,0,1,0.0,1,11.0,0,Vampiric Tutor,Swords to Plowshares,-0.2
+1.0,0,1,0,0,0,0,0,0,0,1,0.0,1,15.0,0,Vampiric Tutor,Path to Exile,-0.2
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,16.0,0,Vampiric Tutor,Counterspell,-0.2
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,32.0,0,Vampiric Tutor,Heroic Intervention,-0.2
+1.0,0,1,0,0,0,1,0,0,0,1,0.0,1,34.0,0,Vampiric Tutor,Dark Ritual,-0.2
+1.0,0,1,0,0,0,0,0,0,0,1,0.0,1,37.0,0,Vampiric Tutor,An Offer You Can't Refuse,-0.2
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,50.0,0,Vampiric Tutor,Cyclonic Rift,-0.2
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,53.0,0,Vampiric Tutor,Negate,-0.2
+2.0,0,1,0,0,0,0,1,0,0,1,1.0,1,56.0,0,Vampiric Tutor,Arcane Denial,-0.2
+1.0,0,1,0,0,0,0,1,0,0,1,0.0,1,69.0,0,Vampiric Tutor,Brainstorm,-0.2
+2.0,0,0,1,0,0,0,0,1,0,1,1.0,1,22.0,0,Imperial Seal,Farseek,-0.2
+2.0,0,0,1,0,0,0,0,1,0,1,1.0,1,26.0,0,Imperial Seal,Rampant Growth,-0.2
+2.0,0,0,1,0,0,0,0,1,0,1,1.0,1,30.0,0,Imperial Seal,Nature's Lore,-0.2
+2.0,0,0,1,0,0,0,0,1,0,1,1.0,1,45.0,0,Imperial Seal,Three Visits,-0.2
+1.0,0,0,1,0,0,0,0,0,0,1,0.0,1,57.0,0,Imperial Seal,Reanimate,-0.2
+2.0,0,0,1,0,0,0,0,1,0,1,1.0,1,58.0,0,Imperial Seal,Demonic Tutor,-0.2
+2.0,0,0,1,0,0,0,0,0,0,1,1.0,1,89.0,0,Imperial Seal,Feed the Swarm,-0.2
+1.0,0,0,1,0,0,0,1,0,0,1,0.0,1,147.0,0,Imperial Seal,Ponder,-0.2
+2.0,0,0,1,0,0,0,1,0,0,1,1.0,1,192.0,0,Imperial Seal,Night's Whisper,-0.2
+1.0,0,0,1,0,0,0,1,0,0,1,0.0,1,218.0,0,Imperial Seal,Preordain,-0.2
+1.0,0,1,0,0,0,0,0,0,0,1,0.0,1,11.0,0,Mystical Tutor,Swords to Plowshares,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,0.0,1,15.0,0,Mystical Tutor,Path to Exile,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,16.0,0,Mystical Tutor,Counterspell,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,32.0,0,Mystical Tutor,Heroic Intervention,0.0
+1.0,0,1,0,0,0,1,0,0,0,1,0.0,1,34.0,0,Mystical Tutor,Dark Ritual,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,0.0,1,37.0,0,Mystical Tutor,An Offer You Can't Refuse,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,50.0,0,Mystical Tutor,Cyclonic Rift,0.0
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,53.0,0,Mystical Tutor,Negate,0.0
+2.0,0,1,0,0,0,0,1,0,0,1,1.0,1,56.0,0,Mystical Tutor,Arcane Denial,0.0
+1.0,0,1,0,0,0,0,1,0,0,1,0.0,1,69.0,0,Mystical Tutor,Brainstorm,0.0
+1.0,0,1,0,0,0,0,0,0,0,1,0.0,1,11.0,0,Enlightened Tutor,Swords to Plowshares,-0.04
+1.0,0,1,0,0,0,0,0,0,0,1,0.0,1,15.0,0,Enlightened Tutor,Path to Exile,-0.04
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,16.0,0,Enlightened Tutor,Counterspell,-0.04
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,32.0,0,Enlightened Tutor,Heroic Intervention,-0.04
+1.0,0,1,0,0,0,1,0,0,0,1,0.0,1,34.0,0,Enlightened Tutor,Dark Ritual,-0.04
+1.0,0,1,0,0,0,0,0,0,0,1,0.0,1,37.0,0,Enlightened Tutor,An Offer You Can't Refuse,-0.04
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,50.0,0,Enlightened Tutor,Cyclonic Rift,-0.04
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,53.0,0,Enlightened Tutor,Negate,-0.04
+2.0,0,1,0,0,0,0,1,0,0,1,1.0,1,56.0,0,Enlightened Tutor,Arcane Denial,-0.04
+1.0,0,1,0,0,0,0,1,0,0,1,0.0,1,69.0,0,Enlightened Tutor,Brainstorm,-0.04
+1.0,0,1,0,0,0,0,0,0,0,1,0.0,1,11.0,0,Worldly Tutor,Swords to Plowshares,-0.12
+1.0,0,1,0,0,0,0,0,0,0,1,0.0,1,15.0,0,Worldly Tutor,Path to Exile,-0.12
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,16.0,0,Worldly Tutor,Counterspell,-0.12
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,32.0,0,Worldly Tutor,Heroic Intervention,-0.12
+1.0,0,1,0,0,0,1,0,0,0,1,0.0,1,34.0,0,Worldly Tutor,Dark Ritual,-0.12
+1.0,0,1,0,0,0,0,0,0,0,1,0.0,1,37.0,0,Worldly Tutor,An Offer You Can't Refuse,-0.12
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,50.0,0,Worldly Tutor,Cyclonic Rift,-0.12
+2.0,0,1,0,0,0,0,0,0,0,1,1.0,1,53.0,0,Worldly Tutor,Negate,-0.12
+2.0,0,1,0,0,0,0,1,0,0,1,1.0,1,56.0,0,Worldly Tutor,Arcane Denial,-0.12
+1.0,0,1,0,0,0,0,1,0,0,1,0.0,1,69.0,0,Worldly Tutor,Brainstorm,-0.12
+1.0,0,0,0,1,0,1,0,0,0,0,-1.0,1,1.0,0,Arcane Signet,Sol Ring,0.0
+2.0,0,0,0,1,0,0,0,0,0,0,0.0,1,12.0,0,Arcane Signet,Swiftfoot Boots,0.0
+2.0,0,0,0,1,0,0,0,0,0,0,0.0,1,13.0,0,Arcane Signet,Lightning Greaves,0.0
+2.0,0,0,0,1,0,0,0,0,0,0,0.0,1,18.0,0,Arcane Signet,Fellwar Stone,0.0
+2.0,0,0,0,1,0,1,0,0,0,0,0.0,1,21.0,0,Arcane Signet,Thought Vessel,0.0
+2.0,0,0,0,1,0,1,1,0,0,0,0.0,1,31.0,0,Arcane Signet,Mind Stone,0.0
+3.0,0,0,0,1,0,0,1,0,0,0,1.0,1,39.0,0,Arcane Signet,Commander's Sphere,0.0
+1.0,0,0,0,1,0,0,1,0,0,0,-1.0,1,44.0,0,Arcane Signet,Skullclamp,0.0
+1.0,1,0,0,1,0,0,1,0,0,1,-1.0,0,75.0,0,Arcane Signet,Esper Sentinel,0.0
+3.0,0,0,0,1,0,0,0,0,0,0,1.0,1,79.0,0,Arcane Signet,Chromatic Lantern,0.0
+1.0,0,0,0,1,0,1,0,0,0,0,-1.0,1,1.0,0,Fellwar Stone,Sol Ring,0.0
+2.0,0,0,0,1,0,0,0,0,0,0,0.0,1,3.0,0,Fellwar Stone,Arcane Signet,0.0
+2.0,0,0,0,1,0,0,0,0,0,0,0.0,1,12.0,0,Fellwar Stone,Swiftfoot Boots,0.0
+2.0,0,0,0,1,0,0,0,0,0,0,0.0,1,13.0,0,Fellwar Stone,Lightning Greaves,0.0
+2.0,0,0,0,1,0,1,0,0,0,0,0.0,1,21.0,0,Fellwar Stone,Thought Vessel,0.0
+2.0,0,0,0,1,0,1,1,0,0,0,0.0,1,31.0,0,Fellwar Stone,Mind Stone,0.0
+3.0,0,0,0,1,0,0,1,0,0,0,1.0,1,39.0,0,Fellwar Stone,Commander's Sphere,0.0
+1.0,0,0,0,1,0,0,1,0,0,0,-1.0,1,44.0,0,Fellwar Stone,Skullclamp,0.0
+1.0,1,0,0,1,0,0,1,0,0,1,-1.0,0,75.0,0,Fellwar Stone,Esper Sentinel,0.0
+3.0,0,0,0,1,0,0,0,0,0,0,1.0,1,79.0,0,Fellwar Stone,Chromatic Lantern,0.0
+1.0,0,0,0,1,0,1,0,0,0,0,-1.0,1,1.0,0,Talisman of Dominance,Sol Ring,0.0
+2.0,0,0,0,1,0,0,0,0,0,0,0.0,1,3.0,0,Talisman of Dominance,Arcane Signet,0.0
+2.0,0,0,0,1,0,0,0,0,0,0,0.0,1,12.0,0,Talisman of Dominance,Swiftfoot Boots,0.0
+2.0,0,0,0,1,0,0,0,0,0,0,0.0,1,13.0,0,Talisman of Dominance,Lightning Greaves,0.0
+2.0,0,0,0,1,0,0,0,0,0,0,0.0,1,18.0,0,Talisman of Dominance,Fellwar Stone,0.0
+2.0,0,0,0,1,0,1,0,0,0,0,0.0,1,21.0,0,Talisman of Dominance,Thought Vessel,0.0
+2.0,0,0,0,1,0,1,1,0,0,0,0.0,1,31.0,0,Talisman of Dominance,Mind Stone,0.0
+3.0,0,0,0,1,0,0,1,0,0,0,1.0,1,39.0,0,Talisman of Dominance,Commander's Sphere,0.0
+1.0,0,0,0,1,0,0,1,0,0,0,-1.0,1,44.0,0,Talisman of Dominance,Skullclamp,0.0
+1.0,1,0,0,1,0,0,1,0,0,1,-1.0,0,75.0,0,Talisman of Dominance,Esper Sentinel,0.0
+1.0,0,0,0,1,0,1,0,0,0,0,-1.0,1,1.0,0,Talisman of Progress,Sol Ring,0.0
+2.0,0,0,0,1,0,0,0,0,0,0,0.0,1,3.0,0,Talisman of Progress,Arcane Signet,0.0
+2.0,0,0,0,1,0,0,0,0,0,0,0.0,1,12.0,0,Talisman of Progress,Swiftfoot Boots,0.0
+2.0,0,0,0,1,0,0,0,0,0,0,0.0,1,13.0,0,Talisman of Progress,Lightning Greaves,0.0
+2.0,0,0,0,1,0,0,0,0,0,0,0.0,1,18.0,0,Talisman of Progress,Fellwar Stone,0.0
+2.0,0,0,0,1,0,1,0,0,0,0,0.0,1,21.0,0,Talisman of Progress,Thought Vessel,0.0
+2.0,0,0,0,1,0,1,1,0,0,0,0.0,1,31.0,0,Talisman of Progress,Mind Stone,0.0
+3.0,0,0,0,1,0,0,1,0,0,0,1.0,1,39.0,0,Talisman of Progress,Commander's Sphere,0.0
+1.0,0,0,0,1,0,0,1,0,0,0,-1.0,1,44.0,0,Talisman of Progress,Skullclamp,0.0
+1.0,1,0,0,1,0,0,1,0,0,1,-1.0,0,75.0,0,Talisman of Progress,Esper Sentinel,0.0

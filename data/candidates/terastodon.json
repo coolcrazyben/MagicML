@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Avenger of Zendikar",
+    "type_line": "Creature \u2014 Elemental",
+    "mana_value": 7.0,
+    "mana_cost": "{5}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Craterhoof Behemoth",
+    "type_line": "Creature \u2014 Beast",
+    "mana_value": 8.0,
+    "mana_cost": "{5}{G}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Meteor Golem",
+    "type_line": "Artifact Creature \u2014 Golem",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Myr Battlesphere",
+    "type_line": "Artifact Creature \u2014 Myr Construct",
+    "mana_value": 7.0,
+    "mana_cost": "{7}",
+    "color_identity": []
+  },
+  {
+    "name": "Old Gnawbone",
+    "type_line": "Legendary Creature \u2014 Dragon",
+    "mana_value": 7.0,
+    "mana_cost": "{5}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Nyxbloom Ancient",
+    "type_line": "Enchantment Creature \u2014 Elemental",
+    "mana_value": 7.0,
+    "mana_cost": "{4}{G}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Ghalta, Stampede Tyrant",
+    "type_line": "Legendary Creature \u2014 Elder Dinosaur",
+    "mana_value": 8.0,
+    "mana_cost": "{5}{G}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Artisan of Kozilek",
+    "type_line": "Creature \u2014 Eldrazi",
+    "mana_value": 9.0,
+    "mana_cost": "{9}",
+    "color_identity": []
+  },
+  {
+    "name": "Zopandrel, Hunger Dominus",
+    "type_line": "Legendary Creature \u2014 Phyrexian Horror",
+    "mana_value": 7.0,
+    "mana_cost": "{5}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "End-Raze Forerunners",
+    "type_line": "Creature \u2014 Boar",
+    "mana_value": 8.0,
+    "mana_cost": "{5}{G}{G}{G}",
+    "color_identity": [
+      "G"
+    ]
+  }
+]
